@@ -153,13 +153,13 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
     </thead>
     <tbody>
         <tr>
-            <td>AZ, EN, RU Title</td>
-            <td>Azərbaycan, İngilis və Rus dilində başlıq</td>
+            <td>Title</td>
+            <td>Məlumat dəstinin adı</td>
             <td>Məlumat dəstinə aid təsviri bir başlıq.</td>
         </tr>
         <tr>
-            <td>AZ, EN, RU Description</td>
-            <td>Azərbaycan, İngilis və Rus dilində təsviri (açıqlaması)</td>
+            <td>Description</td>
+            <td>Məlumat dəstinin açıqlaması</td>
             <td>
                 Məlumat dəsti haqqında faydalı qeydlər.<br>
                 bu hissəsində məlumatın <strong>*yenilənmə tezliyi(Update Frequency)</strong> haqqında məlumat vermək vacibdir. Yenilənmə tezliyi məlumat dəstinin nə qədər zamandan bir yeniləndiyini bizə göstərir. <br>Nümunə: yenilənmə tezliyi = 1 ay, yenilənmə tezliyi = 3 saat.
@@ -210,32 +210,32 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             </td>
         </tr>
         <tr>
-            <td>AZ, EN, RU Author</td>
-            <td>Azərbaycan, İngilis və Rus dilində müəllifin adı</td>
-            <td>Məlumatların istehsalına cavabdeh olan şəxs və ya təşkilatın adı.</td>
+            <td>Author</td>
+            <td>Müəllifin Adı</td>
+            <td>Məlumatlardan cavabdeh olan şəxs və ya təşkilatın adı.</td>
         </tr>
         <tr>
             <td>Author Email</td>
             <td>Müəllifin e-poçtu</td>
-            <td>Məlumatların istehsalına cavabdeh olan şəxsin və ya təşkilatın elektron poçt ünvanı.</td>
+            <td>Məlumatlardan cavabdeh olan şəxsin və ya təşkilatın elektron poçt ünvanı.</td>
         </tr>
         <tr>
-            <td>AZ, EN, RU Maintainer</td>
-            <td>Azərbaycan, İngilis və Rus dilində Maintainerin adı</td>
-            <td>Lazım gəlsə, məlumatlara cavabdeh olan ikinci şəxs.</td>
+            <td>Maintainer</td>
+            <td>Maintainerin adı</td>
+            <td>Məlumatlara cavabdeh olan ikinci şəxs.</td>
         </tr>
         <tr>
             <td>Maintainer Email</td>
             <td>Maintainerin e-poçtu</td>
-            <td>Məlumat dəstinə cavabdeh şəxslə əlaqə üçün e-poçt ünvanı.</td>
+            <td>Məlumat dəstinə cavabdeh ikinci şəxslə əlaqə üçün e-poçt ünvanı.</td>
         </tr>
     </tbody>
 </table>
 
 Cədvəl 1
 
-1. Məlumat əlavə et **(Add Data)** düyməsinə klikləyərək məlumat yükləmə səhifəsinə keçin.
-2. Aşağıda verilmiş cədvəl əsasında məlumatlarınızı daxil edin.
+6. Məlumat əlavə et **(Add Data)** düyməsinə klikləyərək məlumat yükləmə səhifəsinə keçin.
+7. Aşağıda verilmiş cədvəl əsasında məlumatlarınızı daxil edin.
 
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
@@ -257,14 +257,14 @@ Cədvəl 1
             </td>
         </tr>
         <tr>
-            <td>AZ, EN, RU Name</td>
-            <td>Azərbaycan, İngilis və Rus dilində ad</td>
+            <td>Name</td>
+            <td> Resursun adı</td>
             <td>Resursun təsviri adı</td>
         </tr>
         <tr>
-            <td>AZ, EN, RU Description</td>
-            <td>Azərbaycan, İngilis və Rus dilində açıqlama</td>
-            <td>Resurs haqqında məlumat.</td>
+            <td>Description</td>
+            <td>Resursun açıqlamaı</td>
+            <td>Resurs haqqında fərqləndirici məlumatlar.</td>
         </tr>
         <tr>
             <td>Format</td>
@@ -277,7 +277,8 @@ Cədvəl 1
 
 Cədvəl 2
 
-1. Məlumatları yenidən nəzərdən keçirin və bitir **(Finish)** və ya yadda saxla və yenisini əlavə et **(Save & add another)**düyməsini basaraq əməliyyatı tamamlayın.
+8. Məlumatları yenidən nəzərdən keçirin və bitir **(Finish)** və ya yadda saxla və yenisini əlavə et **(Save & add another)**düyməsini basaraq əməliyyatı tamamlayın.
+##### Qeyd: bəzi bölmələrdə 3 dildə (Az, Ru, Eng) məlumat daxil olunası tələb olunur. Hər üç dildə məlumatların daxil edilməsi zəruridir.
 
 #### 1.3.1.1. Yeni Məlumat dəsti əlavə edərkən Create Dataset və Add Data bölmələrində yer alan Title/Description fərqi
 
@@ -287,27 +288,57 @@ _Add Data bölməsində isə hər bir əlavə edilən data file üçün ayrıca 
 
 #### 1.3.1.2. Məlumat idarəetmə sistemində yer alan məlumat dəstlərinin versiyalandırması məntiqi
 
-İştiakçılar təqdim etdikləri Məlumat dəstlərdə baş verən hər bir dəyişiklik növünü Məlumat dəstinin məzmununa və təsirinə görə **PATCH**, **MINOR**, və ya **MAJOR** versiyalandırma altında təsnif edilir.
+İştiakçılar təqdim etdikləri Məlumat dəstlərdə baş verən hər bir dəyişiklik növünü Məlumat dəstinin məzmununa və təsirinə görə **Xırda(PATCH)**, **Kiçik(MINOR)**, və ya **Böyük(MAJOR)** versiyalandırma altında təsnif edilir.
 
-**PATCH** dəyişikliklər Məlumat dəstində və ya Meta məlumatda **kiçik səhvlərin düzəldilməsi** üçün istifadə olunur. Məlumat dəstinin strukturu və əsas məzmunu dəyişməz qalır, bu da iştirakçıların Məlumat dəstindən istifadə alışqanlıqlarına təsir etmir.
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+    <thead>
+        <tr style="background-color: #d9e1f2; text-align: left;">
+            <th>Dəyişiklik Növü</th>
+            <th>Açıqlama və Nümunələr</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>PATCH</strong></td>
+            <td>
+                Dəyişikliklər Məlumat dəstində və ya Meta məlumatda <strong>kiçik səhvlərin düzəldilməsi</strong> üçün istifadə olunur. 
+                Məlumat dəstinin strukturu və əsas məzmunu dəyişməz qalır, bu da iştirakçıların Məlumat dəstindən istifadə alışqanlıqlarına təsir etmir.
+                <br><br>
+                <strong>Nümunə:</strong>
+                <ul>
+                    <li>"Yaş" sütununda 25-ci sətirdəki məlumat düzəldilir: <strong>28 → 27</strong>. Versiya: <strong>2.0.0 → 2.0.1</strong></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>MINOR</strong></td>
+            <td>
+                Dəyişikliklər Məlumat dəstinə <strong>yeni məlumat sütunu, mənbəsi əlavə etmək</strong> və ya <strong>böyük həcmdə məlumat sətirlərinin silinməsi, dəyişdirilməsi, əlavə edilməsi</strong> zamanı istifadə olunur. 
+                Bu dəyişikliklər mövcud strukturu pozmur, yəni uyğunluq qorunur.
+                <br><br>
+                <strong>Nümunə:</strong>
+                <ul>
+                    <li>"Ünvan" sütunu əlavə edilir. Versiya: <strong>2.0.0 → 2.1.0</strong></li>
+                    <li>Təhsil xərcləri Məlumat dəstinə 2024-cü il üzrə olan məlumatlar əlavə edilir. Versiya: <strong>2.1.0 → 2.2.0</strong></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>MAJOR</strong></td>
+            <td>
+                Dəyişikliklər Məlumat dəstinin <strong>strukturuna təsir edən dəyişiklikləri</strong> ifadə edir. 
+                Bu dəyişikliklərə Məlumat dəstinin bir sütunun silinməsi, formatının dəyişdirilməsi aid edilir ki, bu da iştirakçıların Məlumat dəstindən istifadə alışqanlıqlarına ciddi təsir göstərə bilər.
+                <br><br>
+                <strong>Nümunə:</strong>
+                <ul>
+                    <li>"Şəhər" sütunu silinir, yerinə "Bölgə" sütunu əlavə edilir. Versiya: <strong>2.0.0 → 3.0.0</strong></li>
+                    <li>Telefon nömrələri tam olaraq "+994" kodu ilə təqdim edilir. Versiya: <strong>3.0.0 → 4.0.0</strong></li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-Nümunə:  
-
-- "Yaş" sütununda 25 - ci sətirdəki məlumat düzəldilir  28 → 27. Versiya: 2.0.0 → 2.0.1
-
-**MINOR** dəyişikliklər Məlumat dəstinə **yeni məlumat sütunu, mənbəsi əlavə etmək** **və ya böyük həcmdə məlumat sətirlərinin silinməsi, dəyişdirlməsi, əlavə edilməsi** zamanı istifadə olunur. Bu dəyişikliklər mövcud strukturu pozmur, yəni uyğunluq qorunur.  
-
-Nümunə:  
-
-- "Ünvan" sütunu əlavə edilir. Versiya: 2.0.0 → 2.1.0
-- Təhsil xərcləri Məlumat dəstinə 2024 cü il üzrə olan məlumatlar əlavə edilir Versiya: 2.1.0 → 2.2.0
-
-**MAJOR** dəyişikliklər Məlumat dəstinin **strukturuna təsir edən dəyişiklikləri** ifadə edir. Bu dəyişikliklərə Məlumat dəstinin bir sütunun silinməsi, formatının dəyişdiriməsi aid edilirki, bu da iştirakçıların Məlumat dəstindən istifadə alışqanlıqlarına ciddi təsir göstərə bilər.
-
-Nümunə:
-
-- "Şəhər" sütunu silinir, yerinə "Bölgə" sütunu əlavə edilir. Versiya: 2.0.0 → 3.0.0
-- Telefon nömrələri tam olaraq "+994" kodu ilə təqdim edilir. Versiya: 3.0.0 → 4.0.0
 
 #### 1.3.1.3. Məlumat idarəetmə sistemində yer alan məlumat dəstlərinə tətbiq oluna biləcək lisenziyalar
 
