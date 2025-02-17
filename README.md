@@ -409,42 +409,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 
 ## 1.4. Mövcud Təşkilatı (Oganization) idarə edilməsi
 
-#### 1.4.1. Təşkilat məlumatlarının redaktə edilməsi
 
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
-2. Əsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.
-3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.
-4. Lazım olan sahələri aşağıdakı cədvək əsasında dəyişdirin.
-   <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-    <thead>
-        <tr style="background-color: #f2f2f2;">
-            <th>Metaməlumat<br>(İngiliscə)</th>
-            <th>Metaməlumat<br>(Azərbaycanca)</th>
-            <th>Açıqlaması</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Title</td>
-            <td>Başlıq</td>
-            <td>Təşkilatın adı</td>
-        </tr>
-        <tr>
-            <td>Description</td>
-            <td>Açıqlama</td>
-            <td>Təşkilat haqqında məlumat</td>
-        </tr>
-        <tr>
-            <td>Image</td>
-            <td>Şəkil</td>
-            <td>Təşkilatın şəkil və ya logosu. 43 x 43 piksel ölçüsündə olması məqsədə uyğundur.</td>
-        </tr>
-    </tbody>
-</table>
-
-cədvəl 3
-
-1. Yeniləmələrinizi nəzərdən keçirin və dəyişiklikləri saxlamaq üçün Təşkilatı yeniləyin **(Update Organization)** düyməsinə klikləyin.
 
 #### 1.4.2. Mövcud Təşkilatdakı memberləri (üzvləri) rollarını dəyişmək.
 
