@@ -538,7 +538,7 @@ Mövcud təşkilatı əgər içində heç bir məlumat dəsti mövcud deyilsə a
         <tr>
             <td>About</td>
             <td>Haqqında</td>
-            <td>İştirakçı özü haqqında məlumat yerləşdirə bilər.</td>
+            <td>İştirakçının təmsil etdiyi qurumdakı struktur bölməsi və vəzifəsi və.s haqqında məlumat verilsin.</td>
         </tr>
         <tr>
             <td>Profile picture</td>
