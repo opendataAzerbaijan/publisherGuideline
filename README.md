@@ -416,6 +416,36 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.
 4. Lazım olan sahələri aşağıdakı cədvək əsasında dəyişdirin.
 
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+    <thead>
+        <tr style="background-color: #d9e1f2; text-align: left;">
+            <th>Metaməlumat (İngiliscə)</th>
+            <th>Metaməlumat (Azərbaycanca)</th>
+            <th>Açıqlaması</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Title</td>
+            <td>Başlıq</td>
+            <td>Təşkilatın adı</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Açıqlama</td>
+            <td>Təşkilat haqqında məlumat</td>
+        </tr>
+        <tr>
+            <td>Image</td>
+            <td>Şəkil</td>
+            <td>Təşkilatın şəkil və ya <a href="#">logosu</a>. 43 x 43 piksel ölçüsündə olması məqsədə uyğundur.</td>
+        </tr>
+    </tbody>
+</table>
+
+Cədvəl 3
+
+
 5. Yeniləmələrinizi nəzərdən keçirin və dəyişiklikləri saxlamaq üçün Təşkilatı yeniləyin **(Update Organization)** düyməsinə klikləyin.
 
 #### 1.4.2. Mövcud Təşkilatdakı memberləri (üzvləri) rollarını dəyişmək.
