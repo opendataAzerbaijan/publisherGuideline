@@ -378,7 +378,47 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 
 ### 1.3.3. Mövcud məlumat dəstinin resurslarının idarə olunması
 
-#### 1.3.3.1.Mövcud Məlumat dəstinə yeni resurs əlavə etmək
+#### 1.3.3.1. Mövcud Məlumat dəstinə resursunun formatının təyin edilməsi.
+  Müxtəlif məlumat strukturları üçün fərqli fayl formatları nəzərə alınmalıdır. Əsas üç məlumat strukturu mövcuddur: cədvəl (tabular), iyerarxik (hierarchical) və şəbəkə (network).
+  <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+    <thead>
+        <tr style="background-color: #d9e1f2; text-align: left;">
+            <th>Məlumat Strukturu</th>
+            <th>Açıqlama</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Cədvəl (Tabular)</strong></td>
+            <td>
+                Məlumatların ən geniş yayılmış strukturu <strong>cədvəl formatıdır</strong>. Bu tip məlumatlar <strong>sətirlər və sütunlar</strong> şəklində təşkil edilir və ardıcıl dəyərləri ehtiva edir (məsələn, xərclər siyahısı).<br><br>
+                Əgər məlumatlar <strong>bir-biri ilə əlaqəli deyilsə</strong> və <strong>ayrı-ayrı qeydlərdən ibarətdirsə</strong>, <strong>CSV (Comma-Separated Values)</strong> kimi cədvəl formatı ən uyğun seçimdir.
+            </td>
+        </tr>
+        <tr>
+            <td><strong>İyerarxik (Hierarchical)</strong></td>
+            <td>
+                İyerarxik məlumat strukturu <strong>məlumat nöqtələri arasındakı əlaqələri</strong> göstərir. Buna <strong>ailə ağacı, ölkələrdəki bələdiyyələr və ya təşkilati strukturlar</strong> misal ola bilər.<br><br>
+                Əgər məlumatlar <strong>valideyn-övlad münasibəti əsasında</strong> qurulub və <strong>ağacvari (tree-like) bir quruluşa malikdirsə</strong>, <strong>JSON və ya XML formatı</strong> ideal seçimdir.
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Şəbəkə (Network)</strong></td>
+            <td>
+                Şəbəkə əsaslı məlumat strukturu <strong>istənilən elementlər arasında çoxsəviyyəli əlaqələrin</strong> mövcud olmasına imkan verir.<br><br>
+                Sosial şəbəkələr bu struktura yaxşı nümunədir. <strong>Facebook dostlarınızı və onların dostlarını düşünün</strong> – burada əlaqələr <strong>müxtəlif istiqamətlərdə</strong> mövcuddur. <strong>LinkedIn</strong>-də birinci, ikinci və üçüncü səviyyəli əlaqələri bu şəkildə təsvir etmək olar.<br><br>
+                İnternet də bir <strong>şəbəkə strukturlu məlumat sistemidir</strong>, çünki veb səhifələr bir çox digər səhifələrlə əlaqəlidir və bu əlaqələr müxtəlif istiqamətlərdə qurula bilər. Uyğun format olaraq <strong>RDF</strong> istifadə edilə bilər.<br><br>
+                <strong>Nümunə:</strong>
+                <ul>
+                    <li>Facebook və LinkedIn dostluq əlaqələri</li>
+                    <li>Veb-saytların hiperlinklərlə bir-birinə bağlanması</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+#### 1.3.3.2. Mövcud Məlumat dəstinə yeni resurs əlavə etmək
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
@@ -388,7 +428,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 6. Yeni resursun məlumatlarını **cədvəl 2** əsasında əlavə edin.
 7. Məlumatları yenidən nəzərdən keçirin və Əlavə et **(Add)** və ya Yadda saxla və yenisini əlavə et **(Save & add another)** düyməsini basaraq yayımlayın.
 
-#### 1.3.3.2 Mövcud Məlumat dəstinin resurs məlumatlarına düzəliş edilməsi
+#### 1.3.3.3. Mövcud Məlumat dəstinin resurs məlumatlarına düzəliş edilməsi
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
@@ -397,7 +437,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 5. Redaktə etmək istədiyiniz mövcud resursları **cədvəl 2** əsasında dəyişdirin.
 6. Yenilənmələri nəzərdən keçirin və tətbiq etmək üçün Resursları yenilə **(Update Resources)** düyməsini basın.
 
-#### 13.3.3. Məlumat dəstində mövcud resurs (məlumat faylını) silmək
+#### 13.3.4. Məlumat dəstində mövcud resurs (məlumat faylını) silmək
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
