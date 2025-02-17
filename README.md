@@ -162,7 +162,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             <td>Azərbaycan, İngilis və Rus dilində təsviri (açıqlaması)</td>
             <td>
                 Məlumat dəsti haqqında faydalı qeydlər.<br>
-                Description hissəsində məlumatın <strong>*yenilənmə tezliyi (*asas anlayışlar bölməsində terminə izah verilmişdir)</strong> haqqında məlumat vermək vacibdir.
+                bu hissəsində məlumatın <strong>*yenilənmə tezliyi(Update Frequency)</strong> haqqında məlumat vermək vacibdir. Yenilənmə tezliyi məlumat dəstinin nə qədər zamandan bir yeniləndiyini bizə göstərir. <br>Nümunə: yenilənmə tezliyi = 1 ay, yenilənmə tezliyi = 3 saat.
             </td>
         </tr>
         <tr>
@@ -377,6 +377,8 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 7. Təsdiq et **(Confirm)** düyməsini basaraq Məlumat dəstini silmə prosesini tamamlayın.
 
 ### 1.3.4. Mövcud Məlumat dəstinin əməkdaşların (Collaborators) idarə olunması
+
+Bu funksiyaya Məlumat dəsti səviyyəsində icazələrin idarə edilməsi təmin edilir. Bu zaman uyğun icazəsi olan əməkdaşlar, istənilən fərdi Məlumat dəsti üzərində verilən rola uyğun əməliyyatları icra edə bilirlər.
 
 #### 1.3.4.1. Mövcud Məlumat dəstinin əməkdaşların əlavə edilməsi
 
