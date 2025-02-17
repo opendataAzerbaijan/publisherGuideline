@@ -43,11 +43,11 @@ Aşağıdakı cədvəl sizə portalda yer alan Anlayışlar və biznes terminlə
             <td>Məlumat dəstləri və təşkilatlar üzərində aparılan son fəaliyyətlərin xronoloji siyahısı.</td>
         </tr>
         <tr>
-            <td>Member</td>
+            <td>Member (Üzv)</td>
             <td>Təşkilatın private (yalnızca məlumat idarəetmə sistemindən əlçatan olan) məlumat dəstlərini görə bilər.</td>
         </tr>
         <tr>
-            <td>Editor</td>
+            <td>Editor (Məlumat redaktoru)</td>
             <td>
                 <ul>
                     <li>Member-in bütün funksiyalarını yerinə yetirə bilər.</li>
@@ -62,7 +62,7 @@ Aşağıdakı cədvəl sizə portalda yer alan Anlayışlar və biznes terminlə
             </td>
         </tr>
         <tr>
-            <td>Admin</td>
+            <td>Admin (İdarəçi)</td>
             <td>
                 <ul>
                     <li>Editor-un bütün funksiyalarını yerinə yetirə bilər.</li>
