@@ -23,10 +23,6 @@ Aşağıdakı cədvəl sizə portalda yer alan Anlayışlar və biznes terminlə
             <td>Açıq şəkildə paylaşılan və hər kəsin istifadə edə biləcəyi məlumatlardır.</td>
         </tr>
         <tr>
-            <td>CKAN</td>
-            <td>Açıq mənbəli məlumat idarəetmə sistemi olub, məlumat dəstlərinin saxlanması, paylaşılması və yayımlanması üçün istifadə olunur.</td>
-        </tr>
-        <tr>
             <td>Metadata (Metaməlumatlar)</td>
             <td>Məlumat dəstləri haqqında məlumatları təsvir edən məlumatlar.</td>
         </tr>
@@ -82,39 +78,43 @@ Aşağıdakı cədvəl sizə portalda yer alan Anlayışlar və biznes terminlə
                 </ul>
             </td>
         </tr>
-        <tr>
-            <td>Collaborator (Əməkdaş)</td>
-            <td>Bu funksiyaya Məlumat dəsti səviyyəsində icazələrin idarə edilməsi təmin edilir. Bu zaman uyğun icazəsi olan Əməkdaşlar, istənilən fərdi Məlumat dəsti üzərində verilən rola uyğun əməliyyatları icra edə bilirlər.</td>
-        </tr>
-        <tr>
-            <td>Update frequency (Yenilənmə tezliyi)</td>
-            <td>Yenilənmə tezliyi məlumat dəstinin nə qədər zamandan bir yeniləndiyini bizə göstərir. <br>Nümunə: yenilənmə tezliyi = 1 ay, yenilənmə tezliyi = 3 saat.</td>
-        </tr>
     </tbody>
 </table>
 
 
 # Bölmələr
+Məlumat idarəetmə sistemində aşağıdakı əsas bölmələr yer alır.
 
-## Datasets – Məlumat dəstləri
-
-Datasets bölməsində məlumat idarəetmə sistemində yer alan bütün Məlumat dəstləri görmək, aid olduğu quruma Məlumat dəsti əlavə etmək, onları dəyişdirmək, silmək və digər əməliyyatları həyata keçirmək mümkündür.
-
-## Organizations - Təşkilatlar
-
-Hər bir Məlumat dəsti bir organization-a aiddir və onu həmin təşkilat idarə edir. Hər bir təşkilatda aşağıda yer alan İştirakçı rolları mövcuddur: Admin, Editor və Member
-
-## Groups - Kateqoriyalar
-
-Bu bölmə idarə etmə sistemində olan məlumat dəstlərinin kolleksiyalarını (kateqoriyalarını) yaratmaq və idarə etmək üçün istifadə olunur.
-
-## Data Requests - Məlumat Sorğuları
-
-Məlumat sorğusu (data request) bir təşkilatdan müəyyən məlumatın açıqlanması yöndə olan müraciətlərin toplandığı bölmədir.
-
-## Showcase - İstifadə Nümunələri
-
-Bu bölmə, məlumat dəstlərinin tətbiq olunma nümunələrini təqdim edir.
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+    <thead>
+        <tr style="background-color: #d9e1f2; text-align: left;">
+            <th>Bölmə</th>
+            <th>Açıqlaması</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Datasets – Məlumat dəstləri</td>
+            <td>Datasets bölməsində məlumat idarəetmə sistemində yer alan bütün Məlumat dəstləri görmək, aid olduğu quruma Məlumat dəsti əlavə etmək, onları dəyişdirmək, silmək və digər əməliyyatları həyata keçirmək mümkündür.</td>
+        </tr>
+        <tr>
+            <td>Organizations - Təşkilatlar</td>
+            <td>Hər bir Məlumat dəsti bir organization-a aiddir və onu həmin təşkilat idarə edir. Hər bir təşkilatda aşağıda yer alan İştirakçı rolları mövcuddur: Admin, Editor və Member.</td>
+        </tr>
+        <tr>
+            <td>Groups - Kateqoriyalar</td>
+            <td>Bu bölmə idarə etmə sistemində olan məlumat dəstlərinin kolleksiyalarını (kateqoriyalarını) yaratmaq və idarə etmək üçün istifadə olunur.</td>
+        </tr>
+        <tr>
+            <td>Data Requests - Məlumat Sorğuları</td>
+            <td>Məlumat sorğusu (data request) bir təşkilatdan müəyyən məlumatın açıqlanması yönündə olan müraciətlərin toplandığı bölmədir.</td>
+        </tr>
+        <tr>
+            <td>Showcase - İstifadə Nümunələri</td>
+            <td>Bu bölmə, məlumat dəstlərinin tətbiq olunma nümunələrini təqdim edir.</td>
+        </tr>
+    </tbody>
+</table>
 
 # 1\. Məlumat idarəetmə sisteminin istifadəsi
 
