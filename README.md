@@ -206,7 +206,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             <td>Version</td>
             <td>Versiya</td>
             <td>
-                Məlumat dəstinin cari versiyası. Versiyalandırma haqqında əlavə məlumatı 1.3.1.2 bölməsindən tanış ola bilərsiniz.
+                Məlumat dəstinin cari versiyası. Versiyalandırma haqqında əlavə məlumatı 1.3.1.2. bölməsindən tanış ola bilərsiniz.
             </td>
         </tr>
         <tr>
@@ -253,7 +253,7 @@ Cədvəl 1
                 Siz məlumat dəstinin resurslarını (mənbələrini) təyin edirsiniz. <br>
                 <strong>Upload</strong> və <strong>Link</strong> şəkilində iki seçim verilir.<br><br>
                 <strong>Upload:</strong> Komputerdə yer alan fayllarınız arasında seçim edirsiniz.<br><br>
-                <strong>Link:</strong> API linki şəkilində saxladığınız məlumatların linkini daxil edə bilərsiniz.
+                <strong>Link:</strong> API linki şəkilində saxladığınız məlumatların linkini daxil edə bilərsiniz. Açıq məlumat dəstinin formatının seçimi haqqında 1.3.3.1. bölməsindən daha ətraflı məlumat ala bilərsiniz.
             </td>
         </tr>
         <tr>
@@ -342,7 +342,7 @@ _Add Data bölməsində isə hər bir əlavə edilən data file üçün ayrıca 
 
 #### 1.3.1.3. Məlumat idarəetmə sistemində yer alan məlumat dəstlərinə tətbiq oluna biləcək lisenziyalar
 
-**1\. Creative Commons Attribution 4.0 Beynəlxalq (CC BY 4.0) Lisenziyası**
+**1\. Creative Commons Attribution 4.0 İnternational (CC BY 4.0) License - Kreativ Kommons Beynəlxalq Atributlaşdırma Lisenziyası**
 
 Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən məlumat dəstlərinin sərbəst istifadəsinə imkan yaradır və aşağıdakı şərtləri müəyyən edir:
 
@@ -353,7 +353,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 - **Texniki dəyişikliklərə icazə verilir** – Məlumat istənilən formata çevrilə bilər (CSV, SQL, JSON və s.), eləcə də müxtəlif proqramlarda istifadəsi mümkündür.
 - **Digər şərtləri ilə burden tanış ola bilərsiniz**: [Legal Code - Attribution 4.0 International - Creative Commons](https://creativecommons.org/licenses/by/4.0/legalcode)
 
-**2\. Creative Commons Zero (CC0) Lisenziyası**
+**2\. Creative Commons Zero (CC0) License - Kreativ Kommons Sıfır Lisenziyası**
 
 - Məzmuna dair bütün hüquqlardan imtina edildiyini və onun ictimai mülkiyyətə verildiyini ifadə edir. Məzmundan istənilən məqsədlə, məhdudiyyətsiz və istinadsız istifadə etmək mümkündür.
 
