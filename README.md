@@ -409,14 +409,13 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 
 ## 1.4. Mövcud Təşkilatı (Oganization) idarə edilməsi
 
-#### 1.4.1. Yeni təşkilatın yaradılması
+#### 1.4.1. Təşkilat məlumatlarının redaktə edilməsi
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.
-3. Təşkilat əlavə et **(Add Organization)** butonuna klikləyin.
-4. Açılan səhifədə lazım olan sahələri aşağıdakı cədvəl əsasında doldurun.
-
-<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.
+4. Lazım olan sahələri aşağıdakı cədvək əsasında dəyişdirin.
+   <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
         <tr style="background-color: #f2f2f2;">
             <th>Metaməlumat<br>(İngiliscə)</th>
@@ -442,41 +441,10 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
         </tr>
     </tbody>
 </table>
+cədvəl 3
+6. Yeniləmələrinizi nəzərdən keçirin və dəyişiklikləri saxlamaq üçün Təşkilatı yeniləyin **(Update Organization)** düyməsinə klikləyin.
 
-
-Cədvəl 3
-
-1. Məlumatları nəzərdən keçirin və təşkilatı yaradın **(Create Organization)** butonuna klikləyərək prosesi tamamlayın.
-
-#### 1.4.2. Təşkilat məlumatlarının redaktə edilməsi
-
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
-2. Əsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.
-3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.
-4. Lazım olan sahələri **cədvəl 3** əsasında dəyişdirin.
-5. Yeniləmələrinizi nəzərdən keçirin və dəyişiklikləri saxlamaq üçün Təşkilatı yeniləyin **(Update Organization)** düyməsinə klikləyin.
-
-#### 1.4.2. Mövcud təşkilatın silinməsi
-
-Mövcud təşkilatı əgər içində heç bir məlumat dəsti mövcud deyilsə aşağıdakı addımları izləyərək silmək mümkündür, əks halda silinmə prosesi mümkün olmayacaq.
-
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
-2. Əsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.
-3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.
-4. Silmək **(Delete)** butonuna basin.
-5. Açılan dialoq pəncərəsində Təsdiq edirəm **(Confirm)** butonuna basaraq prosesi tamamlayın.
-
-#### 1.4.3 Mövcud Təşkilata yeni member (üzv) əlavə etmək.
-
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
-2. Təşkilat Bölməsinə Keçid: Əsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.  
-3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.  
-4. Üzvlər **(Members)** bölməsini seçin.
-5. Üzv əlavə et **(Add Member)** butonuna klikləyin.
-6. Təşkilata əlavə etmək üçün Yeni iştirakçı **(New user)** hissəsini iştirakçının mailini və uyğun rolunu (Admin, Editor, Member) təyin edin.
-7. Üzv əlavə et **(Add Member)** butonuna klikləyərək yeni iştirakçını mövcud təşkilata dəvət edin.
-
-#### 1.4.4 Mövcud Təşkilatdakı memberləri (üzvləri) rollarını dəyişmək.
+#### 1.4.2. Mövcud Təşkilatdakı memberləri (üzvləri) rollarını dəyişmək.
 
 ##### Üsul 1
 
@@ -497,7 +465,7 @@ Mövcud təşkilatı əgər içində heç bir məlumat dəsti mövcud deyilsə a
 6. Mövcud iştirakçı **(Existing user)** hissəsindən iştirakçı adını tapıb rolunu (Admin, Editor, Member) olaraq dəyişdirin.olaraq dəyişdirin.
 7. Üzv əlavə et **(Add Member)** butonuna klikləyərək iştirakçının rolunu dəyişin.
 
-#### 1.4.5 Mövcud Təşkilatdakı memberləri (üzvləri) silmək.
+#### 1.4.3. Mövcud Təşkilatdakı memberləri (üzvləri) silmək.
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. İdarəetmə sisteminə girişƏsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.  
