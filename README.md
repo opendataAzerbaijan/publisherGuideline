@@ -409,7 +409,14 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 
 ## 1.4. Mövcud Təşkilatı (Oganization) idarə edilməsi
 
+#### 1.4.1. Təşkilat məlumatlarının redaktə edilməsi
 
+1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
+2. Əsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.
+3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.
+4. Lazım olan sahələri aşağıdakı cədvək əsasında dəyişdirin.
+
+5. Yeniləmələrinizi nəzərdən keçirin və dəyişiklikləri saxlamaq üçün Təşkilatı yeniləyin **(Update Organization)** düyməsinə klikləyin.
 
 #### 1.4.2. Mövcud Təşkilatdakı memberləri (üzvləri) rollarını dəyişmək.
 
@@ -486,7 +493,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 
 Cədvəl 4
 
-1. Profili yeniləyin **(Update Profile)** hissəsinə klik edərək İştirakçı profilinin redaktəsini tamamlaya bilərik.
+4. Profili yeniləyin **(Update Profile)** hissəsinə klik edərək İştirakçı profilinin redaktəsini tamamlaya bilərik.
 
 #### 1.5.2. İştirakçı Profilinin şifrəsinin dəyişdirilməsi
 
