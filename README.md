@@ -442,6 +442,9 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
     </tbody>
 </table>
 cədvəl 3
+
+
+
 6. Yeniləmələrinizi nəzərdən keçirin və dəyişiklikləri saxlamaq üçün Təşkilatı yeniləyin **(Update Organization)** düyməsinə klikləyin.
 
 #### 1.4.2. Mövcud Təşkilatdakı memberləri (üzvləri) rollarını dəyişmək.
