@@ -672,11 +672,11 @@ dir_path = '&lt;/your_directory_where_files_located&gt;'
 
     "title_translated-az": dataset_title, # title in Azerbaijani
 
-   "title_translated-en": title_en, # title in English
+    "title_translated-en": title_en, # title in English
 
-   "title_translated-ru": title_ru, # title in Russian
+    "title_translated-ru": title_ru, # title in Russian
 
-   "url": dataset_name,  # Easy practice to generate URL is using dataset name
+    "url": dataset_name,  # Easy practice to generate URL is using dataset name
 
     "owner_org": '9b44b52f-2116-48c8-9565-d9dc026dca8f',   # This ID is unique for each publisher  
 
@@ -714,7 +714,7 @@ resource_data = {
 
 
 
-}  
+    }  
 
 &nbsp;
 
