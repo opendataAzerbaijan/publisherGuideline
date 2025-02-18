@@ -686,7 +686,7 @@ dir_path = '&lt;/your_directory_where_files_located&gt;'
 
 &nbsp;       "private": False, # if set False, it will be publicly available in portal
 
-&nbsp;       "tag_string": directory_name  # Easy practice to generate TAG is using directory name
+    "tag_string": directory_name  # Easy practice to generate TAG is using directory name
 
     }
 
