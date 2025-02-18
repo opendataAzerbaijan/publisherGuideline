@@ -636,27 +636,27 @@ Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün 
 **1\. Məlumat idarəetmə sistemində API-ə qoşulma və faylları ehtiva edən mənbə qovluq.**
 
 
-\# CKAN instance main URL
-ckan_url = "<http://opendata-api.idda.az/api/3/action>"
+    # CKAN instance main URL
+    ckan_url = "<http://opendata-api.idda.az/api/3/action>"
 
-\# Package create – for creating dataset itself (without files, which later can contain any number of # files):
-resource_create_url = ckan_url + "/resource_create"
+    # Package create – for creating dataset itself (without files, which later can contain any number of # files):
+    resource_create_url = ckan_url + "/resource_create"
 
-\# Resource create – for adding specific file with data into already created CKAN dataset:
-package_create_url = ckan_url + "/package_create"
+    # Resource create – for adding specific file with data into already created CKAN dataset:
+    package_create_url = ckan_url + "/package_create"
 
-\# Title translations are optional
-trns_en = GoogleTranslator(source='az', target='en')
-trns_ru = GoogleTranslator(source='az', target='ru')
+    # Title translations are optional
+    trns_en = GoogleTranslator(source='az', target='en')
+    trns_ru = GoogleTranslator(source='az', target='ru')
 
-\# API key is unique for each publisher organization and generated/shared by CKAN Admin. Below is just an example
-api_key = ("eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJmN2ExYmMyY2QzZTRlNWY2YTZiN2M4ZDllMGYxYTIiLCJpYXQiOjE3MzM5MTI0MDF9.jgbfdY76kkk")
+    # API key is unique for each publisher organization and generated/shared by CKAN Admin. Below is just an example
+    api_key = ("eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJmN2ExYmMyY2QzZTRlNWY2YTZiN2M4ZDllMGYxYTIiLCJpYXQiOjE3MzM5MTI0MDF9.jgbfdY76kkk")
 
-\# Defining that authorisation is made by API key
-headers = {"Authorization": api_key}
+    # Defining that authorisation is made by API key
+    headers = {"Authorization": api_key}
 
-\# Your directory where required dataset files are located:
-dir_path = '&lt;/your_directory_where_files_located&gt;'
+    # Your directory where required dataset files are located:
+    dir_path = '&lt;/your_directory_where_files_located&gt;'
 
 &nbsp;
 
@@ -692,27 +692,25 @@ dir_path = '&lt;/your_directory_where_files_located&gt;'
 
 **3**. **Məlumat dəstində konkret faylın metaməlumatlarının doldurulması üçün element adları**.
 
-/# Get the package ID from the response. Package is created code above, before resource.
+    # Get the package ID from the response. Package is created code above, before resource.
 
-package_id = package_response.json()\["result"\]\["id"\]
+    package_id = package_response.json()\["result"\]\["id"\]
 
-/# Parameters for the resource
+    # Parameters for the resource
 
-resource_data = {
+    resource_data = {
 
-"package_id": package_id,
+    "package_id": package_id,
 
-"name": resource_name, # name of the file
+    "name": resource_name, # name of the file
 
-"format": 'CSV', # as your file extensions (csv, json,etc)
+    "format": 'CSV', # as your file extensions (csv, json,etc)
 
-"name_translated-az": resource_name,
+    "name_translated-az": resource_name,
 
-"name_translated-en":title_en, # name of the file in English
+    "name_translated-en":title_en, # name of the file in English
 
-"name_translated-ru":title_ru # name of the file in Russian
-
-
+    "name_translated-ru":title_ru # name of the file in Russian
 
     }  
 
