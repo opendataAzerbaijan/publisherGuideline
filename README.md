@@ -536,79 +536,10 @@ Bu funksiyaya Məlumat dəsti səviyyəsində icazələrin idarə edilməsi təm
 5. Silmək istədiyiniz iştirakçının qarşısındakı **X** butonuna klikləyin.
 6. Açılan dialoq qutusunda Təsdiq et **(Confirm)** butonuna klikləyərək prosesi tamamlayın.
 
-## 1.5. Mövcud Təşkilatı (Oganization) idarə edilməsi
 
-#### 1.5.1. Təşkilat məlumatlarının redaktə edilməsi
+## 1.5. Portalın API vasitəsilə istifadəsi
 
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
-2. Əsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.
-3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.
-4. Lazım olan sahələri aşağıdakı cədvək əsasında dəyişdirin.
-
-<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-    <thead>
-        <tr style="background-color: #d9e1f2; text-align: left;">
-            <th>Metaməlumat (İngiliscə)</th>
-            <th>Metaməlumat (Azərbaycanca)</th>
-            <th>Açıqlaması</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Title</td>
-            <td>Başlıq</td>
-            <td>Təşkilatın adı</td>
-        </tr>
-        <tr>
-            <td>Description</td>
-            <td>Açıqlama</td>
-            <td>Təşkilat haqqında məlumat</td>
-        </tr>
-        <tr>
-            <td>Image</td>
-            <td>Şəkil</td>
-            <td>Təşkilatın şəkil və ya <a href="#">logosu</a>. 43 x 43 piksel ölçüsündə olması məqsədə uyğundur.</td>
-        </tr>
-    </tbody>
-</table>
-
-###### Cədvəl 6
-
-5. Yeniləmələrinizi nəzərdən keçirin və dəyişiklikləri saxlamaq üçün Təşkilatı yeniləyin **(Update Organization)** düyməsinə klikləyin.
-
-#### 1.5.2. Mövcud Təşkilatdakı memberləri (üzvləri) rollarını dəyişmək.
-
-##### Üsul 1
-
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
-2. Əsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.  
-3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.  
-4. Üzvlər **(Members)** bölməsini seçin.
-5. Rolunu dəyişmək istədiyiniz iştirakçının qarşısında olan açar butonuna klikləyin.
-6. Rolunu uyğun olaraq Admin, Editor, Member’ə dəyişdirdikdən sonra Üzvü yeniləyin **(Update Member)** butonuna klikləyək prosesi tamamlayın.
-
-##### Üsul 2
-
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
-2. Əsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.  
-3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.  
-4. Üzvlər **(Members)** bölməsini seçin.
-5. Üzv əlavə et **(Add Member)** butonuna klikləyin.
-6. Mövcud iştirakçı **(Existing user)** hissəsindən iştirakçı adını tapıb rolunu (Admin, Editor, Member) olaraq dəyişdirin.olaraq dəyişdirin.
-7. Üzv əlavə et **(Add Member)** butonuna klikləyərək iştirakçının rolunu dəyişin.
-
-#### 1.5.3. Mövcud Təşkilatdakı memberləri (üzvləri) silmək.
-
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
-2. İdarəetmə sisteminə girişƏsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.  
-3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.  
-4. Üzvlər **(Members)** bölməsini seçin.
-5. Silmək istədiyiniz iştirakçının sağ tərəfində olan **X** butonuna klikləyin.
-6. Açılan Dialoq pəncərəsində Təsdiq et **(Confirm)** butonuna klikləyərək silmə prosesini tamamlayın.
-
-## 1.6. Portalın API vasitəsilə istifadəsi
-
-### 1.6.1 API açarının yaradılması
+### 1.5.1 API açarının yaradılması
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Profilinizə (İştirakçı adınızın yazıldığı hissə) klikləyin.
@@ -622,7 +553,7 @@ Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün 
 
 [API guide — CKAN 2.10.7 documentation](https://docs.ckan.org/en/2.10/api/index.html)
 
-### 1.6.2. API açarının silinməsi
+### 1.5.2. API açarının silinməsi
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Profilinizə (İştirakçı adınızın yazıldığı hissə) klikləyin.
@@ -631,7 +562,7 @@ Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün 
    
 &nbsp;
 
-### 1.6.3 API vasitəsi ilə məlumat dəstlərinin əlavə edilməsi
+### 1.5.3 API vasitəsi ilə məlumat dəstlərinin əlavə edilməsi
 
 **1\. Məlumat idarəetmə sistemində API-ə qoşulma və faylları ehtiva edən mənbə qovluq.**
 
@@ -689,6 +620,7 @@ Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün 
     "tag_string": directory_name  # Easy practice to generate TAG is using directory name
 
     }
+&nbsp; 
 
 **3**. **Məlumat dəstində konkret faylın metaməlumatlarının doldurulması üçün element adları**.
 
@@ -715,4 +647,76 @@ Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün 
     }  
 
 &nbsp;
+
+
+## 1.6. Mövcud Təşkilatı (Oganization) idarə edilməsi
+
+#### 1.6.1. Təşkilat məlumatlarının redaktə edilməsi
+
+1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
+2. Əsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.
+3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.
+4. Lazım olan sahələri aşağıdakı cədvək əsasında dəyişdirin.
+
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+    <thead>
+        <tr style="background-color: #d9e1f2; text-align: left;">
+            <th>Metaməlumat (İngiliscə)</th>
+            <th>Metaməlumat (Azərbaycanca)</th>
+            <th>Açıqlaması</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Title</td>
+            <td>Başlıq</td>
+            <td>Təşkilatın adı</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Açıqlama</td>
+            <td>Təşkilat haqqında məlumat</td>
+        </tr>
+        <tr>
+            <td>Image</td>
+            <td>Şəkil</td>
+            <td>Təşkilatın şəkil və ya <a href="#">logosu</a>. 43 x 43 piksel ölçüsündə olması məqsədə uyğundur.</td>
+        </tr>
+    </tbody>
+</table>
+
+###### Cədvəl 6
+
+5. Yeniləmələrinizi nəzərdən keçirin və dəyişiklikləri saxlamaq üçün Təşkilatı yeniləyin **(Update Organization)** düyməsinə klikləyin.
+
+#### 1.6.2. Mövcud Təşkilatdakı memberləri (üzvləri) rollarını dəyişmək.
+
+##### Üsul 1
+
+1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
+2. Əsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.  
+3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.  
+4. Üzvlər **(Members)** bölməsini seçin.
+5. Rolunu dəyişmək istədiyiniz iştirakçının qarşısında olan açar butonuna klikləyin.
+6. Rolunu uyğun olaraq Admin, Editor, Member’ə dəyişdirdikdən sonra Üzvü yeniləyin **(Update Member)** butonuna klikləyək prosesi tamamlayın.
+
+##### Üsul 2
+
+1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
+2. Əsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.  
+3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.  
+4. Üzvlər **(Members)** bölməsini seçin.
+5. Üzv əlavə et **(Add Member)** butonuna klikləyin.
+6. Mövcud iştirakçı **(Existing user)** hissəsindən iştirakçı adını tapıb rolunu (Admin, Editor, Member) olaraq dəyişdirin.olaraq dəyişdirin.
+7. Üzv əlavə et **(Add Member)** butonuna klikləyərək iştirakçının rolunu dəyişin.
+
+#### 1.6.3. Mövcud Təşkilatdakı memberləri (üzvləri) silmək.
+
+1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
+2. İdarəetmə sisteminə girişƏsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.  
+3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.  
+4. Üzvlər **(Members)** bölməsini seçin.
+5. Silmək istədiyiniz iştirakçının sağ tərəfində olan **X** butonuna klikləyin.
+6. Açılan Dialoq pəncərəsində Təsdiq et **(Confirm)** butonuna klikləyərək silmə prosesini tamamlayın.
+
 
