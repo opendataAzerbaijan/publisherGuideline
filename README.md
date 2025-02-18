@@ -173,7 +173,6 @@ Məlumat idarəetmə sistemində aşağıdakı əsas bölmələr yer alır.
     </tbody>
 </table>
 Cədvəl 1
-
 4. Profili yeniləyin **(Update Profile)** hissəsinə klik edərək İştirakçı profilinin redaktəsini tamamlaya bilərik.
 
 #### 1.3.2. İştirakçı Profilinin şifrəsinin dəyişdirilməsi
