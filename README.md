@@ -232,7 +232,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             <td>Lisenziya</td>
             <td>
                 Lisenziya iştirakçılara həmin məlumat dəstinin istifadəsi, paylaşılması və yenidən işlənməsi ilə bağlı hüququ və məhdudiyyətləri bildirir. <br>
-                Lisenziyalar və onların növləri barəsində 1.3.1.3 bölməsindən daha çox məlumat əldə edə bilərsiniz.
+                Lisenziyalar və onların növləri barəsində 1.4.1.3 bölməsindən daha çox məlumat əldə edə bilərsiniz.
             </td>
         </tr>
         <tr>
@@ -307,7 +307,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
                 Siz məlumat dəstinin resurslarını (mənbələrini) təyin edirsiniz. <br>
                 <strong>Upload</strong> və <strong>Link</strong> şəkilində iki seçim verilir.<br><br>
                 <strong>Upload:</strong> Komputerdə yer alan fayllarınız arasında seçim edirsiniz.<br><br>
-                <strong>Link:</strong> API linki şəkilində saxladığınız məlumatların linkini daxil edə bilərsiniz. Açıq məlumat dəstinin formatının seçimi haqqında 1.3.3.1. bölməsindən daha ətraflı məlumat ala bilərsiniz.
+                <strong>Link:</strong> API linki şəkilində saxladığınız məlumatların linkini daxil edə bilərsiniz. Açıq məlumat dəstinin formatının seçimi haqqında 1.4.3.1. bölməsindən daha ətraflı məlumat ala bilərsiniz.
             </td>
         </tr>
         <tr>
