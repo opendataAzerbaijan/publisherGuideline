@@ -172,7 +172,9 @@ Məlumat idarəetmə sistemində aşağıdakı əsas bölmələr yer alır.
         </tr>
     </tbody>
 </table>
-Cədvəl 1
+
+###### Cədvəl 1
+
 4. Profili yeniləyin **(Update Profile)** hissəsinə klik edərək İştirakçı profilinin redaktəsini tamamlaya bilərik.
 
 #### 1.3.2. İştirakçı Profilinin şifrəsinin dəyişdirilməsi
@@ -283,9 +285,10 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
         </tr>
     </tbody>
 </table>
-Cədvəl 2
 
-6. Məlumat əlavə et **(Add Data)** düyməsinə klikləyərək məlumat yükləmə səhifəsinə keçin.
+###### Cədvəl 2
+
+6. Məlumat əlavə et **(Add Data)** düyməsinə klikləyərək resurs yükləmə səhifəsinə keçin.
 7. Aşağıda verilmiş cədvəl əsasında məlumatlarınızı daxil edin.
 
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
@@ -324,7 +327,8 @@ Cədvəl 2
         </tr>
     </tbody>
 </table>
-Cədvəl 3
+
+###### Cədvəl 3
 
 8. Məlumatları yenidən nəzərdən keçirin və bitir **(Finish)** və ya yadda saxla və yenisini əlavə et **(Save & add another)**düyməsini basaraq əməliyyatı tamamlayın.
 ##### Qeyd: bəzi bölmələrdə 3 dildə (Az, Ru, Eng) məlumat daxil olunası tələb olunur. Hər üç dildə məlumatların daxil edilməsi zəruridir.
@@ -387,7 +391,8 @@ _Add Data bölməsində isə hər bir əlavə edilən data file üçün ayrıca 
         </tr>
     </tbody>
 </table>
-Cədvəl 4
+
+###### Cədvəl 4
 
 #### 1.4.1.3. Məlumat idarəetmə sistemində yer alan məlumat dəstlərinə tətbiq oluna biləcək lisenziyalar
 
@@ -466,7 +471,8 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
         </tr>
     </tbody>
 </table>
-Cədvəl 5
+
+###### Cədvəl 5
 
 #### 1.4.3.2. Mövcud Məlumat dəstinə yeni resurs əlavə etmək
 
@@ -565,7 +571,9 @@ Bu funksiyaya Məlumat dəsti səviyyəsində icazələrin idarə edilməsi təm
         </tr>
     </tbody>
 </table>
-Cədvəl 6
+
+###### Cədvəl 6
+
 5. Yeniləmələrinizi nəzərdən keçirin və dəyişiklikləri saxlamaq üçün Təşkilatı yeniləyin **(Update Organization)** düyməsinə klikləyin.
 
 #### 1.5.2. Mövcud Təşkilatdakı memberləri (üzvləri) rollarını dəyişmək.
