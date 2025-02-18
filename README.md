@@ -664,27 +664,27 @@ dir_path = '&lt;/your_directory_where_files_located&gt;'
 **2\. Məlumat dəstində Metaməlumatların doldurulması üçün element adları.**
 
 
-&nbsp;       package_data = {
+     package_data = {
 
-&nbsp;       "\_csrf_token": "IjA1ODU0MmU2MGZjYmI4MmFjOTIxOTI0YzAxYzE3NGExYzBmYzU1ZDIi.Z1lN-A.t9BcCBwgWm1hSubcD_4SVO182uo",
+    "\_csrf_token": "IjA1ODU0MmU2MGZjYmI4MmFjOTIxOTI0YzAxYzE3NGExYzBmYzU1ZDIi.Z1lN-A.t9BcCBwgWm1hSubcD_4SVO182uo",
 
-&nbsp;       "name": dataset_name,
+    "name": dataset_name,
 
-&nbsp;       "title_translated-az": dataset_title, # title in Azerbaijani
+    "title_translated-az": dataset_title, # title in Azerbaijani
 
-&nbsp;       "title_translated-en": title_en, # title in English
+   "title_translated-en": title_en, # title in English
 
-&nbsp;       "title_translated-ru": title_ru, # title in Russian
+   "title_translated-ru": title_ru, # title in Russian
 
-&nbsp;       "url": dataset_name,  # Easy practice to generate URL is using dataset name
+   "url": dataset_name,  # Easy practice to generate URL is using dataset name
 
-&nbsp;       "owner_org": '9b44b52f-2116-48c8-9565-d9dc026dca8f',   # This ID is unique for each publisher  
+    "owner_org": '9b44b52f-2116-48c8-9565-d9dc026dca8f',   # This ID is unique for each publisher  
 
-&nbsp;       # organization and share by CKAN admin
+    # organization and share by CKAN admin
 
-&nbsp;       "license_id": 'notspecified',
+    "license_id": 'notspecified',
 
-&nbsp;       "private": False, # if set False, it will be publicly available in portal
+    "private": False, # if set False, it will be publicly available in portal
 
     "tag_string": directory_name  # Easy practice to generate TAG is using directory name
 
@@ -692,29 +692,29 @@ dir_path = '&lt;/your_directory_where_files_located&gt;'
 
 **3**. **Məlumat dəstində konkret faylın metaməlumatlarının doldurulması üçün element adları**.
 
-&nbsp;       # Get the package ID from the response. Package is created code above, before resource.
+/# Get the package ID from the response. Package is created code above, before resource.
 
-&nbsp;       package_id = package_response.json()\["result"\]\["id"\]
+package_id = package_response.json()\["result"\]\["id"\]
 
-&nbsp;       # Parameters for the resource
+/# Parameters for the resource
 
-&nbsp;       resource_data = {
+resource_data = {
 
-&nbsp;           "package_id": package_id,
+"package_id": package_id,
 
-&nbsp;           "name": resource_name, # name of the file
+"name": resource_name, # name of the file
 
-&nbsp;           "format": 'CSV', # as your file extensions (csv, json,etc)
+"format": 'CSV', # as your file extensions (csv, json,etc)
 
-&nbsp;           "name_translated-az": resource_name,
+"name_translated-az": resource_name,
 
-&nbsp;           "name_translated-en":title_en, # name of the file in English
+"name_translated-en":title_en, # name of the file in English
 
-&nbsp;           "name_translated-ru":title_ru # name of the file in Russian
+"name_translated-ru":title_ru # name of the file in Russian
 
-&nbsp;
 
-&nbsp;       }  
+
+}  
 
 &nbsp;
 
