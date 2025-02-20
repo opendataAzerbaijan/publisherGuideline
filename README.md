@@ -99,7 +99,7 @@ Məlumat idarəetmə sistemində aşağıdakı əsas bölmələr yer alır.
         </tr>
         <tr>
             <td>Organizations - Təşkilatlar</td>
-            <td>Hər bir Məlumat dəsti bir organization-a aiddir və onu həmin təşkilat idarə edir. Hər bir təşkilatda aşağıda yer alan İştirakçı rolları mövcuddur: Admin, Editor və Member.</td>
+            <td>Hər bir Məlumat dəsti bir təşkilata aiddir və onu həmin təşkilat idarə edir. Hər bir təşkilatda aşağıda yer alan İştirakçı rolları mövcuddur: Admin, Editor və Member.</td>
         </tr>
         <tr>
             <td>Groups - Kateqoriyalar</td>
