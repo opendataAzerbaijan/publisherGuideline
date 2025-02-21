@@ -121,7 +121,7 @@ Məlumat idarəetmə sistemində aşağıdakı əsas bölmələr yer alır.
 
 
 
-## 1.1. İştirakçı hesabının idarə edilməsi - <span style="color:blue">Member, Editor & Admin</span>
+## 1.1. İştirakçı hesabının idarə edilməsi
 “Açıq məlumatlar” portalında Məlumat dəstinə daxil olduğumuz zaman fəaliyyət axını bölməsi mövcuddur, bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji ardıcıllıq və həmçinində yeniləməni edən **İştirakçının adı** portal istifadəçilərinə görünür. Bu səbəblə **İştirakçı adı və digər məlumatlar düzgün** qeyd olunmalıdır.
 
 ### 1.1.1. Qeydiyyatdan keçmək
@@ -186,7 +186,7 @@ Məlumat idarəetmə sistemində aşağıdakı əsas bölmələr yer alır.
 4. **Pasword** və **Confirm Password** hissəsinə yeni şifrənizi yazın.
 5. Profili yeniləyin **(Update Profile)** hissəsinə klik edərək İştirakçı profilinin şifrə yeniləmə prosesini tamamlayın.
 
-## 1.2. Məlumat dəstlərinin idarə edilməsi - <span style="color:blue">Editor & Admin</span>
+## 1.2. Məlumat dəstlərinin idarə edilməsi
 
 Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfindən idarə olunur. Sadəcə Kateqoriyalara əlavə edilməsi İRİA tərəfindən idarə edilir. Bu səbəblə iştirakçılar bu Kateqoriyalar bölməsində hər hansı bir **əməliyyat aparmamalıdır.**
 
@@ -538,9 +538,9 @@ Bu funksiyaya Məlumat dəsti səviyyəsində icazələrin idarə edilməsi təm
 6. Açılan dialoq qutusunda Təsdiq et **(Confirm)** butonuna klikləyərək prosesi tamamlayın.
 
 
-## 1.3. Portalın API vasitəsilə istifadəsi - <span style="color:blue">Editor & Admin</span>
+## 1.3. Portalın API vasitəsilə istifadəsi
 
-### 1.3.1 API açarının yaradılması - <span style="color:blue">Həmçinin Member</span>
+### 1.3.1 API açarının yaradılması
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Profilinizə (İştirakçı adınızın yazıldığı hissə) klikləyin.
@@ -550,7 +550,7 @@ Bu funksiyaya Məlumat dəsti səviyyəsində icazələrin idarə edilməsi təm
 
 &nbsp;
 
-### 1.3.2. API açarının silinməsi - <span style="color:blue"> Həmçinin Member</span>
+### 1.3.2. API açarının silinməsi
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Profilinizə (İştirakçı adınızın yazıldığı hissə) klikləyin.
@@ -653,7 +653,7 @@ Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün 
 &nbsp;
 
 
-## 1.4. Mövcud Təşkilatı (Oganization) idarə edilməsi - <span style="color:blue">Admin</span>
+## 1.4. Mövcud Təşkilatı (Oganization) idarə edilməsi
 
 #### 1.4.1. Təşkilat məlumatlarının redaktə edilməsi
 
