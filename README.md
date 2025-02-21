@@ -308,7 +308,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
                 Siz məlumat dəstinin resurslarını (mənbələrini) təyin edirsiniz. <br>
                 <strong>Upload</strong> və <strong>Link</strong> şəkilində iki seçim verilir.<br><br>
                 <strong>Upload:</strong> Komputerdə yer alan fayllarınız arasında seçim edirsiniz.<br><br>
-                <strong>Link:</strong> API linki şəkilində saxladığınız məlumatların linkini daxil edə bilərsiniz. Açıq məlumat dəstinin formatının seçimi haqqında 1.4.3.1. bölməsindən daha ətraflı məlumat ala bilərsiniz.
+                <strong>Link:</strong> API linki şəkilində saxladığınız məlumatların linkini daxil edə bilərsiniz. Açıq məlumat dəstinin formatının seçimi haqqında 1.4.3.1. bölməsindən daha ətraflı məlumat ala bilərsiniz. Resursları əlavə edərkən diqqət etməli olduğunuz bəzi məqamlar varki, bunlarla 1.2.3.2. bölməsindən tanış ola bilərsiniz.
             </td>
         </tr>
         <tr>
@@ -475,7 +475,35 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 
 ###### Cədvəl 5
 
-#### 1.2.3.2. Mövcud Məlumat dəstinə yeni resurs əlavə etmək
+#### 1.2.3.2. Mövcud Məlumat dəstinin resursunu əlavə edərkən diqqət etməli olduğumuz məqamlar.
+  Məlumat dəstininin resursunu əlavə edərkən onun unicode simvollarının kodlaşdırılması, resursun, sütunlarının və.s adlandırmalar zamanı aşağıdakılara əməl etməlisiniz.
+  <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+    <thead>
+        <tr style="background-color: #d9e1f2; text-align: left;">
+            <th>Əsas məqamlar</th>
+            <th>Açıqlaması</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>simvolların kodlaşdırılması</strong></td>
+            <td>
+                Məlumat simvolları kodlaşdırılması zamanı UTF-8 kodlaşdırma formatından istifadə olunmalıdır.
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Adlandırma</strong></td>
+            <td>
+                Resurs faylının adı, Excel vərəqinin (sheet name) adı, Cədvəl(Excel, CSV və.s) strukturundan istifadə edilən zaman Sütun adları və İyerarxik(JSON, XML və.s) strukturundan isifadə edən zaman açar adların(key name) adlandırılması Azərbaycan dilində və həmin məlumat sütununu və ya dəyərini izah edən bir adlandırma edilməlidir. 
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+###### Cədvəl 6
+
+
+#### 1.2.3.3. Mövcud Məlumat dəstinə yeni resurs əlavə etmək
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
@@ -485,7 +513,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 6. Yeni resursun məlumatlarını **cədvəl 3** əsasında əlavə edin.
 7. Məlumatları yenidən nəzərdən keçirin və Əlavə et **(Add)** və ya Yadda saxla və yenisini əlavə et **(Save & add another)** düyməsini basaraq yayımlayın.
 
-#### 1.2.3.3. Mövcud Məlumat dəstinin resurs məlumatlarına düzəliş edilməsi
+#### 1.2.3.4. Mövcud Məlumat dəstinin resurs məlumatlarına düzəliş edilməsi
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
@@ -494,7 +522,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 5. Redaktə etmək istədiyiniz mövcud resursları **cədvəl 3** əsasında dəyişdirin.
 6. Yenilənmələri nəzərdən keçirin və tətbiq etmək üçün Resursları yenilə **(Update Resources)** düyməsini basın.
 
-#### 1.2.3.4. Məlumat dəstində mövcud resurs (məlumat faylını) silmək
+#### 1.2.3.5. Məlumat dəstində mövcud resurs (məlumat faylını) silmək
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
@@ -689,7 +717,7 @@ Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün 
     </tbody>
 </table>
 
-###### Cədvəl 6
+###### Cədvəl 7
 
 5. Yeniləmələrinizi nəzərdən keçirin və dəyişiklikləri saxlamaq üçün Təşkilatı yeniləyin **(Update Organization)** düyməsinə klikləyin.
 
