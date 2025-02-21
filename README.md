@@ -642,8 +642,9 @@ Bu funksiyaya Məlumat dəsti səviyyəsində icazələrin idarə edilməsi təm
     "name_translated-ru":title_ru # name of the file in Russian
 
     }  
+
     
-Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün aşağıdakı fayllardan istifadə edə bilərsiniz.
+Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün aşağıdakı rəsmi dokumentasiyalardan istifadə edə bilərsiniz.
 
 <https://docs.ckan.org/en/2.10/maintaining/filestore.html?highlight=resource_create#filestore-api>
 
