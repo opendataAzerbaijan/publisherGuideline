@@ -20,7 +20,7 @@ Aşağıdakı cədvəl sizə portalda yer alan Anlayışlar və biznes terminlə
     <tbody>
         <tr>
             <td>Open Data (Açıq məlumat)</td>
-            <td>Açıq şəkildə paylaşılan və hər kəsin istifadə edə biləcəyi məlumatlardır.</td>
+            <td>Əldə olunması, işlənməsi, verilməsi və ya istifadəsi Azərbaycan Respublikasının qanunvericiliyi ilə məhdudlaşdırılmayan və ümumi istifadə üçün təyin olunmuş məlumatlar</td>
         </tr>
         <tr>
             <td>Metadata (Metaməlumatlar)</td>
@@ -94,23 +94,23 @@ Məlumat idarəetmə sistemində aşağıdakı əsas bölmələr yer alır.
     </thead>
     <tbody>
         <tr>
-            <td>Datasets – Məlumat dəstləri</td>
+            <td>Datasets (Məlumat dəstləri)</td>
             <td>Datasets bölməsində məlumat idarəetmə sistemində yer alan bütün Məlumat dəstləri görmək, aid olduğu quruma Məlumat dəsti əlavə etmək, onları dəyişdirmək, silmək və digər əməliyyatları həyata keçirmək mümkündür.</td>
         </tr>
         <tr>
-            <td>Organizations - Təşkilatlar</td>
+            <td>Organizations (Təşkilatlar)</td>
             <td>Hər bir Məlumat dəsti bir təşkilata aiddir və onu həmin təşkilat idarə edir. Hər bir təşkilatda aşağıda yer alan İştirakçı rolları mövcuddur: Admin, Editor və Member.</td>
         </tr>
         <tr>
-            <td>Groups - Kateqoriyalar</td>
+            <td>Groups (Kateqoriyalar)</td>
             <td>Bu bölmə idarə etmə sistemində olan məlumat dəstlərinin kolleksiyalarını (kateqoriyalarını) yaratmaq və idarə etmək üçün istifadə olunur.</td>
         </tr>
         <tr>
-            <td>Data Requests - Məlumat Sorğuları</td>
+            <td>Data Requests (Məlumat Sorğuları)</td>
             <td>Məlumat sorğusu (data request) bir təşkilatdan müəyyən məlumatın açıqlanması yönündə olan müraciətlərin toplandığı bölmədir.</td>
         </tr>
         <tr>
-            <td>Showcase - İstifadə Nümunələri</td>
+            <td>Showcase (İstifadə Nümunələri)</td>
             <td>Bu bölmə, məlumat dəstlərinin tətbiq olunma nümunələrini təqdim edir.</td>
         </tr>
     </tbody>
@@ -136,7 +136,7 @@ Məlumat idarəetmə sistemində aşağıdakı əsas bölmələr yer alır.
 2. Istifadəçi adı **(Username)** və ya elektron poçt **(e-mail)** və şifrə **(password)** daxil edin.
 3. Daxil olun **(Login)** butonuna klikləyib daxil olun.
 
-#### 1.1.3. İştirakçı Profilinin məlumatlarının redaktə edilməsi.
+### 1.1.3. İştirakçı Profilinin məlumatlarının redaktə edilməsi.
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Profil parametrləri **(Profile Settings)** bölməsinə keçid edin.
@@ -153,8 +153,8 @@ Məlumat idarəetmə sistemində aşağıdakı əsas bölmələr yer alır.
     <tbody>
         <tr>
             <td>Full name</td>
-            <td>Ad, Soyad</td>
-            <td>İştirakçının tam adı yazılmalıdır.</td>
+            <td>Tam ad</td>
+            <td>İştirakçının ad və soyad yazılmalıdır.</td>
         </tr>
         <tr>
             <td>Email</td>
@@ -548,12 +548,6 @@ Bu funksiyaya Məlumat dəsti səviyyəsində icazələrin idarə edilməsi təm
 4. Ad **(Name)** hissəsində API açarınızın adını yazın.
 5. API açarı yarat **(Create API Token)** butonuna basaraq API açarınızı yaratma prosesini tamamlayın.
 
-Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün aşağıdakı fayllardan istifadə edə bilərsiniz.
-
-<https://docs.ckan.org/en/2.10/maintaining/filestore.html?highlight=resource_create#filestore-api>
-
-[API guide — CKAN 2.10.7 documentation](https://docs.ckan.org/en/2.10/api/index.html)
-
 &nbsp;
 
 ### 1.3.2. API açarının silinməsi - <span style="color:blue"> Həmçinin Member</span>
@@ -648,6 +642,12 @@ Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün 
     "name_translated-ru":title_ru # name of the file in Russian
 
     }  
+    
+Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün aşağıdakı fayllardan istifadə edə bilərsiniz.
+
+<https://docs.ckan.org/en/2.10/maintaining/filestore.html?highlight=resource_create#filestore-api>
+
+[API guide — CKAN 2.10.7 documentation](https://docs.ckan.org/en/2.10/api/index.html)
 
 &nbsp;
 
