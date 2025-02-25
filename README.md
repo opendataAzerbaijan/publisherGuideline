@@ -681,9 +681,33 @@ Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün 
 &nbsp;
 
 
-## 1.4. Mövcud Təşkilatı (Oganization) idarə edilməsi
+## 1.4. Mövcud təşkilatı (Oganization) idarə edilməsi
 
-#### 1.4.1. Təşkilat məlumatlarının redaktə edilməsi
+#### 1.4.1. Təşkilatda yer alan rollar.
+
+Mövcud təşkilatda aşağıdakı rollar mövcuddur. 
+
+#### Member (Üzv)	
+Təşkilatın private (yalnızca məlumat idarəetmə sistemindən əlçatan olan) məlumat dəstlərini görə bilər.
+
+#### Editor (Məlumat redaktoru)	
+Member-in bütün funksiyalarını yerinə yetirə bilər.
+Əlavə olaraq:
+* Təşkilata yeni Məlumat dəstləri əlavə edə bilər.
+* Təşkilatdakı istənilən Məlumat dəstini redaktə və ya silə bilər.
+* Məlumat dəstləri public və ya private edə bilər.
+
+#### Admin (İdarəçi)	
+Editor-un bütün funksiyalarını yerinə yetirə bilər.
+Əlavə olaraq:
+* Təşkilata yeni iştirakçılar əlavə edə bilər və həmin iştirakçıları Member, Editor və ya Admin olmasını seçə bilər.
+* Təşkilatdakı istənilən iştirakçının rolunu dəyişdirə bilər (digər Admin-lər də daxil olmaqla).
+* Member, Editor və ya digər Admin-ləri təşkilatdan silə bilər.
+* Təşkilat haqqında məlumatları redaktə edə bilər (ad, təsvir, şəkil və s.).
+* Təşkilatı tamamilə silə bilər.
+
+
+#### 1.4.2. Təşkilat məlumatlarının redaktə edilməsi
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.
@@ -721,7 +745,7 @@ Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün 
 
 5. Yeniləmələrinizi nəzərdən keçirin və dəyişiklikləri saxlamaq üçün Təşkilatı yeniləyin **(Update Organization)** düyməsinə klikləyin.
 
-#### 1.4.2. Mövcud Təşkilatdakı memberləri (üzvləri) rollarını dəyişmək.
+#### 1.4.3. Mövcud Təşkilatdakı memberləri (üzvləri) rollarını dəyişmək.
 
 ##### Üsul 1
 
@@ -730,7 +754,7 @@ Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün 
 3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.  
 4. Üzvlər **(Members)** bölməsini seçin.
 5. Rolunu dəyişmək istədiyiniz iştirakçının qarşısında olan açar butonuna klikləyin.
-6. Rolunu uyğun olaraq Admin, Editor, Member’ə dəyişdirdikdən sonra Üzvü yeniləyin **(Update Member)** butonuna klikləyək prosesi tamamlayın.
+6. Rolunu uyğun rola (1.4.1 bölməsindən rollar barəsində məlumat ala bilərsiniz) dəyişdirdikdən sonra Üzvü yeniləyin **(Update Member)** butonuna klikləyək prosesi tamamlayın.
 
 ##### Üsul 2
 
@@ -739,10 +763,10 @@ Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün 
 3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.  
 4. Üzvlər **(Members)** bölməsini seçin.
 5. Üzv əlavə et **(Add Member)** butonuna klikləyin.
-6. Mövcud iştirakçı **(Existing user)** hissəsindən iştirakçı adını tapıb rolunu (Admin, Editor, Member) olaraq dəyişdirin.olaraq dəyişdirin.
+6. Mövcud iştirakçı **(Existing user)** hissəsindən iştirakçı adını tapıb rolunu(1.4.1 bölməsindən rollar barəsində məlumat ala bilərsiniz) dəyişdirin.
 7. Üzv əlavə et **(Add Member)** butonuna klikləyərək iştirakçının rolunu dəyişin.
 
-#### 1.4.3. Mövcud Təşkilatdakı memberləri (üzvləri) silmək.
+#### 1.4.4. Mövcud Təşkilatdakı memberləri (üzvləri) silmək.
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. İdarəetmə sisteminə girişƏsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.  
