@@ -42,42 +42,6 @@ Aşağıdakı cədvəl sizə portalda yer alan Anlayışlar və biznes terminlə
             <td>Activity Stream (Fəaliyyət Axını)</td>
             <td>Məlumat dəstləri və təşkilatlar üzərində aparılan son fəaliyyətlərin xronoloji siyahısı.</td>
         </tr>
-        <tr>
-            <td>Member (Üzv)</td>
-            <td>Təşkilatın private (yalnızca məlumat idarəetmə sistemindən əlçatan olan) məlumat dəstlərini görə bilər.</td>
-        </tr>
-        <tr>
-            <td>Editor (Məlumat redaktoru)</td>
-            <td>
-                <ul>
-                    <li>Member-in bütün funksiyalarını yerinə yetirə bilər.</li>
-                    <li>Əlavə olaraq:
-                        <ul>
-                            <li>Təşkilata yeni Məlumat dəstləri əlavə edə bilər.</li>
-                            <li>Təşkilatdakı istənilən Məlumat dəstini redaktə və ya silə bilər.</li>
-                            <li>Məlumat dəstləri public və ya private edə bilər.</li>
-                        </ul>
-                    </li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>Admin (İdarəçi)</td>
-            <td>
-                <ul>
-                    <li>Editor-un bütün funksiyalarını yerinə yetirə bilər.</li>
-                    <li>Əlavə olaraq:
-                        <ul>
-                            <li>Təşkilata yeni iştirakçılar əlavə edə bilər və həmin iştirakçıları Member, Editor və ya Admin olmasını seçə bilər.</li>
-                            <li>Təşkilatdakı istənilən iştirakçının rolunu dəyişdirə bilər (digər Admin-lər də daxil olmaqla).</li>
-                            <li>Member, Editor və ya digər Admin-ləri təşkilatdan silə bilər.</li>
-                            <li>Təşkilat haqqında məlumatları redaktə edə bilər (ad, təsvir, şəkil və s.).</li>
-                            <li>Təşkilatı tamamilə silə bilər.</li>
-                        </ul>
-                    </li>
-                </ul>
-            </td>
-        </tr>
     </tbody>
 </table>
 
