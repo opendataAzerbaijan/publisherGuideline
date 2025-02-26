@@ -297,7 +297,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
                 Siz məlumat dəstinin resurslarını (mənbələrini) təyin edirsiniz. <br>
                 <strong>Upload</strong> və <strong>Link</strong> şəkilində iki seçim verilir.<br><br>
                 <strong>Upload:</strong> Komputerdə yer alan fayllarınız arasında seçim edirsiniz.<br><br>
-                <strong>Link:</strong> API linki şəkilində saxladığınız məlumatların linkini daxil edə bilərsiniz. Açıq məlumat dəstinin formatının seçimi haqqında 1.4.3.1. bölməsindən daha ətraflı məlumat ala bilərsiniz. Resursları əlavə edərkən diqqət etməli olduğunuz bəzi məqamlar varki, bunlarla 1.2.3.2. bölməsindən tanış ola bilərsiniz.
+                <strong>Link:</strong> API linki şəkilində saxladığınız məlumatların linkini daxil edə bilərsiniz. Açıq məlumat dəstinin formatının seçimi haqqında 1.3.2.1. bölməsindən daha ətraflı məlumat ala bilərsiniz. Resursları əlavə edərkən diqqət etməli olduğunuz bəzi məqamlar varki, bunlarla 1.3.2.2. bölməsindən tanış ola bilərsiniz.
             </td>
         </tr>
         <tr>
@@ -554,9 +554,9 @@ Bu funksiyaya Məlumat dəsti səviyyəsində icazələrin idarə edilməsi təm
 6. Açılan dialoq qutusunda Təsdiq et **(Confirm)** butonuna klikləyərək prosesi tamamlayın.
 
 
-## 1.3.4. Portalın API vasitəsilə istifadəsi
+### 1.3.4. Portalın API vasitəsilə istifadəsi
 
-### 1.3.4.1 API açarının yaradılması
+#### 1.3.4.1 API açarının yaradılması
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Profilinizə (İştirakçı adınızın yazıldığı hissə) klikləyin.
@@ -566,7 +566,7 @@ Bu funksiyaya Məlumat dəsti səviyyəsində icazələrin idarə edilməsi təm
 
 &nbsp;
 
-### 1.3.4.2. API açarının silinməsi
+#### 1.3.4.2. API açarının silinməsi
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Profilinizə (İştirakçı adınızın yazıldığı hissə) klikləyin.
@@ -575,7 +575,7 @@ Bu funksiyaya Məlumat dəsti səviyyəsində icazələrin idarə edilməsi təm
    
 &nbsp;
 
-### 1.3.4.3 API vasitəsi ilə məlumat dəstlərinin əlavə edilməsi
+#### 1.3.4.3 API vasitəsi ilə məlumat dəstlərinin əlavə edilməsi
 
 **1\. Məlumat idarəetmə sistemində API-ə qoşulma və faylları ehtiva edən mənbə qovluq.**
 
@@ -671,7 +671,7 @@ Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün 
 
 ## 1.5. İdarəçi(Admin) Roluna sahib İştirakçının öhdəlikləri
 
-#### 1.5.1. Mövcud təşkilatın (Organization) idarə edilməsi
+### 1.5.1. Mövcud təşkilatın (Organization) idarə edilməsi
 
 Mövcud təşkilatda aşağıdakı rollar mövcuddur. 
 
