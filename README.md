@@ -142,7 +142,7 @@ Məlumat idarəetmə sistemində aşağıdakı əsas bölmələr yer alır.
 
 4. Profili yeniləyin **(Update Profile)** hissəsinə klik edərək İştirakçı profilinin redaktəsini tamamlaya bilərik.
 
-#### 1.1.4. İştirakçı Profilinin şifrəsinin dəyişdirilməsi
+### 1.1.4. İştirakçı Profilinin şifrəsinin dəyişdirilməsi
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Profil parametrləri **(Profile Settings)** bölməsinə keçid edin.
@@ -222,7 +222,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             <td>Lisenziya</td>
             <td>
                 Lisenziya iştirakçılara həmin məlumat dəstinin istifadəsi, paylaşılması və yenidən işlənməsi ilə bağlı hüququ və məhdudiyyətləri bildirir. <br>
-                Lisenziyalar və onların növləri barəsində 1.2.1.3 bölməsindən daha çox məlumat əldə edə bilərsiniz.
+                Lisenziyalar və onların növləri barəsində 1.3.1.4 bölməsindən daha çox məlumat əldə edə bilərsiniz.
             </td>
         </tr>
         <tr>
@@ -250,7 +250,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             <td>Version</td>
             <td>Versiya</td>
             <td>
-                Məlumat dəstinin cari versiyası. Versiyalandırma haqqında əlavə məlumatı 1.2.1.2. bölməsindən tanış ola bilərsiniz.
+                Məlumat dəstinin cari versiyası. Versiyalandırma haqqında əlavə məlumatı 1.3.1.3. bölməsindən tanış ola bilərsiniz.
             </td>
         </tr>
         <tr>
