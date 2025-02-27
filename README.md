@@ -213,8 +213,8 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             <td>Tags</td>
             <td>Etiketlər</td>
             <td>
-                Tag, məlumat dəstini təsvir etmək və axtarışı asanlaşdırmaq üçün istifadə olunan açar sözlərdir. Azərbaycan dilində olmalıdır<br>
-                (məsələn, təhsil, xərclər).
+                Tag, məlumat dəstini təsvir etmək və axtarışı asanlaşdırmaq üçün məlumat dəstinin başlığına uyğun verilən açar sözlərdir. Azərbaycan dilində olmalıdır<br>
+                (məsələn təhsil, xərclərin).
             </td>
         </tr>
         <tr>
