@@ -59,7 +59,7 @@ Məlumat idarəetmə sistemində aşağıdakı əsas bölmələr yer alır.
     <tbody>
         <tr>
             <td>Datasets (Məlumat dəstləri)</td>
-            <td>Datasets bölməsində məlumat idarəetmə sistemində yer alan bütün Məlumat dəstləri görmək, aid olduğu quruma Məlumat dəsti əlavə etmək, onları dəyişdirmək, silmək və digər əməliyyatları həyata keçirmək mümkündür.</td>
+            <td>Datasets bölməsində məlumat idarəetmə sistemində yer alan bütün Məlumat dəstlərini görə və İştirakçı mövcud olduğu təşkilatın məlumat dəstləri üzərində roluna uyğun əməliyyatlar apara bilər</td>
         </tr>
         <tr>
             <td>Organizations (Təşkilatlar)</td>
@@ -185,7 +185,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
 2. Əsas naviqasiya panelində Məlumat dəstləri **(Datasets)** bölməsinə klikləyin.
 3. Yeni Məlumat dəsti əlavə edin.
 4. Məlumat dəsti əlavə et **(Add Dataset)** düyməsini seçin.
-5. Aşağıda verilmiş cədvəl əsasında Məlumat dəsti məlumatlarını daxil edin.
+5. Aşağıda verilmiş cədvəl əsasında Məlumat dəstinə aid zəruri metaməlumatları daxil edin(Nəzərə alınki, bu məlumatlar Açıq məlumatlar portalının istifadəçiləri tərəfindən görüntülənəcək).
 
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
@@ -199,21 +199,21 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
         <tr>
             <td>Title</td>
             <td>Məlumat dəstinin adı</td>
-            <td>Məlumat dəstinə aid təsviri bir başlıq.</td>
+            <td>Məlumat dəstinə aid təsviri bir başlıq (Əlavə məlumat üçün 1.3.1.2 bölməsinə baxa bilərsiniz).</td>
         </tr>
         <tr>
             <td>Description</td>
             <td>Məlumat dəstinin açıqlaması</td>
             <td>
-                Məlumat dəsti haqqında faydalı qeydlər.<br>
-                bu hissəsində məlumatın <strong>*yenilənmə tezliyi(Update Frequency)</strong> haqqında məlumat vermək vacibdir. Yenilənmə tezliyi məlumat dəstinin nə qədər zamandan bir yeniləndiyini bizə göstərir. <br>Nümunə: yenilənmə tezliyi = 1 ay, yenilənmə tezliyi = 3 saat.
+                Məlumat dəsti haqqında faydalı qeydlər(Əlavə məlumat üçün 1.3.1.2 bölməsinə baxa bilərsiniz).<br>
+                Bu hissədə məlumatın <strong>*yenilənmə tezliyi(Update Frequency)</strong> haqqında məlumat vermək vacibdir. Yenilənmə tezliyi məlumat dəstinin nə qədər zamandan bir yeniləndiyini bizə göstərir. <br>Nümunə: yenilənmə tezliyi = 1 ay, yenilənmə tezliyi = 3 saat.
             </td>
         </tr>
         <tr>
             <td>Tags</td>
             <td>Etiketlər</td>
             <td>
-                Tag, məlumat dəstini təsvir etmək və axtarışı asanlaşdırmaq üçün istifadə olunan açar sözlərdir.<br>
+                Tag, məlumat dəstini təsvir etmək və axtarışı asanlaşdırmaq üçün istifadə olunan açar sözlərdir. Azərbaycan dilində olmalıdır<br>
                 (məsələn, təhsil, xərclər).
             </td>
         </tr>
@@ -243,7 +243,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             <td>Source</td>
             <td>Mənbə</td>
             <td>
-                Əgər paylaşılan məlumat dəsti Məlumatı açıqlayan Təşkilatdan başqa yerə aiddirsə, burada həmin link yerləşdirilə bilər.
+                Əgər paylaşılan məlumat dəsti Məlumatı açıqlayan Təşkilatın vebsaytında və.s yer alırsa burada həmin link yerləşdirilə bilər. Bu link sayəsində Açıq məlumatlar portalının istifadəçiləri təşkilatın səhifələrinə keçid edə və axtarış motorunda təşkilatın səhifəsini önə çıxarda bilər.
             </td>
         </tr>
         <tr>
@@ -256,22 +256,22 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
         <tr>
             <td>Author</td>
             <td>Müəllifin Adı</td>
-            <td>Məlumatlardan cavabdeh olan şəxs və ya təşkilatın adı.</td>
+            <td>Məlumatlardan cavabdeh olan şəxs və ya təşkilatın adı. Zəruri deyil.</td>
         </tr>
         <tr>
             <td>Author Email</td>
             <td>Müəllifin e-poçtu</td>
-            <td>Məlumatlardan cavabdeh olan şəxsin və ya təşkilatın elektron poçt ünvanı.</td>
+            <td>Məlumatlardan cavabdeh olan şəxsin və ya təşkilatın elektron poçt ünvanı. Zəruri deyil.</td>
         </tr>
         <tr>
             <td>Maintainer</td>
             <td>Maintainerin adı</td>
-            <td>Məlumatlara cavabdeh olan ikinci şəxs.</td>
+            <td>Məlumatlara cavabdeh olan ikinci şəxs. Zəruri deyil.</td>
         </tr>
         <tr>
             <td>Maintainer Email</td>
             <td>Maintainerin e-poçtu</td>
-            <td>Məlumat dəstinə cavabdeh ikinci şəxslə əlaqə üçün e-poçt ünvanı.</td>
+            <td>Məlumat dəstinə cavabdeh ikinci şəxslə əlaqə üçün e-poçt ünvanı. Zəruri deyil.</td>
         </tr>
     </tbody>
 </table>
@@ -279,7 +279,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
 ###### Cədvəl 2
 
 6. Məlumat əlavə et **(Add Data)** düyməsinə klikləyərək resurs yükləmə səhifəsinə keçin.
-7. Aşağıda verilmiş cədvəl əsasında məlumatlarınızı daxil edin.
+7. Aşağıda verilmiş cədvəl əsasında zəruri resurs məlumatlarınızı daxil edin (Nəzərə alınki, bu məlumatlar Açıq məlumatlar portalının istifadəçiləri tərəfindən görüntülənəcək).
 
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
@@ -321,7 +321,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
 ###### Cədvəl 3
 
 8. Məlumatları yenidən nəzərdən keçirin və bitir **(Finish)** və ya yadda saxla və yenisini əlavə et **(Save & add another)**düyməsini basaraq əməliyyatı tamamlayın.
-##### Qeyd: bəzi bölmələrdə 3 dildə (Az, Ru, Eng) məlumat daxil olunası tələb olunur. Hər üç dildə məlumatların daxil edilməsi zəruridir.
+##### Qeyd: bəzi metaməlumat bölmələrdə 3 dildə (Az, Ru, Eng) məlumat daxil olunası tələb olunur. Hər üç dildə məlumatların daxil edilməsi zəruridir.
 
 #### 1.3.1.2 Yeni Məlumat dəsti əlavə edərkən Create Dataset və Add Data bölmələrində yer alan Title/Description fərqi
 
@@ -524,7 +524,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 
 Bu funksiyaya Məlumat dəsti səviyyəsində icazələrin idarə edilməsi təmin edilir. Bu zaman uyğun icazəsi olan əməkdaşlar, istənilən fərdi Məlumat dəsti üzərində verilən rola uyğun əməliyyatları icra edə bilirlər.
 
-#### 1.3.3.1. Mövcud Məlumat dəstinin əməkdaşların əlavə edilməsi
+#### 1.3.3.1. Mövcud Məlumat dəstinə əməkdaşların əlavə edilməsi
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
@@ -544,7 +544,7 @@ Bu funksiyaya Məlumat dəsti səviyyəsində icazələrin idarə edilməsi təm
 5. Rolunu dəyişmək istədiyiniz iştirakçının açar butonuna klikləyin.
 6. Rolunu uyğun olaraq Admin, Editor, Member’ə dəyişdirdikdən sonra əməkdaşı yeniləyin **(Update Collaborator)** butonuna klikləyərək prosesi tamamlayaq.
 
-#### 1.3.3.3. Mövcud Məlumat dəstinin əməkdaşların silinməsi
+#### 1.3.3.3. Mövcud Məlumat dəstindən əməkdaşların silinməsi
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
@@ -605,7 +605,7 @@ Bu funksiyaya Məlumat dəsti səviyyəsində icazələrin idarə edilməsi təm
 &nbsp;
 
 
-**2\. Məlumat dəstində Metaməlumatların doldurulması üçün element adları.**
+**2\. Məlumat dəstində metaməlumatların doldurulması üçün element adları.**
 
 
      package_data = {
