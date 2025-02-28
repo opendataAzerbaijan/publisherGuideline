@@ -179,7 +179,7 @@ Məlumat redaktoru aşağıdakı öhdəlikləri vardır.
 
 Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfindən idarə olunur. Sadəcə Kateqoriyalara əlavə edilməsi İRİA tərəfindən idarə edilir. Bu səbəblə iştirakçılar bu Kateqoriyalar bölməsində hər hansı bir **əməliyyat aparmamalıdır.**
 
-### 1.3.1.1 Məlumat dəstinin əlavə edilməsi
+### 1.3.1.1 Məlumat dəstinin əlavə edilməsi.
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəstləri **(Datasets)** bölməsinə klikləyin.
@@ -237,6 +237,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
                 Görünürlük hissəsində iki seçim vardır.<br>
                 <strong>Private:</strong> yalnız məlumat idarəetmə sistemində məlumat dəsti əlçatan olur.<br>
                 <strong>Public:</strong> Məlumat dəsti həmçinin “Açıq məlumatlar” portalında iştirakçılar tərəfindən də əlçatan olur.
+                 <strong>Məlumat dəstini bizim əməkdaşlar rəy vermədən öncə public etməyin!</strong>
             </td>
         </tr>
         <tr>
@@ -321,13 +322,19 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
 ###### Cədvəl 3
 
 8. Məlumatları yenidən nəzərdən keçirin və bitir **(Finish)** və ya yadda saxla və yenisini əlavə et **(Save & add another)**düyməsini basaraq əməliyyatı tamamlayın.
-##### Qeyd: bəzi metaməlumat bölmələrdə 3 dildə (Az, Ru, Eng) məlumat daxil olunası tələb olunur. Hər üç dildə məlumatların daxil edilməsi zəruridir.
+   
+#### Qeyd: 
+##### Məlumat dəstinin metaməlumatlarında yer alan başlıq və açıqlamaları ilə resurs əlavə edərkən yazılmalı olan ad və açıqlamadan fərqlidir. Resursa bu ad və açıqlamanı məlumat dəsti ilə bağlı fərqli strukturda amma həmin məlumat dəstinə aid resurslar olduqda edirik. Aşağıdakı nümunəyə nəzər salaq.
+###### Məlumat Dəsti:
+Başlıq: İctimai nəqliyyat dayanacaqlarının yerləşməsi və infrastrukturu
+Açıqlama: Bu məlumat dəsti Bakı və Sumqayıt şəhərlərində ictimai nəqliyyat dayanacaqlarının dəqiq coğrafi koordinatlarını, dayanacaq növlərini və infrastruktur elementlərini ehtiva edir. Məlumatlar açıq nəqliyyat siyasətinin planlaşdırılması və vətəndaşlar üçün rahat nəqliyyat xidmətlərinin təmin edilməsi məqsədilə təqdim olunur.
 
-#### 1.3.1.2 Yeni Məlumat dəsti əlavə edərkən Create Dataset və Add Data bölmələrində yer alan Title/Description fərqi
+##### Resurslar və onların açıqlamaları:
+###### 1️⃣ Resurs Adı: Bakı şəhəri üzrə ictimai nəqliyyat dayanacaqları
+Açıqlama: Bu resurs Bakı şəhərindəki bütün avtobus dayanacaqlarının GPS koordinatlarını, dayanacaq növünü (qapalı, açıq), sərnişin gözləmə yerlərinin mövcudluğunu və digər infrastruktur elementlərini əhatə edir.
 
-_Create Dataset bölməsində olan title və description, Məlumat dəstinin ümumi adını və təsvirini əhatə edir._
-
-_Add Data bölməsində isə hər bir əlavə edilən data file üçün ayrıca title və description təyin edilir. Bu, fərqli data fayllarının bir Məlumat dəsti daxilində ayırd edilməsini təmin edir. Bunun əsas səbəbi, bir Məlumat dəsti daxilində bir neçə data faylının ola bilməsidir. Hər bir fayl fərqli məlumatları əhatə edə bilər._
+###### 2️⃣ Resurs Adı: Sumqayıt şəhəri üzrə ictimai nəqliyyat dayanacaqları
+Açıqlama: Bu resurs Sumqayıt şəhərindəki avtobus dayanacaqlarının yerləşdiyi əraziləri və dayanacaq məntəqələrinin adlarını ehtiva edir. Koordinatlar deyil, yalnız dayanacaq zonaları təqdim olunur.
 
 #### 1.3.1.2. Məlumat dəstinin metaməlumatlarını əlavə edərkən diqqət etməli oldiğumuz məqamlar.
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
@@ -342,7 +349,7 @@ _Add Data bölməsində isə hər bir əlavə edilən data file üçün ayrıca 
         açıqlama: Bu məlumat dəstində Azərbaycan Respublikasında aktiv sürüşmə sahələri və onların koodinantları təqdim olunur. Məlumatın yenilənmə tezliyi: 6 ay.</td>
     </tr>
     <tr>
-        <td>Hər üç dildə tərcümə edilərək metaməlumatlar doldurulmalıdır.</td>
+        <td>Bəzi metaməlumat bölmələrdə 3 dildə (Az, Ru, Eng) məlumat daxil olunası tələb olunur. Hər üç dildə məlumatların daxil edilməsi zəruridir.</td>
         <td>İngilis və Rus dilinə Azərbaycanca qoyduğunuz başlığdan uyğun bir şəkildə tərcümə edə bilərsiniz</td>
     </tr>
     <tr>
@@ -576,6 +583,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 5. Yeni resurs əlavə et **(Add new resource)** düyməsini basın.
 6. Yeni resursun məlumatlarını **cədvəl 3** əsasında əlavə edin.
 7. Məlumatları yenidən nəzərdən keçirin və Əlavə et **(Add)** və ya Yadda saxla və yenisini əlavə et **(Save & add another)** düyməsini basaraq yayımlayın.
+
 
 #### 1.3.2.4. Mövcud Məlumat dəstinin resurs məlumatlarına düzəliş edilməsi
 
