@@ -436,7 +436,7 @@ Açıqlama: Bu resurs Sumqayıt şəhərindəki avtobus dayanacaqlarının yerl�
 
 #### 1.3.1.4. Məlumat idarəetmə sistemində yer alan məlumat dəstlərinə tətbiq oluna biləcək lisenziyalar
 
-**1\. Creative Commons Attribution 4.0 İnternational (CC BY 4.0) License - Kreativ Kommons Beynəlxalq Atributlaşdırma Lisenziyası**
+**1\. Creative Commons Attribution (CC BY 4.0) License - Kreativ Kommons Atributlaşdırma Lisenziyası**
 
 Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən məlumat dəstlərinin sərbəst istifadəsinə imkan yaradır və aşağıdakı şərtləri müəyyən edir:
 
