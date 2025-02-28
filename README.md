@@ -179,7 +179,7 @@ Məlumat redaktoru aşağıdakı öhdəlikləri vardır.
 
 Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfindən idarə olunur. Sadəcə Kateqoriyalara əlavə edilməsi İRİA tərəfindən idarə edilir. Bu səbəblə iştirakçılar bu Kateqoriyalar bölməsində hər hansı bir **əməliyyat aparmamalıdır.**
 
-### 1.3.1.1 Məlumat dəstinin əlavə edilməsi.
+### 1.3.1.1 Məlumat dəstinin əlavə edilməsi (həmçinin bax 1.3.1.2. və 1.3.2.2. bölmələri).
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəstləri **(Datasets)** bölməsinə klikləyin.
@@ -517,52 +517,40 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
   <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
         <tr style="background-color: #d9e1f2; text-align: left;">
-            <th>#</th>
             <th>Məlumat</th>
         </tr>
         <tr>
-            <td>1</td>
             <td>Məlumat dəsti portalda təkrarlanmır.</td>
         </tr>
         <tr>
-            <td>2</td>
             <td>Məlumat tamdır (boş sətirlər və ya sütunlar yoxdur).</td>
         </tr>
         <tr>
-            <td>3</td>
             <td>Məlumat dəstində dublikatlar (təkrar sətr və ya sütunlar) yer almır.</td>
         </tr>
         <tr>
-            <td>4</td>
             <td>Məlumat dəsti tək bir sütundan ibarət olmamalıdır.</td>
         </tr>
         <tr>
-            <td>5</td>
             <td>Məlumat dəstinin atributları (sütun başlıqları, açar sözləri), yüklənən faylın adı və digər elementləri Azərbaycan dilində olmalı və təmsil etdiyi məlumatları izah etməlidir.</td>
         </tr>
         <tr>
-            <td>6</td>
             <td>Əgər məlumat dəstinin xarici dil versiyası varsa, bu Azərbaycan dilindəki versiyaya uyğun olmalı və Azərbaycan dilindən tərcümə edilməlidir.</td>
         </tr>
         <tr>
-            <td>7</td>
-            <td>Məlumat dəstində məlumat xarakterli sütunlar olmamalıdır (notlar, qeydlər kimi).</td>
+            <td>Məlumat dəstində məlumat xarakterli sütunlar olmamalıdır (notlar, qeydlər kimi. Bunları açıqlama hissəsində qeyd edə bilərsiniz.).</td>
         </tr>
         <tr>
-            <td>8</td>
             <td>Məlumat dəsti maşın emalına uyğun formatdadır (CSV, XML, JSON, RDF, API və s.).</td>
         </tr>
         <tr>
-            <td>9</td>
             <td>UTF-8 formatında olmalıdır.</td>
         </tr>
         <tr>
-            <td>10</td>
             <td>Məlumat dəstinin atributları (sütun başlıqları, açar sözləri) arasında yaranma tarixi və dəyişdirilmə tarixi yer almamalıdır (açıq məlumatlar portalında bu avtomatik yaranır və əks olunur).</td>
         </tr>
         <tr>
-            <td>11</td>
-            <td>Müəssisələr və ictimaiyyət üçün məlumat dəsti faydalıdır (bu datanın nə qədər dəyərlidir).</td>
+            <td>Müəssisələr və ictimaiyyət üçün paylaşılan məlumat dəsti faydalı olmalıdır.</td>
         </tr>
     </table>
 
