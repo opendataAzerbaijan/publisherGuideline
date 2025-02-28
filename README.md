@@ -2,8 +2,8 @@
 
 Bu təlimat [**CKAN 2.10.7 Overview**](https://docs.ckan.org/en/2.10/) sənədinə əsaslanaraq hazırlanmış və “Açıq Məlumatlar” portalının məlumat idarəetmə sistemindən istifadə edən iştirakçılar üçün nəzərdə tutulmuşdur. Təlimatda iştirakçıların yerinə yetirəcəyi bütün əməliyyatlar ətraflı izah edilmişdir. Bu, onların məlumatların paylaşılması və idarə olunması prosesini effektiv və düzgün şəkildə icra etməsinə kömək edəcək.
 
-# "Açıq Məlumatlar" portalı nədir
-
+# "Açıq Məlumatlar" portalı
+**Açıq Məlumatlar** Əldə olunması, işlənməsi, verilməsi və ya istifadəsi Azərbaycan Respublikasının qanunvericiliyi ilə məhdudlaşdırılmayan və ümumi istifadə üçün təyin olunmuş məlumatlardır
 **"Açıq Məlumatlar" portalı** ictimaiyyət üçün açıq olan məlumatların toplanması, idarə olunması və paylaşılması üçün rəqəmsal platformadır. Portal şəffaflığı artırır, məlumatlardan istifadəyə şərait yaradır və innovasiyalara dəstək verir. Adətən Məlumat idarəetmə sistemi (CKAN) əsasında işləyir və müxtəlif formatlarda məlumat təqdim edir.
 
 # Əsas anlayışlar
@@ -19,28 +19,17 @@ Aşağıdakı cədvəl sizə portalda yer alan Anlayışlar və biznes terminlə
     </thead>
     <tbody>
         <tr>
-            <td>Open Data (Açıq məlumat)</td>
-            <td>Əldə olunması, işlənməsi, verilməsi və ya istifadəsi Azərbaycan Respublikasının qanunvericiliyi ilə məhdudlaşdırılmayan və ümumi istifadə üçün təyin olunmuş məlumatlar</td>
-        </tr>
-        <tr>
-            <td>Metadata (Metaməlumatlar)</td>
-            <td>Məlumat dəstləri haqqında məlumatları təsvir edən məlumatlar.</td>
-        </tr>
-        <tr>
             <td>Dataset (Məlumat Dəsti)</td>
             <td>Müəyyən bir mövzuya aid məlumatların toplusu. Məsələn, bir bölgənin cinayət statistikası və ya hökumət departamentinin xərcləri haqqında məlumatlar.</td>
         </tr>
         <tr>
-            <td>Source (Mənbə)</td>
-            <td>İdarəetmə sistemində məlumat dəstinin mənşəyini və ya məlumatın haradan alındığını göstərmək üçün nəzərdə tutulub.</td>
+            <td>Metadata (Metaməlumatlar)</td>
+            <td>məlumatı izah edərək həmin məlumatın əlçatanlığının təmin edilməsinə xidmət edən məlumat</td>
         </tr>
+
         <tr>
             <td>Resource (Resurs)</td>
             <td>Məlumat dəstindəki faktiki məlumat faylları və ya məlumat mənbələri. Bu fayllar CSV, Excel formatları (XLS, XLSX), XML, PDF və ya digər formalarda ola bilər.</td>
-        </tr>
-        <tr>
-            <td>Activity Stream (Fəaliyyət Axını)</td>
-            <td>Məlumat dəstləri və təşkilatlar üzərində aparılan son fəaliyyətlərin xronoloji siyahısı.</td>
         </tr>
     </tbody>
 </table>
@@ -63,7 +52,7 @@ Məlumat idarəetmə sistemində aşağıdakı əsas bölmələr yer alır.
         </tr>
         <tr>
             <td>Organizations (Təşkilatlar)</td>
-            <td>Hər bir Məlumat dəsti bir təşkilata aiddir və onu həmin təşkilat idarə edir. Hər bir təşkilatda aşağıda yer alan İştirakçı rolları mövcuddur: Admin, Editor və Member.</td>
+            <td>Hər bir Məlumat dəsti bir təşkilata aiddir və onu həmin təşkilat idarə edir. Hər bir təşkilatda qeyd etdiyim iştirakçı rolları mövcuddur: Admin, Editor və Member.</td>
         </tr>
         <tr>
             <td>Groups (Kateqoriyalar)</td>
@@ -80,25 +69,22 @@ Məlumat idarəetmə sistemində aşağıdakı əsas bölmələr yer alır.
     </tbody>
 </table>
 
-# 1\. Məlumat idarəetmə sisteminin istifadəsi
+# 1\. Məlumat idarəetmə sisteminin istifadəsi.
 
+## 1.1. İştirakçı hesabının idarə edilməsi.
+Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji ardıcıllıq və həmçinində yeniləməni edən **İştirakçının adı** portal istifadəçilərinə görünür. Bu səbəblə **İştirakçı adı və digər məlumatlar düzgün** qeyd olunmalıdır.
 
-
-
-## 1.1. İştirakçı hesabının idarə edilməsi
-“Açıq məlumatlar” portalında Məlumat dəstinə daxil olduğumuz zaman fəaliyyət axını bölməsi mövcuddur, bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji ardıcıllıq və həmçinində yeniləməni edən **İştirakçının adı** portal istifadəçilərinə görünür. Bu səbəblə **İştirakçı adı və digər məlumatlar düzgün** qeyd olunmalıdır.
-
-### 1.1.1. Qeydiyyatdan keçmək
+### 1.1.1. Qeydiyyatdan keçmək.
 1. İştirakçıya göndərilən dəvət mesajında verilən linkə daxil olun.
 2. İştirakçı adı **(Username)** olaraq İştirakçının adı və soyadı qeyd olunmalıdır.
 3. Şifrənizi **(Password)** təyin edin və Şifrəni təsdiq edin **(Confirm)**.
 4. Şifrəni yeniləyin **(Update Password)** butonuna klikləyərək hesabı aktivləşdirin.
 
-### 1.1.2. Məlumat idarəetmə sisteminə daxil olmaq
-
-1. Açıq məlumatlar portalının Məlumat idarəetmə sistemində Daxil ol **(Log in)** butonuna klikləyin.
-2. Istifadəçi adı **(Username)** və ya elektron poçt **(e-mail)** və şifrə **(password)** daxil edin.
-3. Daxil olun **(Login)** butonuna klikləyib daxil olun.
+### 1.1.2. Məlumat idarəetmə sisteminə daxil olmaq.
+1.[Məlumat İdarəetmə sistemi](https://opendata-api.idda.az/) link vasitəsilə idarəetmə sisteminə keçid edin.
+2. Açıq məlumatlar portalının Məlumat idarəetmə sistemində Daxil ol **(Log in)** butonuna klikləyin.
+3. Istifadəçi adı **(Username)** və ya elektron poçt **(e-mail)** və şifrə **(password)** daxil edin.
+4. Daxil olun **(Login)** butonuna klikləyib daxil olun.
 
 ### 1.1.3. İştirakçı Profilinin məlumatlarının redaktə edilməsi.
 
@@ -118,22 +104,22 @@ Məlumat idarəetmə sistemində aşağıdakı əsas bölmələr yer alır.
         <tr>
             <td>Full name</td>
             <td>Tam ad</td>
-            <td>İştirakçının ad və soyad yazılmalıdır.</td>
+            <td>İştirakçının ad və soyad yazılmalıdır (zəruridir).</td>
         </tr>
         <tr>
             <td>Email</td>
             <td>E-poçt</td>
-            <td>İştirakçının Elektron poçt ünvanı yerləşir.</td>
+            <td>İştirakçının Elektron poçt ünvanı yerləşir (zəruridir).</td>
         </tr>
         <tr>
             <td>About</td>
             <td>Haqqında</td>
-            <td>İştirakçının təmsil etdiyi qurumdakı struktur bölməsi və vəzifəsi və.s haqqında məlumat verilsin.</td>
+            <td>İştirakçının təmsil etdiyi qurumdakı struktur bölməsi və vəzifəsi və.s haqqında məlumat verilsin (zəruridir).</td>
         </tr>
         <tr>
             <td>Profile picture</td>
             <td>Profil şəkli</td>
-            <td>İştirakçı öz şəkilini bura yerləşdirə bilər.</td>
+            <td>İştirakçı öz şəkilini bura yerləşdirə bilər (zəruri deyil).</td>
         </tr>
     </tbody>
 </table>
@@ -141,6 +127,8 @@ Məlumat idarəetmə sistemində aşağıdakı əsas bölmələr yer alır.
 ###### Cədvəl 1
 
 4. Profili yeniləyin **(Update Profile)** hissəsinə klik edərək İştirakçı profilinin redaktəsini tamamlaya bilərik.
+
+###### Qeyd: Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji ardıcıllıq və həmçinində yeniləməni edən **İştirakçının adı** portal istifadəçilərinə görünür. Bu səbəblə **İştirakçı adı və digər məlumatlar düzgün** qeyd olunmalıdır.
 
 ### 1.1.4. İştirakçı Profilinin şifrəsinin dəyişdirilməsi
 
