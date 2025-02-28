@@ -463,30 +463,59 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 
 ###### Cədvəl 5
 
-#### 1.3.2.2. Mövcud Məlumat dəstinin resursunu əlavə edərkən diqqət etməli olduğumuz məqamlar.
-  Məlumat dəstininin resursunu əlavə edərkən onun unicode simvollarının kodlaşdırılması, resursun, sütunlarının və.s adlandırmalar zamanı aşağıdakılara əməl etməlisiniz.
+#### 1.3.2.2. Mövcud Məlumat Açıq məlumatlar portalına əlavə edərkən diqqət etməli oldiğumuz məqamlar.
   <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
         <tr style="background-color: #d9e1f2; text-align: left;">
-            <th>Əsas məqamlar</th>
-            <th>Açıqlaması</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><strong>simvolların kodlaşdırılması</strong></td>
-            <td>
-                Məlumat simvolları kodlaşdırılması zamanı UTF-8 kodlaşdırma formatından istifadə olunmalıdır.
-            </td>
+            <th>#</th>
+            <th>Məlumat</th>
         </tr>
         <tr>
-            <td><strong>Adlandırma</strong></td>
-            <td>
-                Resurs faylının adı, Excel vərəqinin (sheet name) adı, Cədvəl(Excel, CSV və.s) strukturundan istifadə edilən zaman Sütun adları və İyerarxik(JSON, XML və.s) strukturundan isifadə edən zaman açar adların(key name) adlandırılması Azərbaycan dilində və həmin məlumat sütununu və ya dəyərini izah edən bir adlandırma edilməlidir. 
-            </td>
+            <td>1</td>
+            <td>Məlumat dəsti portalda təkrarlanmır.</td>
         </tr>
-    </tbody>
-</table>
+        <tr>
+            <td>2</td>
+            <td>Məlumat tamdır (boş sətirlər və ya sütunlar yoxdur).</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Məlumat dəstində dublikatlar (təkrar sətr və ya sütunlar) yer almır.</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Məlumat dəsti tək bir sütundan ibarət olmamalıdır.</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Məlumat dəstinin atributları (sütun başlıqları, açar sözləri), yüklənən faylın adı və digər elementləri Azərbaycan dilində olmalı və təmsil etdiyi məlumatları izah etməlidir.</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Əgər məlumat dəstinin xarici dil versiyası varsa, bu Azərbaycan dilindəki versiyaya uyğun olmalı və Azərbaycan dilindən tərcümə edilməlidir.</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Məlumat dəstində məlumat xarakterli sütunlar olmamalıdır (notlar, qeydlər kimi).</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Məlumat dəsti maşın emalına uyğun formatdadır (CSV, XML, JSON, RDF, API və s.).</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>UTF-8 formatında olmalıdır.</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Məlumat dəstinin atributları (sütun başlıqları, açar sözləri) arasında yaranma tarixi və dəyişdirilmə tarixi yer almamalıdır (açıq məlumatlar portalında bu avtomatik yaranır və əks olunur).</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>Müəssisələr və ictimaiyyət üçün məlumat dəsti faydalıdır (bu datanın nə qədər dəyərlidir).</td>
+        </tr>
+    </table>
+
 
 ###### Cədvəl 6
 
