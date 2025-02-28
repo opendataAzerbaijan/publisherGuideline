@@ -366,15 +366,11 @@ Açıqlama: Bu resurs Sumqayıt şəhərindəki avtobus dayanacaqlarının yerl�
     </tr>
     <tr>
         <td>URL başlığa uyğun olaraq ingilis simvolları ilə Azərbaycan dilində yazılmalıdır.</td>
-        <td>URL avtomatik olaraq yaradılır, başlığa uyğun amma siz URL'i dəyişmək istəsəniz, ingilis simvolları ilə Azərbaycan dilində dəyişə bilərsiniz. Məsələn, Başlıq: Torpaq sürüşməsi sahələri. URL: "torpaq-surusme-saheleri" və ya surusme-saheleri</td>
+        <td>URL avtomatik olaraq yaradılır, Əgər dəyişmək istəsəniz, başlığa uyğun URL'i dəyişə bilərsiniz, ingilis simvolları ilə Azərbaycan dilində dəyişə bilərsiniz. Məsələn, Başlıq: Torpaq sürüşməsi sahələri. URL: "torpaq-surusme-saheleri" və ya surusme-saheleri</td>
     </tr>
     <tr>
         <td>Versiyalandırma məntiqə uyğun qeyd olunmalıdır.</td>
         <td>Məlumat dəstini ilk dəfə yükləyirsinizsə "1.0" qeyd olunur, daha sonra versiyanı dəyişmək üçün təlimatda 1.3.1.3. qeyd olunan versiyalandırma məntiqindən istifadə edə bilərsiniz</td>
-    </tr>
-    <tr>
-        <td>Məlumat dəsti ilə bağlı fərqli resursların hər birinə uyğun olaraq Ad və açıqlama yazılmalıdır.</td>
-        <td>Ola bilərki məlumat dəsti ilə bağlı fərqli strukturda(format nəzərdə tutulmur) məlumat dəstləriniz var. Onlara fərqli adlandırma etməli və açıqlama yazmalısınız. Məsələn Torpaq sürüşmə sahələrinin Bakı üçün dəqiq koordinatlarının olduğu bir faylınız var. Digər şəhərlər üçün isə sadəcə ərazi olaraq sürüşmə sahələrinin zonası qeyd olunub. bu resursları məlumat dəstinə əlavə edirik və hər ikisinə uyğun ad və açıqlamalarını yazırıq.  </td>
     </tr>
 </table>
 
