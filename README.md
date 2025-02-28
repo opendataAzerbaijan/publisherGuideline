@@ -26,7 +26,6 @@ Aşağıdakı cədvəl sizə portalda yer alan Anlayışlar və biznes terminlə
             <td>Metadata (Metaməlumatlar)</td>
             <td>məlumatı izah edərək həmin məlumatın əlçatanlığının təmin edilməsinə xidmət edən məlumat</td>
         </tr>
-
         <tr>
             <td>Resource (Resurs)</td>
             <td>Məlumat dəstindəki faktiki məlumat faylları və ya məlumat mənbələri. Bu fayllar CSV, Excel formatları (XLS, XLSX), XML, PDF və ya digər formalarda ola bilər.</td>
@@ -81,7 +80,7 @@ Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji 
 4. Şifrəni yeniləyin **(Update Password)** butonuna klikləyərək hesabı aktivləşdirin.
 
 ### 1.1.2. Məlumat idarəetmə sisteminə daxil olmaq.
-1.[Məlumat İdarəetmə sistemi](https://opendata-api.idda.az/) link vasitəsilə idarəetmə sisteminə keçid edin.
+1. [Məlumat İdarəetmə sistemi](https://opendata-api.idda.az/) link vasitəsilə idarəetmə sisteminə keçid edin.
 2. Açıq məlumatlar portalının Məlumat idarəetmə sistemində Daxil ol **(Log in)** butonuna klikləyin.
 3. Istifadəçi adı **(Username)** və ya elektron poçt **(e-mail)** və şifrə **(password)** daxil edin.
 4. Daxil olun **(Login)** butonuna klikləyib daxil olun.
