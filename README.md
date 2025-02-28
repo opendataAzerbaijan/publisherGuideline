@@ -213,8 +213,8 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             <td>Tags</td>
             <td>Etiketlər</td>
             <td>
-                Tag, məlumat dəstini təsvir etmək və axtarışı asanlaşdırmaq üçün məlumat dəstinin başlığına uyğun verilən açar sözlərdir. Azərbaycan dilində olmalıdır<br>
-                (məsələn təhsil, xərclərin).
+                Tag, məlumat dəstini təsvir etmək və axtarışı asanlaşdırmaq üçün verilən açar sözlərdir.
+                Etiketlər məlumat dəstinin başlığına uyğun Azərbaycan dilində yazılmalıdır. Məsələn: "Sürüşmə sahələri", "Torpaq sürüşməsi koordinatları"
             </td>
         </tr>
         <tr>
@@ -329,6 +329,53 @@ _Create Dataset bölməsində olan title və description, Məlumat dəstinin üm
 
 _Add Data bölməsində isə hər bir əlavə edilən data file üçün ayrıca title və description təyin edilir. Bu, fərqli data fayllarının bir Məlumat dəsti daxilində ayırd edilməsini təmin edir. Bunun əsas səbəbi, bir Məlumat dəsti daxilində bir neçə data faylının ola bilməsidir. Hər bir fayl fərqli məlumatları əhatə edə bilər._
 
+#### 1.3.1.2. Məlumat dəstinin metaməlumatlarını əlavə edərkən diqqət etməli oldiğumuz məqamlar.
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+    <thead>
+        <tr style="background-color: #f2f2f2;">
+        <th>Metaməlumat</th>
+        <th>Açıqlama və nümunə</th>
+    </tr>
+    <tr>
+        <td>Başlıq ilə açıqlama fərqli olmalıdır.</td>
+        <td>Başlıq: Torpaq sürüşməsi sahələri
+        açıqlama: Bu məlumat dəstində Azərbaycan Respublikasında aktiv sürüşmə sahələri və onların koodinantları təqdim olunur. Məlumatın yenilənmə tezliyi: 6 ay.</td>
+    </tr>
+    <tr>
+        <td>Hər üç dildə tərcümə edilərək metaməlumatlar doldurulmalıdır.</td>
+        <td>İngilis və Rus dilinə Azərbaycanca qoyduğunuz başlığdan uyğun bir şəkildə tərcümə edə bilərsiniz</td>
+    </tr>
+    <tr>
+        <td>İnformasiyanın sahibi və ya onu yaradan tərəf açıqlamada qeyd olunmalıdır (Əgər paylaşan təşkilat onun sahibi deyilsə).</td>
+        <td>Statistik büdcə məlumatları paylaşılmışdır. Bu məlumatların əsas sahibi Maliyyə Nazirliyidir. Bu səbəblə açıqlamada qeyd olunmalıdır. </td>
+    </tr>
+    <tr>
+        <td>Məlumat dəstinin birdən artıq iştirakçısı (dövlət və ya özəl təşkilat) varsa açıqlamada qeyd olunmalıdır.</td>
+        <td> Ekologiya və Təbbi Sərvətlər Nazirliyi "Su keyfiyyəti" ilə bağlı bir məlumat dəstini Azərsu təşkilatının yardımı ilə bir məlumat dəsti hazırlamışdırsa, bu açıqlamada qeyd olunmalıdır. </td>
+    </tr>
+    <tr>
+        <td>Açıqlamada məlumat dəstinin əhatə dairəsi olmalıdır.</td>
+        <td>Əhatə dairəsi: Bakı və ya Azərbaycan Respublikası.</td>
+    </tr>
+    <tr>
+        <td>URL başlığa uyğun olaraq ingilis simvolları ilə Azərbaycan dilində yazılmalıdır.</td>
+        <td>URL avtomatik olaraq yaradılır, başlığa uyğun amma siz URL'i dəyişmək istəsəniz, ingilis simvolları ilə Azərbaycan dilində dəyişə bilərsiniz. Məsələn, Başlıq: Torpaq sürüşməsi sahələri. URL: "torpaq-surusme-saheleri" və ya surusme-saheleri</td>
+    </tr>
+    <tr>
+        <td>Versiyalandırma məntiqə uyğun qeyd olunmalıdır.</td>
+        <td>Məlumat dəstini ilk dəfə yükləyirsinizsə "1.0" qeyd olunur, daha sonra versiyanı dəyişmək üçün təlimatda 1.3.1.3. qeyd olunan versiyalandırma məntiqindən istifadə edə bilərsiniz</td>
+    </tr>
+    <tr>
+        <td>Məlumat dəsti ilə bağlı fərqli resursların hər birinə uyğun olaraq Ad və açıqlama yazılmalıdır.</td>
+        <td>Ola bilərki məlumat dəsti ilə bağlı fərqli strukturda(format nəzərdə tutulmur) məlumat dəstləriniz var. Onlara fərqli adlandırma etməli və açıqlama yazmalısınız. Məsələn Torpaq sürüşmə sahələrinin Bakı üçün dəqiq koordinatlarının olduğu bir faylınız var. Digər şəhərlər üçün isə sadəcə ərazi olaraq sürüşmə sahələrinin zonası qeyd olunub. bu resursları məlumat dəstinə əlavə edirik və hər ikisinə uyğun ad və açıqlamalarını yazırıq.  </td>
+    </tr>
+</table>
+
+
+
+###### Cədvəl 4
+
+
 #### 1.3.1.3. Məlumat idarəetmə sistemində yer alan məlumat dəstlərinin versiyalandırması məntiqi
 
 İştiakçılar təqdim etdikləri Məlumat dəstlərdə baş verən hər bir dəyişiklik növünü Məlumat dəstinin məzmununa və təsirinə görə **Xırda(PATCH)**, **Kiçik(MINOR)**, və ya **Böyük(MAJOR)** versiyalandırma altında təsnif edilir.
@@ -382,7 +429,7 @@ _Add Data bölməsində isə hər bir əlavə edilən data file üçün ayrıca 
     </tbody>
 </table>
 
-###### Cədvəl 4
+###### Cədvəl 5
 
 #### 1.3.1.4. Məlumat idarəetmə sistemində yer alan məlumat dəstlərinə tətbiq oluna biləcək lisenziyalar
 
@@ -461,9 +508,9 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
     </tbody>
 </table>
 
-###### Cədvəl 5
+###### Cədvəl 6
 
-#### 1.3.2.2. Mövcud Məlumat Açıq məlumatlar portalına əlavə edərkən diqqət etməli oldiğumuz məqamlar.
+#### 1.3.2.2. Məlumat dəstinə Məlumatı(Resursu) əlavə edərkən diqqət etməli oldiğumuz məqamlar.
   <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
         <tr style="background-color: #d9e1f2; text-align: left;">
@@ -517,7 +564,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
     </table>
 
 
-###### Cədvəl 6
+###### Cədvəl 7
 
 
 #### 1.3.2.3. Mövcud Məlumat dəstinə yeni resurs əlavə etmək
@@ -757,7 +804,7 @@ Editor-un bütün funksiyalarını yerinə yetirə bilər.
     </tbody>
 </table>
 
-###### Cədvəl 7
+###### Cədvəl 8
 
 5. Yeniləmələrinizi nəzərdən keçirin və dəyişiklikləri saxlamaq üçün Təşkilatı yeniləyin **(Update Organization)** düyməsinə klikləyin.
 
