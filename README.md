@@ -166,7 +166,7 @@ Məlumat redaktoru aşağıdakı öhdəlikləri vardır.
 
 Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfindən idarə olunur. Sadəcə Kateqoriyalara əlavə edilməsi İRİA tərəfindən idarə edilir. Bu səbəblə iştirakçılar bu Kateqoriyalar bölməsində hər hansı bir **əməliyyat aparmamalıdır.**
 
-### 1.3.1.1 Məlumat dəstinin əlavə edilməsi (həmçinin bax 1.3.1.2. və 1.3.2.2. bölmələri).
+### 1.3.1.1 Məlumat dəstinin əlavə edilməsi.
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəstləri **(Datasets)** bölməsinə klikləyin.
@@ -309,8 +309,13 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
 ###### Cədvəl 3
 
 8. Məlumatları yenidən nəzərdən keçirin və bitir **(Finish)** və ya yadda saxla və yenisini əlavə et **(Save & add another)**düyməsini basaraq əməliyyatı tamamlayın.
-   
-#### Qeyd: 
+#### Qeyd 1: 
+##### Məlumat dəsti private rejimdə əlavə edilməli və rəy verilməsi üçün <tural.nasirli@idda.az> elektron poçtuna məlumat verilməlidir. Verilən rəyə uyğun düzəlişlər edildikdən sonra public edilə bilər.
+
+#### Qeyd 2:  
+##### Məlumat dəsti əlavə edilən zaman prosesin düzgün aparılması üçün 1.3.1.2. və 1.3.2.2. bölmələrinin nəzərdən keçirmək vacibdir.
+
+#### Qeyd 3: 
 ##### Məlumat dəstinin metaməlumatlarında yer alan başlıq və açıqlamaları ilə resurs əlavə edərkən yazılmalı olan ad və açıqlamadan fərqlidir. Resursa bu ad və açıqlamanı məlumat dəsti ilə bağlı fərqli strukturda amma həmin məlumat dəstinə aid resurslar olduqda edirik. Aşağıdakı nümunəyə nəzər salaq.
 ###### Məlumat Dəsti:
 Başlıq: İctimai nəqliyyat dayanacaqlarının yerləşməsi və infrastrukturu
@@ -359,6 +364,7 @@ Açıqlama: Bu resurs Sumqayıt şəhərindəki avtobus dayanacaqlarının yerl�
         <td>Versiyalandırma məntiqə uyğun qeyd olunmalıdır.</td>
         <td>Məlumat dəstini ilk dəfə yükləyirsinizsə "1.0" qeyd olunur, daha sonra versiyanı dəyişmək üçün təlimatda 1.3.1.3. qeyd olunan versiyalandırma məntiqindən istifadə edə bilərsiniz</td>
     </tr>
+        
 </table>
 
 
@@ -538,6 +544,9 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
         </tr>
         <tr>
             <td>Müəssisələr və ictimaiyyət üçün paylaşılan məlumat dəsti faydalı olmalıdır.</td>
+        </tr>
+         <tr>
+        <td>Əgər Məlumat dəstində yer alan məlumat məlumat bazası və.s ilə bağlı dəyişiklik və ya digər texniki məlumatdırsa, həmin məlumat (məsələn cədvəldə silinməlidir. Texniki məlumat həmçinin məlumat dəstinə dəyər qatdığı düşünülürsə məlumatı saxlaya bilərik.</td>
         </tr>
     </table>
 
