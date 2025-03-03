@@ -342,7 +342,7 @@ Açıqlama: Bu resurs Sumqayıt şəhərindəki avtobus dayanacaqlarının yerl�
     </tr>
     <tr>
         <td>Bəzi metaməlumat bölmələrdə 3 dildə (Az, Ru, Eng) məlumat daxil olunası tələb olunur. Hər üç dildə məlumatların daxil edilməsi zəruridir.</td>
-        <td>İngilis və Rus dilinə Azərbaycanca qoyduğunuz başlığdan uyğun bir şəkildə tərcümə edə bilərsiniz</td>
+        <td>İngilis və Rus dilinə Azərbaycanca qoyduğunuz metaməlumata uyğun bir şəkildə tərcümə edə bilərsiniz</td>
     </tr>
     <tr>
         <td>İnformasiyanın sahibi və ya onu yaradan tərəf açıqlamada qeyd olunmalıdır (Əgər paylaşan təşkilat onun sahibi deyilsə).</td>
