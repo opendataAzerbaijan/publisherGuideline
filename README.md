@@ -796,6 +796,9 @@ Editor-un bütün funksiyalarını yerinə yetirə bilər.
 
 5. Yeniləmələrinizi nəzərdən keçirin və dəyişiklikləri saxlamaq üçün Təşkilatı yeniləyin **(Update Organization)** düyməsinə klikləyin.
 
+#### Qeyd: 
+##### Təşkilat məlumatları ən azı bir dəfə təşkilatın məsul şəxsləri tərəfindən yenilənməlidir.
+
 #### 1.5.1.2. Mövcud Təşkilatdakı memberləri (üzvləri) rollarını dəyişmək.
 
 ##### Üsul 1
