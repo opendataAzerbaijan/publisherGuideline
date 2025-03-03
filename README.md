@@ -201,7 +201,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             <td>Etiketlər</td>
             <td>
                 Tag, məlumat dəstini təsvir etmək və axtarışı asanlaşdırmaq üçün verilən açar sözlərdir.
-                Etiketlər məlumat dəstinin başlığına uyğun Azərbaycan dilində yazılmalıdır. Məsələn: "Sürüşmə sahələri", "Torpaq sürüşməsi koordinatları"
+                Etiketlər məlumat dəstinin başlığına və açıqlamasına uyğun Azərbaycan dilində yazılmalıdır. Məsələn: "Sürüşmə sahələri", "Torpaq sürüşməsi koordinatları"
             </td>
         </tr>
         <tr>
@@ -354,7 +354,7 @@ Açıqlama: Bu resurs Sumqayıt şəhərindəki avtobus dayanacaqlarının yerl�
     </tr>
     <tr>
         <td>Açıqlamada məlumat dəstinin əhatə dairəsi olmalıdır.</td>
-        <td>Əhatə dairəsi: Bakı və ya Azərbaycan Respublikası.</td>
+        <td>Əhatə dairəsi: Bakı, Dövlət və ya Azərbaycan Respublikası.</td>
     </tr>
     <tr>
         <td>URL başlığa uyğun olaraq ingilis simvolları ilə Azərbaycan dilində yazılmalıdır.</td>
