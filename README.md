@@ -513,13 +513,13 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
             <th>Məlumat</th>
         </tr>
         <tr>
-            <td>Məlumat dəsti portalda təkrarlanmır.</td>
+            <td>Məlumat dəsti portalda təkrarlanmamalıdır.</td>
         </tr>
         <tr>
-            <td>Məlumat tamdır (boş sətirlər və ya sütunlar yoxdur).</td>
+            <td>Məlumat tamd olmalıdır (boş sətirlər və ya sütunlar yoxdur).</td>
         </tr>
         <tr>
-            <td>Məlumat dəstində dublikatlar (təkrar sətr və ya sütunlar) yer almır.</td>
+            <td>Məlumat dəstində dublikatlar (təkrar sətr və ya sütunlar) yer almamaldır.</td>
         </tr>
         <tr>
             <td>Məlumat dəsti tək bir sütundan ibarət olmamalıdır.</td>
@@ -531,22 +531,19 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
             <td>Əgər məlumat dəstinin xarici dil versiyası varsa, bu Azərbaycan dilindəki versiyaya uyğun olmalı və Azərbaycan dilindən tərcümə edilməlidir.</td>
         </tr>
         <tr>
-            <td>Məlumat dəstində məlumat xarakterli sütunlar olmamalıdır (notlar, qeydlər kimi. Bunları açıqlama hissəsində qeyd edə bilərsiniz.).</td>
+            <td>Məlumat dəstində məlumat xarakterli sütunlar olmamalıdır (notlar, qeydlər kimi. Bunları açıqlama hissəsində qeyd edə bilərsiniz).</td>
         </tr>
         <tr>
             <td>Məlumat dəsti maşın emalına uyğun formatdadır (CSV, XML, JSON, RDF, API və s.).</td>
         </tr>
         <tr>
-            <td>UTF-8 formatında olmalıdır.</td>
+            <td>Məlumat dəsti UTF-8 formatında olmalıdır.</td>
         </tr>
-        <tr>
-            <td>Məlumat dəstinin atributları (sütun başlıqları, açar sözləri) arasında yaranma tarixi və dəyişdirilmə tarixi yer almamalıdır (açıq məlumatlar portalında bu avtomatik yaranır və əks olunur).</td>
+         <tr>
+        <td>Əgər Məlumat dəstində yer alan məlumat məlumat bazası və.s ilə bağlı dəyişiklik və ya digər texniki məlumatdırsa, həmin məlumat (məsələn cədvəldə silinməlidir (Məsələn: yaranma tarixi və dəyişdirilmə tarixi). Texniki məlumat həmçinin məlumat dəstinə dəyər qatdığı düşünülürsə məlumatı saxlaya bilərik.</td>
         </tr>
         <tr>
             <td>Müəssisələr və ictimaiyyət üçün paylaşılan məlumat dəsti faydalı olmalıdır.</td>
-        </tr>
-         <tr>
-        <td>Əgər Məlumat dəstində yer alan məlumat məlumat bazası və.s ilə bağlı dəyişiklik və ya digər texniki məlumatdırsa, həmin məlumat (məsələn cədvəldə silinməlidir. Texniki məlumat həmçinin məlumat dəstinə dəyər qatdığı düşünülürsə məlumatı saxlaya bilərik.</td>
         </tr>
     </table>
 
