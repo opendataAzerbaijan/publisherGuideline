@@ -101,24 +101,24 @@ Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji 
     </thead>
     <tbody>
         <tr>
-            <td>Full name</td>
-            <td>Tam ad</td>
+            <td>* Full name</td>
+            <td>* Tam ad</td>
             <td>İştirakçının ad və soyad yazılmalıdır (zəruridir).</td>
         </tr>
         <tr>
-            <td>Email</td>
-            <td>E-poçt</td>
+            <td>* Email</td>
+            <td>* E-poçt</td>
             <td>İştirakçının Elektron poçt ünvanı yerləşir (zəruridir).</td>
         </tr>
         <tr>
-            <td>About</td>
-            <td>Haqqında</td>
-            <td>İştirakçının təmsil etdiyi qurumdakı struktur bölməsi və vəzifəsi və.s haqqında məlumat verilsin (zəruridir).</td>
+            <td>* About</td>
+            <td>* Haqqında</td>
+            <td>İştirakçının təmsil etdiyi qurumdakı struktur bölməsi və vəzifəsi və.s haqqında məlumat verilsin.</td>
         </tr>
         <tr>
             <td>Profile picture</td>
             <td>Profil şəkli</td>
-            <td>İştirakçı öz şəkilini bura yerləşdirə bilər (zəruri deyil).</td>
+            <td>İştirakçı öz şəkilini bura yerləşdirə bilər.</td>
         </tr>
     </tbody>
 </table>
@@ -126,8 +126,12 @@ Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji 
 ###### Cədvəl 1
 
 4. Profili yeniləyin **(Update Profile)** hissəsinə klik edərək İştirakçı profilinin redaktəsini tamamlaya bilərik.
+   
+#### Qeyd 1: 
+##### * işarəsi ilə fərqləndirilmiş bölmələrdəki məlumatların daxil edilməsi zəruridir.
 
-###### Qeyd: Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji ardıcıllıq və həmçinində yeniləməni edən **İştirakçının adı** portal istifadəçilərinə görünür. Bu səbəblə **İştirakçı adı və digər məlumatlar düzgün** qeyd olunmalıdır.
+#### Qeyd 2: 
+##### Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji ardıcıllıq və həmçinində yeniləməni edən **İştirakçının adı** portal istifadəçilərinə görünür. Bu səbəblə **İştirakçı adı və digər məlumatlar düzgün** qeyd olunmalıdır.
 
 ### 1.1.4. İştirakçı Profilinin şifrəsinin dəyişdirilməsi
 
@@ -185,19 +189,19 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
     <tbody>
         <tr>
             <td>Title</td>
-            <td>Məlumat dəstinin adı</td>
-            <td>Məlumat dəstinə aid təsviri bir başlıq (Əlavə məlumat üçün 1.3.1.2 bölməsinə baxa bilərsiniz).</td>
+            <td>* Məlumat dəstinin adı</td>
+            <td>Məlumat dəstinə aid təsviri bir başlıq.</td>
         </tr>
         <tr>
-            <td>Description</td>
+            <td>* Description</td>
             <td>Məlumat dəstinin açıqlaması</td>
             <td>
-                Məlumat dəsti haqqında faydalı qeydlər(Əlavə məlumat üçün 1.3.1.2 bölməsinə baxa bilərsiniz).<br>
+                Məlumat dəsti haqqında faydalı qeydlər.<br>
                 Bu hissədə məlumatın <strong>*yenilənmə tezliyi(Update Frequency)</strong> haqqında məlumat vermək vacibdir. Yenilənmə tezliyi məlumat dəstinin nə qədər zamandan bir yeniləndiyini bizə göstərir. <br>Nümunə: yenilənmə tezliyi = 1 ay, yenilənmə tezliyi = 3 saat.
             </td>
         </tr>
         <tr>
-            <td>Tags</td>
+            <td>* Tags</td>
             <td>Etiketlər</td>
             <td>
                 Tag, məlumat dəstini təsvir etmək və axtarışı asanlaşdırmaq üçün verilən açar sözlərdir.
@@ -205,7 +209,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             </td>
         </tr>
         <tr>
-            <td>License</td>
+            <td>* License</td>
             <td>Lisenziya</td>
             <td>
                 Lisenziya iştirakçılara həmin məlumat dəstinin istifadəsi, paylaşılması və yenidən işlənməsi ilə bağlı hüququ və məhdudiyyətləri bildirir. <br>
@@ -213,12 +217,12 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             </td>
         </tr>
         <tr>
-            <td>Organization</td>
+            <td>* Organization</td>
             <td>Təşkilat</td>
             <td>Məlumat dəstini idarə edən təşkilat.</td>
         </tr>
         <tr>
-            <td>Visibility</td>
+            <td>* Visibility</td>
             <td>Görünürlük</td>
             <td>
                 Görünürlük hissəsində iki seçim vardır.<br>
@@ -235,7 +239,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             </td>
         </tr>
         <tr>
-            <td>Version</td>
+            <td>* Version</td>
             <td>Versiya</td>
             <td>
                 Məlumat dəstinin cari versiyası. Versiyalandırma haqqında əlavə məlumatı 1.3.1.3. bölməsindən tanış ola bilərsiniz.
@@ -279,7 +283,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
     </thead>
     <tbody>
         <tr>
-            <td>Data</td>
+            <td>* Data</td>
             <td>Məlumat</td>
             <td>
                 Siz məlumat dəstinin resurslarını (mənbələrini) təyin edirsiniz. <br>
@@ -299,7 +303,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             <td>Resurs haqqında fərqləndirici məlumatlar.</td>
         </tr>
         <tr>
-            <td>Format</td>
+            <td>* Format</td>
             <td>Format</td>
             <td>Əlavə edilən mənbənin formatı qeyd olunur. Nümunə olaraq: məlumatları strukturludursa, CSV, yarı strukturlu və struktursuzdursa, JSON və ya XML kimi formatlardan istifadə edilə bilər.</td>
         </tr>
@@ -310,12 +314,15 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
 
 8. Məlumatları yenidən nəzərdən keçirin və bitir **(Finish)** və ya yadda saxla və yenisini əlavə et **(Save & add another)**düyməsini basaraq əməliyyatı tamamlayın.
 #### Qeyd 1: 
+##### * işarəsi ilə fərqləndirilmiş bölmələrdəki məlumatların daxil edilməsi zəruridir.
+
+#### Qeyd 2: 
 ##### Məlumat dəsti private rejimdə əlavə edilməli və rəy verilməsi üçün <tural.nasirli@idda.az> elektron poçtuna məlumat verilməlidir. Verilən rəyə uyğun düzəlişlər edildikdən sonra public edilə bilər.
 
-#### Qeyd 2:  
+#### Qeyd 3:  
 ##### Məlumat dəsti əlavə edilən zaman prosesin düzgün aparılması üçün 1.3.1.2. və 1.3.2.2. bölmələrinin nəzərdən keçirmək vacibdir.
 
-#### Qeyd 3: 
+#### Qeyd 4: 
 ##### Məlumat dəstinin metaməlumatlarında yer alan başlıq və açıqlamaları ilə resurs əlavə edərkən yazılmalı olan ad və açıqlamadan fərqlidir. Resursa bu ad və açıqlamanı məlumat dəsti ilə bağlı fərqli strukturda amma həmin məlumat dəstinə aid resurslar olduqda edirik. Aşağıdakı nümunəyə nəzər salaq.
 ###### Məlumat Dəsti:
 Başlıq: İctimai nəqliyyat dayanacaqlarının yerləşməsi və infrastrukturu
@@ -366,8 +373,6 @@ Açıqlama: Bu resurs Sumqayıt şəhərindəki avtobus dayanacaqlarının yerl�
     </tr>
         
 </table>
-
-
 
 ###### Cədvəl 4
 
@@ -506,7 +511,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 
 ###### Cədvəl 6
 
-#### 1.3.2.2. Məlumat dəstinə Məlumatı(Resursu) əlavə edərkən diqqət etməli oldiğumuz məqamlar.
+#### 1.3.2.2. Məlumat dəsti əlavə edərkən diqqət etməli oldiğumuz məqamlar.
   <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
         <tr style="background-color: #d9e1f2; text-align: left;">
@@ -546,7 +551,6 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
             <td>Müəssisələr və ictimaiyyət üçün paylaşılan məlumat dəsti faydalı olmalıdır.</td>
         </tr>
     </table>
-
 
 ###### Cədvəl 7
 
@@ -772,17 +776,17 @@ Editor-un bütün funksiyalarını yerinə yetirə bilər.
     </thead>
     <tbody>
         <tr>
-            <td>Title</td>
+            <td>* Title</td>
             <td>Başlıq</td>
             <td>Təşkilatın adı</td>
         </tr>
         <tr>
-            <td>Description</td>
+            <td>* Description</td>
             <td>Açıqlama</td>
             <td>Təşkilat haqqında məlumat</td>
         </tr>
         <tr>
-            <td>Image</td>
+            <td>* Image</td>
             <td>Şəkil</td>
             <td>Təşkilatın şəkil və ya <a href="#">logosu</a>. 43 x 43 piksel ölçüsündə olması məqsədə uyğundur.</td>
         </tr>
@@ -792,8 +796,11 @@ Editor-un bütün funksiyalarını yerinə yetirə bilər.
 ###### Cədvəl 8
 
 5. Yeniləmələrinizi nəzərdən keçirin və dəyişiklikləri saxlamaq üçün Təşkilatı yeniləyin **(Update Organization)** düyməsinə klikləyin.
+   
+#### Qeyd 1: 
+##### * işarəsi ilə fərqləndirilmiş bölmələrdəki məlumatların daxil edilməsi zəruridir.
 
-#### Qeyd: 
+#### Qeyd 2: 
 ##### Təşkilat məlumatları ən azı bir dəfə təşkilatın məsul şəxsləri tərəfindən yenilənməlidir.
 
 #### 1.5.1.2. Mövcud Təşkilatdakı memberləri (üzvləri) rollarını dəyişmək.
