@@ -242,7 +242,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             <td>* Version</td>
             <td>* Versiya</td>
             <td>
-                Məlumat dəstinin cari versiyası. Versiyalandırma haqqında əlavə məlumatı 1.3.1.3. bölməsindən tanış ola bilərsiniz.
+                Məlumat dəstinin cari versiyası. Məlumat dəstini ilk dəfə yükləyirsinizsə "1.0" qeyd olunur, daha sonra versiyanı dəyişmək üçün təlimatda 1.3.1.3. qeyd olunan versiyalandırma məntiqindən istifadə edə bilərsiniz
             </td>
         </tr>
         <tr>
@@ -367,10 +367,6 @@ Açıqlama: Bu resurs Sumqayıt şəhərindəki avtobus dayanacaqlarının yerl�
     <tr>
         <td>URL başlığa uyğun olaraq ingilis simvolları ilə Azərbaycan dilində yazılmalıdır.</td>
         <td>URL avtomatik olaraq yaradılır, Əgər dəyişmək istəsəniz, başlığa uyğun URL'i dəyişə bilərsiniz, ingilis simvolları ilə Azərbaycan dilində dəyişə bilərsiniz. Məsələn, Başlıq: Torpaq sürüşməsi sahələri. URL: "torpaq-surusme-saheleri" və ya surusme-saheleri</td>
-    </tr>
-    <tr>
-        <td>Versiyalandırma məntiqə uyğun qeyd olunmalıdır.</td>
-        <td>Məlumat dəstini ilk dəfə yükləyirsinizsə "1.0" qeyd olunur, daha sonra versiyanı dəyişmək üçün təlimatda 1.3.1.3. qeyd olunan versiyalandırma məntiqindən istifadə edə bilərsiniz</td>
     </tr>
         
 </table>
