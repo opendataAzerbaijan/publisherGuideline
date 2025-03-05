@@ -324,7 +324,8 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
 
 #### Qeyd 4: 
 ##### Məlumat dəstinin metaməlumatlarında yer alan başlıq və açıqlamaları ilə resurs əlavə edərkən yazılmalı olan ad və açıqlamadan fərqlidir. Resursa bu ad və açıqlamanı məlumat dəsti ilə bağlı fərqli strukturda amma həmin məlumat dəstinə aid resurslar olduqda edirik. Aşağıdakı nümunəyə nəzər salaq.
-###### Məlumat Dəsti:
+
+###### Məlumat Dəsti və onun açıqlamaları:
 Başlıq: İctimai nəqliyyat dayanacaqlarının yerləşməsi və infrastrukturu
 Açıqlama: Bu məlumat dəsti Bakı və Sumqayıt şəhərlərində ictimai nəqliyyat dayanacaqlarının dəqiq coğrafi koordinatlarını, dayanacaq növlərini və infrastruktur elementlərini ehtiva edir. Məlumatlar açıq nəqliyyat siyasətinin planlaşdırılması və vətəndaşlar üçün rahat nəqliyyat xidmətlərinin təmin edilməsi məqsədilə təqdim olunur.
 
@@ -360,7 +361,7 @@ Açıqlama: Bu resurs Sumqayıt şəhərindəki avtobus dayanacaqlarının yerl�
         <td> Ekologiya və Təbbi Sərvətlər Nazirliyi "Su keyfiyyəti" ilə bağlı bir məlumat dəstini Azərsu təşkilatının yardımı ilə bir məlumat dəsti hazırlamışdırsa, bu açıqlamada qeyd olunmalıdır. </td>
     </tr>
     <tr>
-        <td>Açıqlamada məlumat dəstinin əhatə dairəsi olmalıdır.</td>
+        <td>Açıqlamada məlumat dəstinin əhatə dairəsi olması tövsiyə edilir.</td>
         <td>Əhatə dairəsi: Bakı, Dövlət və ya Azərbaycan Respublikası.</td>
     </tr>
     <tr>
@@ -521,34 +522,28 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
             <td>Məlumat dəsti portalda təkrarlanmamalıdır.</td>
         </tr>
         <tr>
-            <td>Məlumat tamd olmalıdır (boş sətirlər və ya sütunlar yoxdur).</td>
+            <td>Məlumat boş sətirlər və ya sütunlar yer almamalıdır.</td>
         </tr>
         <tr>
             <td>Məlumat dəstində dublikatlar (təkrar sətr və ya sütunlar) yer almamaldır.</td>
         </tr>
         <tr>
-            <td>Məlumat dəsti tək bir sütundan ibarət olmamalıdır.</td>
-        </tr>
-        <tr>
             <td>Məlumat dəstinin atributları (sütun başlıqları, açar sözləri), yüklənən faylın adı və digər elementləri Azərbaycan dilində olmalı və təmsil etdiyi məlumatları izah etməlidir.</td>
-        </tr>
-        <tr>
-            <td>Əgər məlumat dəstinin xarici dil versiyası varsa, bu Azərbaycan dilindəki versiyaya uyğun olmalı və Azərbaycan dilindən tərcümə edilməlidir.</td>
         </tr>
         <tr>
             <td>Məlumat dəstində məlumat xarakterli sütunlar olmamalıdır (notlar, qeydlər kimi. Bunları açıqlama hissəsində qeyd edə bilərsiniz).</td>
         </tr>
         <tr>
-            <td>Məlumat dəsti maşın emalına uyğun formatdadır (CSV, XML, JSON, RDF, API və s.).</td>
+            <td>Məlumat dəsti maşın emalına uyğun formatda(CSV, XML, JSON, RDF, API və s.) olmalıdır.</td>
         </tr>
         <tr>
             <td>Məlumat dəsti UTF-8 formatında olmalıdır.</td>
         </tr>
          <tr>
-        <td>Əgər Məlumat dəstində yer alan məlumat məlumat bazası və.s ilə bağlı dəyişiklik və ya digər texniki məlumatdırsa, həmin məlumat (məsələn cədvəldə silinməlidir (Məsələn: yaranma tarixi və dəyişdirilmə tarixi). Texniki məlumat həmçinin məlumat dəstinə dəyər qatdığı düşünülürsə məlumatı saxlaya bilərik.</td>
+        <td>Məlumat bazası ilə bağlı texniki məlumatlar yer almaması tövsiyə edilir.</td>
         </tr>
         <tr>
-            <td>Müəssisələr və ictimaiyyət üçün paylaşılan məlumat dəsti faydalı olmalıdır.</td>
+            <td>Şəxsiyyəti müəyyən edə biləcək və digər məxfi məlumatlar paylaşılmamalıdır.</td>
         </tr>
     </table>
 
