@@ -512,7 +512,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 
 ###### Cədvəl 6
 
-#### 1.3.2.2. Məlumat dəsti əlavə edərkən diqqət etməli oldiğumuz məqamlar.
+#### 1.3.2.2. Məlumat dəsti əlavə edərkən məlumat(resurs) ilə bağlı diqqət etməli oldiğumuz məqamlar.
   <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
         <tr style="background-color: #d9e1f2; text-align: left;">
