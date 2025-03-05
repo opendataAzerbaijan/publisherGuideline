@@ -188,13 +188,13 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
     </thead>
     <tbody>
         <tr>
-            <td>Title</td>
+            <td>* Title</td>
             <td>* Məlumat dəstinin adı</td>
             <td>Məlumat dəstinə aid təsviri bir başlıq.</td>
         </tr>
         <tr>
             <td>* Description</td>
-            <td>Məlumat dəstinin açıqlaması</td>
+            <td>* Məlumat dəstinin açıqlaması</td>
             <td>
                 Məlumat dəsti haqqında faydalı qeydlər.<br>
                 Bu hissədə məlumatın <strong>*yenilənmə tezliyi(Update Frequency)</strong> haqqında məlumat vermək vacibdir. Yenilənmə tezliyi məlumat dəstinin nə qədər zamandan bir yeniləndiyini bizə göstərir. <br>Nümunə: yenilənmə tezliyi = 1 ay, yenilənmə tezliyi = 3 saat.
@@ -202,7 +202,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
         </tr>
         <tr>
             <td>* Tags</td>
-            <td>Etiketlər</td>
+            <td>* Etiketlər</td>
             <td>
                 Tag, məlumat dəstini təsvir etmək və axtarışı asanlaşdırmaq üçün verilən açar sözlərdir.
                 Etiketlər məlumat dəstinin başlığına və açıqlamasına uyğun Azərbaycan dilində yazılmalıdır. Məsələn: "Sürüşmə sahələri", "Torpaq sürüşməsi koordinatları"
@@ -210,7 +210,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
         </tr>
         <tr>
             <td>* License</td>
-            <td>Lisenziya</td>
+            <td>* Lisenziya</td>
             <td>
                 Lisenziya iştirakçılara həmin məlumat dəstinin istifadəsi, paylaşılması və yenidən işlənməsi ilə bağlı hüququ və məhdudiyyətləri bildirir. <br>
                 Lisenziyalar və onların növləri barəsində 1.3.1.4 bölməsindən daha çox məlumat əldə edə bilərsiniz.
@@ -218,12 +218,12 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
         </tr>
         <tr>
             <td>* Organization</td>
-            <td>Təşkilat</td>
+            <td>* Təşkilat</td>
             <td>Məlumat dəstini idarə edən təşkilat.</td>
         </tr>
         <tr>
             <td>* Visibility</td>
-            <td>Görünürlük</td>
+            <td>* Görünürlük</td>
             <td>
                 Görünürlük hissəsində iki seçim vardır.<br>
                 <strong>Private:</strong> yalnız məlumat idarəetmə sistemində məlumat dəsti əlçatan olur.<br>
@@ -240,7 +240,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
         </tr>
         <tr>
             <td>* Version</td>
-            <td>Versiya</td>
+            <td>* Versiya</td>
             <td>
                 Məlumat dəstinin cari versiyası. Versiyalandırma haqqında əlavə məlumatı 1.3.1.3. bölməsindən tanış ola bilərsiniz.
             </td>
@@ -284,7 +284,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
     <tbody>
         <tr>
             <td>* Data</td>
-            <td>Məlumat</td>
+            <td>* Məlumat</td>
             <td>
                 Siz məlumat dəstinin resurslarını (mənbələrini) təyin edirsiniz. <br>
                 <strong>Upload</strong> və <strong>Link</strong> şəkilində iki seçim verilir.<br><br>
@@ -304,7 +304,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
         </tr>
         <tr>
             <td>* Format</td>
-            <td>Format</td>
+            <td>* Format</td>
             <td>Əlavə edilən mənbənin formatı qeyd olunur. Nümunə olaraq: məlumatları strukturludursa, CSV, yarı strukturlu və struktursuzdursa, JSON və ya XML kimi formatlardan istifadə edilə bilər.</td>
         </tr>
     </tbody>
@@ -777,17 +777,17 @@ Editor-un bütün funksiyalarını yerinə yetirə bilər.
     <tbody>
         <tr>
             <td>* Title</td>
-            <td>Başlıq</td>
+            <td>* Başlıq</td>
             <td>Təşkilatın adı</td>
         </tr>
         <tr>
             <td>* Description</td>
-            <td>Açıqlama</td>
+            <td>* Açıqlama</td>
             <td>Təşkilat haqqında məlumat</td>
         </tr>
         <tr>
             <td>* Image</td>
-            <td>Şəkil</td>
+            <td>* Şəkil</td>
             <td>Təşkilatın şəkil və ya <a href="#">logosu</a>. 43 x 43 piksel ölçüsündə olması məqsədə uyğundur.</td>
         </tr>
     </tbody>
