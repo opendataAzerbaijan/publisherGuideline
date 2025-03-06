@@ -197,7 +197,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             <td>* Məlumat dəstinin açıqlaması</td>
             <td>
                 Məlumat dəsti haqqında faydalı qeydlər.<br>
-                Bu hissədə məlumatın <strong>*yenilənmə tezliyi(Update Frequency)</strong> haqqında məlumat vermək vacibdir. Yenilənmə tezliyi məlumat dəstinin nə qədər zamandan bir yeniləndiyini bizə göstərir. <br>Nümunə: yenilənmə tezliyi = 1 ay, yenilənmə tezliyi = 3 saat.
+                Bu hissədə məlumatın <strong>yenilənmə tezliyi (Update Frequency)</strong> haqqında məlumat vermək vacibdir. Yenilənmə tezliyi məlumat dəstinin nə qədər zamandan bir yeniləndiyini bizə göstərir. Yenilənmə tezliyi uyğun olaraq 1 saat, 3 saat, 1 gün, 3gün, 1 həftə, 1 ay, 3 ay, 6 ay, 12 ay (bir il) qeyd edilməlidir.
             </td>
         </tr>
         <tr>
