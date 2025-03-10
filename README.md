@@ -196,7 +196,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
         <tr>
             <td>* URL</td>
             <td>* URL</td>
-            <td>URL avtomatik olaraq yaradılır, Əgər dəyişmək istəsəniz, başlığa uyğun URL'i dəyişə bilərsiniz, URL ingilis simvolları ilə Azərbaycan dilində maksimum simvol uzunluğu 100 olacaq şəkildə yazılmalıdır. Məsələn, Başlıq: Torpaq sürüşməsi sahələri. URL: "torpaq-surusme-saheleri" və ya surusme-saheleri</td>
+            <td>URL avtomatik olaraq yaradılır, Əgər dəyişmək istəsəniz, başlığa uyğun URL'i dəyişə bilərsiniz, URL ingilis simvolları ilə Azərbaycan dilində maksimum simvol uzunluğu 100 olacaq şəkildə yazılmalıdır. Məsələn, Başlıq: Torpaq sürüşməsi sahələri. URL: "torpaq-surusme-saheleri" və ya "surusme-saheleri"</td>
         </tr>
         <tr>
             <td>* Description</td>
