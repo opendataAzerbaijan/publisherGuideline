@@ -514,11 +514,9 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
         <tr style="background-color: #d9e1f2; text-align: left;">
             <th>Məlumat</th>
         </tr>
+
         <tr>
-            <td>Məlumat dəsti portalda təkrarlanmamalıdır.</td>
-        </tr>
-        <tr>
-            <td>Məlumat boş sətirlər və ya sütunlar yer almamalıdır.</td>
+            <td>Tamamilə boş sətirlər və ya sütunlar yer almamalıdır.</td>
         </tr>
         <tr>
             <td>Məlumat dəstində dublikatlar (təkrar sətr və ya sütunlar) yer almamaldır.</td>
@@ -527,19 +525,13 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
             <td>Məlumat dəstinin atributları (sütun başlıqları, açar sözləri), yüklənən faylın adı və digər elementləri Azərbaycan dilində olmalı və təmsil etdiyi məlumatları izah etməlidir.</td>
         </tr>
         <tr>
-            <td>Məlumat dəstində məlumat xarakterli sütunlar olmamalıdır (notlar, qeydlər kimi. Bunları açıqlama hissəsində qeyd edə bilərsiniz).</td>
-        </tr>
-        <tr>
             <td>Məlumat dəsti maşın emalına uyğun formatda(CSV, XML, JSON, RDF, API və s.) olmalıdır.</td>
         </tr>
         <tr>
             <td>Məlumat dəsti UTF-8 formatında olmalıdır.</td>
         </tr>
-         <tr>
-        <td>Məlumat bazası ilə bağlı texniki məlumatlar yer almaması tövsiyə edilir.</td>
-        </tr>
         <tr>
-            <td>Şəxsiyyəti müəyyən edə biləcək və digər məxfi məlumatlar paylaşılmamalıdır.</td>
+            <td>Şəxsiyyəti müəyyən edə biləcək məlumatlar və digər məxfi məlumatlar paylaşılmamalıdır.</td>
         </tr>
     </table>
 
