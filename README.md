@@ -345,11 +345,11 @@ Açıqlama: Bu resurs Sumqayıt şəhərindəki avtobus dayanacaqlarının yerl�
 #### 1.3.1.2. Məlumat dəstinin metaməlumatlarını əlavə edərkən diqqət etməli oldiğumuz məqamlar.
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
-        <tr style="background-color: #f2f2f2;">
+    <tr style="background-color: #f2f2f2;">
         <th>Metaməlumat</th>
         <th>Açıqlama və nümunə</th>
     </tr>
-
+    </thead>
     <tr>
         <td>Bəzi metaməlumat bölmələrdə 3 dildə (Az, Ru, Eng) məlumat daxil olunası tələb olunur. Hər üç dildə məlumatların daxil edilməsi zəruridir.</td>
         <td>İngilis və Rus dilinə Azərbaycanca qoyduğunuz metaməlumata uyğun bir şəkildə tərcümə edə bilərsiniz</td>
@@ -362,7 +362,6 @@ Açıqlama: Bu resurs Sumqayıt şəhərindəki avtobus dayanacaqlarının yerl�
         <td>Məlumat dəstinin birdən artıq iştirakçısı (dövlət və ya özəl təşkilat) varsa açıqlamada qeyd olunmalıdır.</td>
         <td> Ekologiya və Təbbi Sərvətlər Nazirliyi "Su keyfiyyəti" ilə bağlı bir məlumat dəstini Azərsu təşkilatının yardımı ilə bir məlumat dəsti hazırlamışdırsa, bu açıqlamada qeyd olunmalıdır. </td>
     </tr>
-     
 </table>
 
 ###### Cədvəl 4
