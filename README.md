@@ -194,11 +194,16 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             <td>Məlumat dəstinə aid təsviri bir başlıq.</td>
         </tr>
         <tr>
+            <td>* URL</td>
+            <td>* URL</td>
+            <td>URL avtomatik olaraq yaradılır, Əgər dəyişmək istəsəniz, başlığa uyğun URL'i dəyişə bilərsiniz, URL ingilis simvolları ilə Azərbaycan dilində maksimum simvol uzunluğu 100 olacaq şəkildə yazılmalıdır. Məsələn, Başlıq: Torpaq sürüşməsi sahələri. URL: "torpaq-surusme-saheleri" və ya surusme-saheleri</td>
+        </tr>
+        <tr>
             <td>* Description</td>
             <td>* Məlumat dəstinin açıqlaması</td>
             <td>
-                Məlumat dəsti haqqında faydalı qeydlər.<br>
-                Bu hissədə məlumatın <strong>yenilənmə tezliyi (Update Frequency)</strong> haqqında məlumat vermək vacibdir. Yenilənmə tezliyi məlumat dəstinin nə qədər zamandan bir yeniləndiyini bizə göstərir. Yenilənmə tezliyi uyğun olaraq 1 saat, 3 saat, 1 gün, 3 gün, 1 həftə, 1 ay, 3 ay, 6 ay, 12 ay (bir il) qeyd edilməlidir.
+                Başlıqdan fərqli insanların məlumat dəstindən istifadə edərkən bilməli olduğu hər hansı faydalı qeydlər.<br>
+                Bu hissədə məlumatın <strong>yenilənmə tezliyi (Update Frequency)</strong> haqqında məlumat vermək vacibdir. Yenilənmə tezliyi məlumat dəstinin nə qədər zamandan bir yeniləndiyini bizə göstərir. Yenilənmə tezliyi uyğun olaraq 1 saat, 3 saat, 1 gün, 3 gün, 1 həftə, 1 ay, 3 ay, 6 ay, 12 ay (bir il) qeyd edilməlidir. Həmçinin məlumat dəstinin əhatə dairəsi barəsində məlumat təqdim edilə bilər. Məsələn, Şəhərin adı (Bakı) və ya Azərbaycan Respublikası.
             </td>
         </tr>
         <tr>
@@ -344,11 +349,7 @@ Açıqlama: Bu resurs Sumqayıt şəhərindəki avtobus dayanacaqlarının yerl�
         <th>Metaməlumat</th>
         <th>Açıqlama və nümunə</th>
     </tr>
-    <tr>
-        <td>Başlıq ilə açıqlama fərqli olmalıdır.</td>
-        <td>Başlıq: Torpaq sürüşməsi sahələri
-        açıqlama: Bu məlumat dəstində Azərbaycan Respublikasında aktiv sürüşmə sahələri və onların koodinantları təqdim olunur. Məlumatın yenilənmə tezliyi: 6 ay.</td>
-    </tr>
+
     <tr>
         <td>Bəzi metaməlumat bölmələrdə 3 dildə (Az, Ru, Eng) məlumat daxil olunası tələb olunur. Hər üç dildə məlumatların daxil edilməsi zəruridir.</td>
         <td>İngilis və Rus dilinə Azərbaycanca qoyduğunuz metaməlumata uyğun bir şəkildə tərcümə edə bilərsiniz</td>
@@ -361,15 +362,7 @@ Açıqlama: Bu resurs Sumqayıt şəhərindəki avtobus dayanacaqlarının yerl�
         <td>Məlumat dəstinin birdən artıq iştirakçısı (dövlət və ya özəl təşkilat) varsa açıqlamada qeyd olunmalıdır.</td>
         <td> Ekologiya və Təbbi Sərvətlər Nazirliyi "Su keyfiyyəti" ilə bağlı bir məlumat dəstini Azərsu təşkilatının yardımı ilə bir məlumat dəsti hazırlamışdırsa, bu açıqlamada qeyd olunmalıdır. </td>
     </tr>
-    <tr>
-        <td>Açıqlamada məlumat dəstinin əhatə dairəsi olması tövsiyə edilir.</td>
-        <td>Əhatə dairəsi: Bakı, Dövlət və ya Azərbaycan Respublikası.</td>
-    </tr>
-    <tr>
-        <td>URL başlığa uyğun olaraq ingilis simvolları ilə Azərbaycan dilində yazılmalıdır.</td>
-        <td>URL avtomatik olaraq yaradılır, Əgər dəyişmək istəsəniz, başlığa uyğun URL'i dəyişə bilərsiniz, ingilis simvolları ilə Azərbaycan dilində dəyişə bilərsiniz. Məsələn, Başlıq: Torpaq sürüşməsi sahələri. URL: "torpaq-surusme-saheleri" və ya surusme-saheleri</td>
-    </tr>
-        
+     
 </table>
 
 ###### Cədvəl 4
