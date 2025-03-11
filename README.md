@@ -204,7 +204,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             <td>
                 Başlıqdan fərqli insanların məlumat dəstindən istifadə edərkən bilməli olduğu hər hansı faydalı qeydlər.<br>
                <ul>
-                    <li><strong>Yenilənmə Tezliyi</strong> – Məlumatın hansı aralıqla yeniləndiyi (<em>1 saat, 1 gün, 1 ay və s.</em>) göstərilməlidir.</li>
+                    <li><strong>Yenilənmə Tezliyi</strong> – Məlumatın hansı aralıqla yeniləndiyi (<em>1 saat, 1 gün, 1 həftə, 1 ay 3 ay, 6 ay 12 ay </em>) göstərilməlidir.</li>
                     <li><strong>Əhatə Dairəsi</strong> – Hansı bölgəni və ya ölkəni əhatə etdiyi qeyd olunmalıdır (<em>məs. Bakı və ya Azərbaycan</em>).</li>
                     <li><strong>Məlumatın Sahibi</strong> – Məlumatı yaradan qurum və ya ilkin mənbə açıqlanmalıdır. Əgər paylaşan təşkilat onun sahibi deyilsə, <em>mənbə göstərilməlidir</em>.</li>
                     <li><strong>İştirakçılar</strong> – Məlumatın toplanmasında və ya istifadəsində bir neçə qurum iştirak edirsə, onların adları <em>qeyd olunmalıdır</em>.</li>
@@ -351,26 +351,32 @@ Açıqlama: Bu resurs Bakı şəhərindəki bütün avtobus dayanacaqlarının G
 ###### 2️⃣ Resurs Adı: Sumqayıt şəhəri üzrə ictimai nəqliyyat dayanacaqları
 Açıqlama: Bu resurs Sumqayıt şəhərindəki avtobus dayanacaqlarının yerləşdiyi əraziləri və dayanacaq məntəqələrinin adlarını ehtiva edir. Koordinatlar deyil, yalnız dayanacaq zonaları təqdim olunur.
 
-#### 1.3.1.2. Məlumat dəstinin metaməlumatlarını əlavə edərkən diqqət etməli oldiğumuz məqamlar.
-<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-    <thead>
-    <tr style="background-color: #f2f2f2;">
-        <th>Metaməlumat</th>
-        <th>Açıqlama və nümunə</th>
-    </tr>
-    </thead>
+#### 1.3.1.2. Cədvəl formasında paylaşılan məlumat dəstlərinin  üçün tövsiyələr: 
 
-    <tr>
-        <td>İnformasiyanın əsas sahibi və ya onu yaradan tərəf açıqlamada qeyd olunmalıdır (Əgər paylaşan təşkilat onun sahibi deyilsə).</td>
-        <td>Statistik büdcə məlumatları paylaşılmışdır. Bu məlumatların əsas sahibi Maliyyə Nazirliyidir. Bu səbəblə açıqlamada qeyd olunmalıdır. </td>
-    </tr>
-    <tr>
-        <td>Məlumat dəstinin birdən artıq iştirakçısı (dövlət və ya özəl təşkilat) varsa açıqlamada qeyd olunmalıdır.</td>
-        <td> Ekologiya və Təbbi Sərvətlər Nazirliyi "Su keyfiyyəti" ilə bağlı bir məlumat dəstini Azərsu təşkilatının yardımı ilə bir məlumat dəsti hazırlamışdırsa, bu açıqlamada qeyd olunmalıdır. </td>
-    </tr>
-</table>
+Əksər məlumat dəstləri cədvəl şəklində yayımlanır. Açıq məlumatların keyfiyyətli olması üçün cədvəl quruluşunun əsas prinsiplərini başa düşmək vacibdir: 
 
-###### Cədvəl 4
+* Cədvəl – sütunlar və sətirlərdən ibarət nizamlı strukturdur. 
+
+* Hər bir sətir cədvəldə bir qeydi (məlumat vahidini) təmsil edir. 
+
+* Hər bir sütun – sətirdən sətrə dəyişən dəyərləri özündə əks etdirir. 
+
+* Sütun adları cədvəlin başlığında yerləşdirilir. 
+
+* Sətirlərin və sütunların kəsişməsində xanalar yerləşir. 
+
+* Cədvəldə birləşdirilmiş xanalar və ya əlavə başlıqlar olmamalıdır. 
+
+* Rəng, şrift və digər mətn və xana formatlamaları məlumatın bir hissəsi hesab edilmir və verilənlərin məzmununa təsir etməməlidir. 
+
+Sütun adları latın qrafikalı hərflərlə, boşluqsuz və durğu işarələrsiz qeyd olunmalıdır. Bunun üçün aşağıdakı iki yazılış formatından istifadə olunur: 
+
+* CamelCase – ilk söz kiçik hərflə yazılır, hər növbəti söz isə böyük hərflə başlayır, məsələn: musteriAdi, sifarisTarixi. 
+
+* Snake_case – bütün sözlər kiçik hərflə yazılır və alt xətlə ayrılır, məsələn: musteri_adi, sifaris_tarixi. 
+   
+
+
 
 
 #### 1.3.1.3. Məlumat idarəetmə sistemində yer alan məlumat dəstlərinin versiyalandırması məntiqi
@@ -426,7 +432,7 @@ Açıqlama: Bu resurs Sumqayıt şəhərindəki avtobus dayanacaqlarının yerl�
     </tbody>
 </table>
 
-###### Cədvəl 5
+###### Cədvəl 4
 
 #### 1.3.1.4. Məlumat idarəetmə sistemində yer alan məlumat dəstlərinə tətbiq oluna biləcək lisenziyalar
 
@@ -505,7 +511,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
     </tbody>
 </table>
 
-###### Cədvəl 6
+###### Cədvəl 5
 
 #### 1.3.2.2. Məlumat dəsti əlavə edərkən məlumat(resurs) ilə bağlı diqqət etməli oldiğumuz məqamlar.
   <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
@@ -534,7 +540,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
         </tr>
     </table>
 
-###### Cədvəl 7
+###### Cədvəl 6
 
 
 #### 1.3.2.3. Mövcud Məlumat dəstinə yeni resurs əlavə etmək
@@ -775,7 +781,7 @@ Editor-un bütün funksiyalarını yerinə yetirə bilər.
     </tbody>
 </table>
 
-###### Cədvəl 8
+###### Cədvəl 7
 
 5. Yeniləmələrinizi nəzərdən keçirin və dəyişiklikləri saxlamaq üçün Təşkilatı yeniləyin **(Update Organization)** düyməsinə klikləyin.
    
