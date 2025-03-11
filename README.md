@@ -203,7 +203,10 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             <td>* Məlumat dəstinin açıqlaması</td>
             <td>
                 Başlıqdan fərqli insanların məlumat dəstindən istifadə edərkən bilməli olduğu hər hansı faydalı qeydlər.<br>
-                Bu hissədə məlumatın <strong>yenilənmə tezliyi (Update Frequency)</strong> haqqında məlumat vermək vacibdir. Yenilənmə tezliyi məlumat dəstinin nə qədər zamandan bir yeniləndiyini bizə göstərir. Yenilənmə tezliyi uyğun olaraq 1 saat, 3 saat, 1 gün, 3 gün, 1 həftə, 1 ay, 3 ay, 6 ay, 12 ay (bir il) qeyd edilməlidir. Həmçinin məlumat dəstinin əhatə dairəsi barəsində məlumat təqdim edilə bilər. Məsələn, Şəhərin adı (Bakı) və ya Azərbaycan Respublikası.
+                - **Yenilənmə Tezliyi** – Məlumatın hansı aralıqla yeniləndiyi (**1 saat, 1 gün, 1 ay və s.**) göstərilməlidir.  
+                - **Əhatə Dairəsi** – Hansı bölgəni və ya ölkəni əhatə etdiyi qeyd olunmalıdır (**məs. Bakı və ya Azərbaycan**).  
+                - **Məlumatın Sahibi** – Məlumatı yaradan qurum və ya ilkin mənbə açıqlanmalıdır. Əgər paylaşan təşkilat onun sahibi deyilsə, **mənbə göstərilməlidir**.  
+                - **İştirakçılar** – Məlumatın toplanmasında və ya istifadəsində bir neçə qurum iştirak edirsə, onların adları **qeyd olunmalıdır**.
             </td>
         </tr>
         <tr>
@@ -319,16 +322,20 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
 ###### Cədvəl 3
 
 8. Məlumatları yenidən nəzərdən keçirin və bitir **(Finish)** və ya yadda saxla və yenisini əlavə et **(Save & add another)**düyməsini basaraq əməliyyatı tamamlayın.
-#### Qeyd 1: 
-##### * işarəsi ilə fərqləndirilmiş bölmələrdəki məlumatların daxil edilməsi zəruridir.
 
-#### Qeyd 2: 
+#### Qeyd 1: 
 ##### Məlumat dəsti private rejimdə əlavə edilməli və rəy verilməsi üçün <tural.nasirli@idda.az> elektron poçtuna məlumat verilməlidir. Verilən rəyə uyğun düzəlişlər edildikdən sonra public edilə bilər.
 
-#### Qeyd 3:  
+#### Qeyd 2: 
+##### * işarəsi ilə fərqləndirilmiş bölmələrdəki məlumatların daxil edilməsi zəruridir.
+
+#### Qeyd 3: 
+##### Bəzi metaməlumat bölmələrdə 3 dildə (Az, Ru, Eng) məlumat daxil olunası tələb olunur. Hər üç dildə məlumatların daxil edilməsi zəruridir.
+
+#### Qeyd 4:  
 ##### Məlumat dəsti əlavə edilən zaman prosesin düzgün aparılması üçün 1.3.1.2. və 1.3.2.2. bölmələrinin nəzərdən keçirmək vacibdir.
 
-#### Qeyd 4: 
+#### Qeyd 5: 
 ##### Məlumat dəstinin metaməlumatlarında yer alan başlıq və açıqlamaları ilə resurs əlavə edərkən yazılmalı olan ad və açıqlamadan fərqlidir. Resursa bu ad və açıqlamanı məlumat dəsti ilə bağlı fərqli strukturda amma həmin məlumat dəstinə aid resurslar olduqda edirik. Aşağıdakı nümunəyə nəzər salaq.
 
 ###### Məlumat Dəsti və onun açıqlamaları:
@@ -350,12 +357,9 @@ Açıqlama: Bu resurs Sumqayıt şəhərindəki avtobus dayanacaqlarının yerl�
         <th>Açıqlama və nümunə</th>
     </tr>
     </thead>
+
     <tr>
-        <td>Bəzi metaməlumat bölmələrdə 3 dildə (Az, Ru, Eng) məlumat daxil olunası tələb olunur. Hər üç dildə məlumatların daxil edilməsi zəruridir.</td>
-        <td>İngilis və Rus dilinə Azərbaycanca qoyduğunuz metaməlumata uyğun bir şəkildə tərcümə edə bilərsiniz</td>
-    </tr>
-    <tr>
-        <td>İnformasiyanın sahibi və ya onu yaradan tərəf açıqlamada qeyd olunmalıdır (Əgər paylaşan təşkilat onun sahibi deyilsə).</td>
+        <td>İnformasiyanın əsas sahibi və ya onu yaradan tərəf açıqlamada qeyd olunmalıdır (Əgər paylaşan təşkilat onun sahibi deyilsə).</td>
         <td>Statistik büdcə məlumatları paylaşılmışdır. Bu məlumatların əsas sahibi Maliyyə Nazirliyidir. Bu səbəblə açıqlamada qeyd olunmalıdır. </td>
     </tr>
     <tr>
