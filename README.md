@@ -203,10 +203,12 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             <td>* Məlumat dəstinin açıqlaması</td>
             <td>
                 Başlıqdan fərqli insanların məlumat dəstindən istifadə edərkən bilməli olduğu hər hansı faydalı qeydlər.<br>
-                *  **Yenilənmə Tezliyi** – Məlumatın hansı aralıqla yeniləndiyi (**1 saat, 1 gün, 1 həftə, 1 ay, 3 ay, 6 ay, 12 ay**) göstərilməlidir.  
-                - **Əhatə Dairəsi** – Hansı bölgəni və ya ölkəni əhatə etdiyi qeyd olunmalıdır (**məs. Bakı və ya Azərbaycan**).  
-                - **Məlumatın Sahibi** – Məlumatı yaradan qurum və ya ilkin mənbə açıqlanmalıdır. Əgər paylaşan təşkilat onun sahibi deyilsə, **mənbə göstərilməlidir**.  
-                - **İştirakçılar** – Məlumatın toplanmasında və ya istifadəsində bir neçə qurum iştirak edirsə, onların adları **qeyd olunmalıdır**.
+               <ul>
+                    <li><strong>Yenilənmə Tezliyi</strong> – Məlumatın hansı aralıqla yeniləndiyi (<em>1 saat, 1 gün, 1 ay və s.</em>) göstərilməlidir.</li>
+                    <li><strong>Əhatə Dairəsi</strong> – Hansı bölgəni və ya ölkəni əhatə etdiyi qeyd olunmalıdır (<em>məs. Bakı və ya Azərbaycan</em>).</li>
+                    <li><strong>Məlumatın Sahibi</strong> – Məlumatı yaradan qurum və ya ilkin mənbə açıqlanmalıdır. Əgər paylaşan təşkilat onun sahibi deyilsə, <em>mənbə göstərilməlidir</em>.</li>
+                    <li><strong>İştirakçılar</strong> – Məlumatın toplanmasında və ya istifadəsində bir neçə qurum iştirak edirsə, onların adları <em>qeyd olunmalıdır</em>.</li>
+            </ul>
             </td>
         </tr>
         <tr>
