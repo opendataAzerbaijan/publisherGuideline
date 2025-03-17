@@ -12,28 +12,26 @@ Aşağıdakı cədvəl sizə portalda yer alan Anlayışlar və biznes terminlə
 
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
-        <tr style="background-color: #f2f2f2;">
-            <th>Əsas anlayışlar</th>
-            <th>Açıqlama</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Dataset (Məlumat Dəsti)</td>
-            <td>Müəyyən bir mövzuya aid məlumatların toplusu. Məsələn, bir bölgənin cinayət statistikası və ya hökumət departamentinin xərcləri haqqında məlumatlar.</td>
-        </tr>
-        <tr>
-            <td>Metadata (Metaməlumatlar)</td>
-
-            <td>məlumatı izah edərək həmin məlumatın əlçatanlığının təmin edilməsinə xidmət edən məlumat</td>
-        </tr>
-        
-        <tr>
-            <td>Resource (Resurs)</td>
-            <td>Məlumat dəstindəki faktiki məlumat faylları və ya məlumat mənbələri. Bu fayllar CSV, Excel formatları (XLS, XLSX), XML, PDF və ya digər formalarda ola bilər.</td>
-        </tr>
-    </tbody>
-</table>
+            <tr>
+                <th>Əsas anlayışlar</th>
+                <th>Açıqlama</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Dataset (Məlumat Dəsti)</td>
+                <td>Müəyyən bir mövzuya aid məlumatların toplusu. Məsələn, bir bölgənin cinayət statistikası və ya hökumət departamentinin xərcləri haqqında məlumatlar.</td>
+            </tr>
+            <tr>
+                <td>Metadata (Metaməlumatlar)</td>
+                <td>Məlumatı izah edərək həmin məlumatın əlçatanlığının təmin edilməsinə xidmət edən məlumatlar.</td>
+            </tr>
+            <tr>
+                <td>Resource (Resurs)</td>
+                <td>Məlumat dəstindəki faktiki məlumat faylları və ya məlumat mənbələri. Bu fayllar CSV, Excel formatları (XLS, XLSX), XML, PDF və ya digər formalarda ola bilər.</td>
+            </tr>
+        </tbody>
+    </table>
 
 
 # Bölmələr
