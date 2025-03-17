@@ -27,6 +27,7 @@ Aşağıdakı cədvəl sizə portalda yer alan Anlayışlar və biznes terminlə
 
             <td>məlumatı izah edərək həmin məlumatın əlçatanlığının təmin edilməsinə xidmət edən məlumat</td>
         </tr>
+        
         <tr>
             <td>Resource (Resurs)</td>
             <td>Məlumat dəstindəki faktiki məlumat faylları və ya məlumat mənbələri. Bu fayllar CSV, Excel formatları (XLS, XLSX), XML, PDF və ya digər formalarda ola bilər.</td>
