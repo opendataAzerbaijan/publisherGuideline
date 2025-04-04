@@ -80,7 +80,7 @@ Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji 
 4. Şifrəni yeniləyin **(Update Password)** butonuna klikləyərək hesabı aktivləşdirin.
 
 ### 1.1.2. Məlumat idarəetmə sisteminə daxil olmaq.
-1. [Məlumat İdarəetmə sistemi](https://opendata-api.idda.az/) link vasitəsilə idarəetmə sisteminə keçid edin.
+1. [Məlumat İdarəetmə sistemi](https://admin.opendata.az/) link vasitəsilə idarəetmə sisteminə keçid edin.
 2. Açıq məlumatlar portalının Məlumat idarəetmə sistemində Daxil ol **(Log in)** butonuna klikləyin.
 3. Istifadəçi adı **(Username)** və ya elektron poçt **(e-mail)** və şifrə **(password)** daxil edin.
 4. Daxil olun **(Login)** butonuna klikləyib daxil olun.
