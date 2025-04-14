@@ -726,7 +726,7 @@ Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün 
 
 ### 1.5.1. Mövcud təşkilatın (Organization) idarə edilməsi
 
-Mövcud təşkilatda aşağıdakı rollar mövcuddur. Təşkilata yeni iştirakçı əlavə etmək üçün [Email](mailto:tural.nasirli@idda.az) elektron poçtuna müraciət etməniz xahiş olunur.
+Mövcud təşkilatda aşağıdakı rollar mövcuddur. Təşkilata yeni iştirakçı əlavə etmək üçün [tural.nasirli@idda.az](mailto:tural.nasirli@idda.az) elektron poçtuna müraciət etməniz xahiş olunur.
 
 #### Member (Üzv)	
 Təşkilatın private və public (məlumat idarəetmə sistemindən əlçatan olan) məlumat dəstlərini görə bilər.
