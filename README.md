@@ -257,23 +257,23 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             </td>
         </tr>
         <tr>
-            <td>Author</td>
-            <td>Müəllifin Adı</td>
+            <td>* Author</td>
+            <td>* Müəllifin Adı</td>
             <td>Məlumatlardan cavabdeh olan şəxs və ya təşkilatın adı. Zəruri deyil.</td>
         </tr>
         <tr>
-            <td>Author Email</td>
-            <td>Müəllifin e-poçtu</td>
+            <td>* Author Email</td>
+            <td>* Müəllifin e-poçtu</td>
             <td>Məlumatlardan cavabdeh olan şəxsin və ya təşkilatın elektron poçt ünvanı. Zəruri deyil.</td>
         </tr>
         <tr>
-            <td>Maintainer</td>
-            <td>Maintainerin adı</td>
+            <td>* Maintainer</td>
+            <td>* Maintainerin adı</td>
             <td>Məlumatlara cavabdeh olan ikinci şəxs. Zəruri deyil.</td>
         </tr>
         <tr>
-            <td>Maintainer Email</td>
-            <td>Maintainerin e-poçtu</td>
+            <td>* Maintainer Email</td>
+            <td>* Maintainerin e-poçtu</td>
             <td>Məlumat dəstinə cavabdeh ikinci şəxslə əlaqə üçün e-poçt ünvanı. Zəruri deyil.</td>
         </tr>
     </tbody>
