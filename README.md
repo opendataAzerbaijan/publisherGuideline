@@ -304,8 +304,8 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             </td>
         </tr>
         <tr>
-            <td>Name</td>
-            <td> Resursun adı</td>
+            <td>* Name</td>
+            <td>* Resursun adı</td>
             <td>Resursun təsviri adı</td>
         </tr>
         <tr>
