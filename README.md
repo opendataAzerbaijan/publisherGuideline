@@ -351,33 +351,64 @@ Açıqlama: Bu resurs Bakı şəhərindəki bütün avtobus dayanacaqlarının G
 ###### 2️⃣ Resurs Adı: Sumqayıt şəhəri üzrə ictimai nəqliyyat dayanacaqları
 Açıqlama: Bu resurs Sumqayıt şəhərindəki avtobus dayanacaqlarının yerləşdiyi əraziləri və dayanacaq məntəqələrinin adlarını ehtiva edir. Koordinatlar deyil, yalnız dayanacaq zonaları təqdim olunur.
 
-#### 1.3.1.2. Cədvəl formasında paylaşılan məlumat dəstlərinin  üçün tövsiyələr: 
+#### 1.3.1.2. Portala daxil edilən məlumat dəstlərinin metaməlumatları və resursları üçün tövsiyələr: 
 
-Əksər məlumat dəstləri cədvəl şəklində yayımlanır. Açıq məlumatların keyfiyyətli olması üçün cədvəl quruluşunun əsas prinsiplərini başa düşmək vacibdir: 
+Açıq məlumatların keyfiyyətinin qorunması və istifadəçi təcrübəsini zənginləşdirmək üçün metaməlumatları və resurslarında aşağıdakı maddələrə əməl etməliyik.
 
-* Cədvəl – sütunlar və sətirlərdən ibarət nizamlı strukturdur. 
+##### Resurs
 
-* Hər bir sətir cədvəldə bir qeydi (məlumat vahidini) təmsil edir. 
+*Məlumat dəsti portalda təkrarlanmır. 
 
-* Hər bir sütun – sətirdən sətrə dəyişən dəyərləri özündə əks etdirir. 
+*Məlumat dəstində tamamilə boş sütun və ya sətr yer almır. 
 
-* Sütun adları cədvəlin başlığında yerləşdirilir. 
+*Məlumat dəstinin atributları (sütun başlığı, sahə adı, açar söz və s.), yüklənən faylın adı və digər elementləri azərbaycancadır. 
 
-* Sətirlərin və sütunların kəsişməsində xanalar yerləşir. 
+*Məlumat dəstində məlumat xarakterli sütunlar yoxdur(notlar, qeydlər kimi). 
 
-* Cədvəldə birləşdirilmiş xanalar və ya əlavə başlıqlar olmamalıdır. 
+*Təkrar olunan sətirlər yer almır. 
 
-* Rəng, şrift və digər mətn və xana formatlamaları məlumatın bir hissəsi hesab edilmir və verilənlərin məzmununa təsir etməməlidir. 
+*Məlumat dəsti maşın emalına uyğun formatdadır (CSV, XML, JSON, RDF, API və s.) 
 
-Sütun adları latın qrafikalı hərflərlə, boşluqsuz və durğu işarələrsiz qeyd olunmalıdır. Bunun üçün aşağıdakı iki yazılış formatından istifadə olunur: 
+*UTF–8 formatındadır. 
 
-* CamelCase – ilk söz kiçik hərflə yazılır, hər növbəti söz isə böyük hərflə başlayır, məsələn: musteriAdi, sifarisTarixi. 
+*Fərdi məlumatlar yer almır. 
 
-* Snake_case – bütün sözlər kiçik hərflə yazılır və alt xətlə ayrılır, məsələn: musteri_adi, sifaris_tarixi. 
+*Məxfi məlumatlar yer almır. 
+
+*Məlumat sütunları vahid formatdadır. 
+
+*Məlumatı izah edən elementlərdə (sütun adı, açar sözlər, vərəq adı və.s) abreviatura yer almır. 
+
+*Cədvəldə birləşdirilmiş xanalar və ya iki səviyyəli sütun başlıqları yer almamalıdır. 
+
+*Sütun başlıqları və onun kimi məlumatı izah edən elementlər camelCase (məsələn: musteriAdi, sifarisTarixi) ya Snake_case (məsələn: musteri_adi, sifaris_tarixi) yazılış formatında olması tövsiyyə olunmalıdır. 
+
+*Cədvəldə təkrarlanan və paralel sütunlar yer almamalıdır. 
+
+##### Metaməlumat
+
+*Başlıq (Title) portalda təkrar olunmur
+
+*Başlıq (Title) ilə Açıqlama (description) fərqlidir 
+
+*Başlıq (Title) ilə Açıqlama (Description) Azərbaycanca, İngiliscə və Rusca yazılıb. 
+
+*Açıqlamada (Description)  məlumatın yenilənmə tezliyi (frequency) qeyd edilib 
+
+*İnformasiyanın sahibi və ya onu yaradan tərəf açıqlamada qeyd olunub (Əgər paylaşan təşkilat onun sahibi deyilsə) 
+
+*Məlumat dəstinin birdən artıq iştirakçısı (dövlət və ya özəl təşkilat) var və açıqlamada qeyd olunub. 
+
+*Açıqlamada (Description) məlumat dəstinin əhatə dairəsi qeyd edilib. (məsələn, Əhatə dairəsi: Bakı, Azərbaycan) 
+
+*Məlumat dəstinin URL-i ingilis simvollarından istifadə edərək Azərbaycan dilində qeyd edilib. 
+
+*Etiketlərdə (tag) yalnız əlavə edilmiş məlumat dəsti ilə əlaqədar Azərbaycan dilində açar sözləri qeyd edilib. 
+
+*Yeni əlavə edilən məlumat dəsti üçün versiya hissəsinə "1.0" yazılıb. 
+
+*Məlumat dəstindən istifadə şərtlərinə uyğun olaraq lisenziya seçimi edilib. 
    
-
-
-
 
 #### 1.3.1.3. Məlumat idarəetmə sistemində yer alan məlumat dəstlərinin versiyalandırması məntiqi
 
