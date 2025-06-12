@@ -357,57 +357,60 @@ Açıq məlumatların keyfiyyətinin qorunması və istifadəçi təcrübəsini 
 
 ##### Resurs
 
-*Məlumat dəsti portalda təkrarlanmır. 
+1. Məlumat dəsti portalda təkrarlanmır. 
 
-*Məlumat dəstində tamamilə boş sütun və ya sətr yer almır. 
+2. Məlumat dəstində tamamilə boş sütun və ya sətr yer almır. 
 
-*Məlumat dəstinin atributları (sütun başlığı, sahə adı, açar söz və s.), yüklənən faylın adı və digər elementləri azərbaycancadır. 
+3. Məlumat dəstinin atributları (sütun başlığı, sahə adı, açar söz və s.), yüklənən faylın adı və digər elementləri azərbaycancadır. 
 
-*Məlumat dəstində məlumat xarakterli sütunlar yoxdur(notlar, qeydlər kimi). 
+4. Təkrar olunan sətir və sütunlar yer almır. 
 
-*Təkrar olunan sətirlər yer almır. 
+5. Məlumat dəsti maşın emalına uyğun formatdır (CSV, XML, JSON, RDF, API və s.), analiz və vizuallaşdırma üçün uyğun quruluşdadır. 
 
-*Məlumat dəsti maşın emalına uyğun formatdadır (CSV, XML, JSON, RDF, API və s.) 
+6. Məlumatı izah edən elementlərdə (sütun adı, açar sözlər, vərəq adı və.s) abreviatura yer almır.
 
-*UTF–8 formatındadır. 
+7. Fərdi məlumatlar yer almır. 
 
-*Fərdi məlumatlar yer almır. 
+8. Məxfi məlumatlar yer almır. 
 
-*Məxfi məlumatlar yer almır. 
+9. Məlumat sütunlarında yer alan məlumatlar vahid formatdadır. 
 
-*Məlumat sütunları vahid formatdadır. 
+10. Cədvəldə birləşdirilmiş xanalar və ya iki səviyyəli sütun başlıqları yer almamalıdır. 
 
-*Məlumatı izah edən elementlərdə (sütun adı, açar sözlər, vərəq adı və.s) abreviatura yer almır. 
+11. Sütun başlıqları və onun kimi məlumatı izah edən elementlər camelCase (məsələn: musteriAdi, sifarisTarixi) ya Snake_case (məsələn: musteri_adi, sifaris_tarixi) yazılış formatında olması tövsiyyə olunmalıdır.
 
-*Cədvəldə birləşdirilmiş xanalar və ya iki səviyyəli sütun başlıqları yer almamalıdır. 
+12. Boş və ya işləməyən resurs faylları yerləşdirilməməlidir
 
-*Sütun başlıqları və onun kimi məlumatı izah edən elementlər camelCase (məsələn: musteriAdi, sifarisTarixi) ya Snake_case (məsələn: musteri_adi, sifaris_tarixi) yazılış formatında olması tövsiyyə olunmalıdır. 
-
-*Cədvəldə təkrarlanan və paralel sütunlar yer almamalıdır. 
 
 ##### Metaməlumat
 
-*Başlıq (Title) portalda təkrar olunmur
+1. Başlıq (Title) portalda təkrar olunmur
 
-*Başlıq (Title) ilə Açıqlama (description) fərqlidir 
+2. Başlıq (Title) və Açıqlama (description) aydın qeyd olunub və bir-birindən fərqlidir
 
-*Başlıq (Title) ilə Açıqlama (Description) Azərbaycanca, İngiliscə və Rusca yazılıb. 
+3. Başlıq (Title) ilə Açıqlama (Description) Azərbaycanca, İngiliscə və Rusca yazılıb. 
 
-*Açıqlamada (Description)  məlumatın yenilənmə tezliyi (frequency) qeyd edilib 
+4. Açıqlamada (Description) məlumatın yenilənmə tezliyi (frequency) qeyd edilib 
 
-*İnformasiyanın sahibi və ya onu yaradan tərəf açıqlamada qeyd olunub (Əgər paylaşan təşkilat onun sahibi deyilsə) 
+5. İnformasiyanın sahibi və ya onu yaradan tərəf açıqlamada qeyd olunub (Əgər paylaşan təşkilat onun sahibi deyilsə) 
 
-*Məlumat dəstinin birdən artıq iştirakçısı (dövlət və ya özəl təşkilat) var və açıqlamada qeyd olunub. 
+6. Məlumat dəstinin birdən artıq iştirakçısı (dövlət və ya özəl təşkilat) var və açıqlamada (description) qeyd olunub. 
 
-*Açıqlamada (Description) məlumat dəstinin əhatə dairəsi qeyd edilib. (məsələn, Əhatə dairəsi: Bakı, Azərbaycan) 
+7. Açıqlamada (Description) məlumat dəstinin əhatə dairəsi qeyd edilib. (məsələn, Əhatə dairəsi: Bakı, Azərbaycan) 
 
-*Məlumat dəstinin URL-i ingilis simvollarından istifadə edərək Azərbaycan dilində qeyd edilib. 
+8. Məlumat dəstinin URL-i ingilis simvollarından istifadə edərək Azərbaycan dilində qeyd edilib. 
 
-*Etiketlərdə (tag) yalnız əlavə edilmiş məlumat dəsti ilə əlaqədar Azərbaycan dilində açar sözləri qeyd edilib. 
+9. Etiketlərdə (tag) yalnız əlavə edilmiş məlumat dəsti ilə əlaqədar Azərbaycan dilində açar sözləri qeyd edilib. 
 
-*Yeni əlavə edilən məlumat dəsti üçün versiya hissəsinə "1.0" yazılıb. 
+10. Yeni əlavə edilən məlumat dəsti üçün versiya hissəsinə "1.0" yazılıb. 
 
-*Məlumat dəstindən istifadə şərtlərinə uyğun olaraq lisenziya seçimi edilib. 
+11. Məlumat dəstindən istifadə şərtlərinə uyğun olaraq lisenziya seçimi edilib.
+    
+12. Məlumat dəstinin Author və Maintainer məlumatları qeyd olunub.
+
+13. Resurs metaməlumatlarında Ad (Name) məlumatları məlumat dəstinin hər bir resursuna uyğun şəkildə doldurulmuşdur.
+
+14. Başlıq və açıqlamada Texniki baxımdan lazımsız simvollar və ya klaviatura səhvləri – məsələn: *), ***, //, -- kimi yoxdur.
    
 
 #### 1.3.1.3. Məlumat idarəetmə sistemində yer alan məlumat dəstlərinin versiyalandırması məntiqi
