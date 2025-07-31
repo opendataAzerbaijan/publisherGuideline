@@ -351,7 +351,55 @@ Açıqlama: Bu resurs Bakı şəhərindəki bütün avtobus dayanacaqlarının G
 ###### 2️⃣ Resurs Adı: Sumqayıt şəhəri üzrə ictimai nəqliyyat dayanacaqları
 Açıqlama: Bu resurs Sumqayıt şəhərindəki avtobus dayanacaqlarının yerləşdiyi əraziləri və dayanacaq məntəqələrinin adlarını ehtiva edir. Koordinatlar deyil, yalnız dayanacaq zonaları təqdim olunur.
 
-#### 1.3.1.2. Portala daxil edilən məlumat dəstlərinin metaməlumatları və resursları üçün tövsiyələr: 
+### 1.3.1.2 Məlumat dəstinin resurs(lar)ı üçün məlumat lüğətinin **(data dictionary)** əlavə edilməsi  .
+
+1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
+2. Əsas naviqasiya panelində Məlumat dəstləri **(Datasets)** bölməsinə klikləyin.
+3. Məlumat lüğəti əlavə edəcəyiniz məlumat dəstini və onun resursunu seçin.
+4. İdarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.
+5. Açılan bölmədən **DataStore** bölməsinə keçid edək.
+6. **Upload to DataStore** butonuna klikləyək.
+7. Ekranda göstərilən status tamamlandı **(Completed)** olmasını gözləyək (Status dəyişməsini görmək üçün mövcud pəncərəni yeniləyək).
+8. Məlumat lüğəti bölməsinə keçid edərək resurs daxilində hər bir sütun başlığı, Atrubut, Sahə və.s üçün aşağıda məlumatları əlavə edək.
+
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+    <thead>
+        <tr style="background-color: #f2f2f2;">
+            <th>Metaməlumat (ingiliscə)</th>
+            <th>Metaməlumat (Azərbaycanca)</th>
+            <th>Açıqlaması</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>* Type Override</td>
+            <td>* məlumatın tipi</td>
+            <td>Məlumat dəstinin resursunda tip avtomatik təyin edilir, yanlış olduğunu düşündüyünüz tipləri manual olaraq "text", "numeric", "timestamp" olaraq daxil edilə bilər.</td>
+        </tr>
+        <tr>
+            <td>Label</td>
+            <td>Etiket</td>
+            <td>Sütun üçün daha anlaşılan başlıq və ya etiket</td>
+        </tr>
+        <tr>
+            <td>* Description</td>
+            <td>* Məlumat sütunun açıqlaması</td>
+            <td>
+                Sütunun təfərrüatlı təsviri (istifadəçilərə nəyi əhatə etdiyini izah etmək üçün).<br>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+###### Cədvəl 4
+
+#### Diqqət 1: 
+##### Məlumatın resursunda yenilənmələr olduğu zaman **Datastore** bölməsində əlaqəni yeniləmək və məlumat lüğətində yenilənməyə ehtiyac varsa yeniləyərək məlumat dəstini hər zaman aktual saxlaya bilərik.
+
+#### Diqqət 2: 
+##### * işarəsi ilə fərqləndirilmiş bölmələrdəki məlumatların daxil edilməsi zəruridir.
+
+#### 1.3.1.3. Portala daxil edilən məlumat dəstlərinin metaməlumatları və resursları üçün tövsiyələr: 
 
 Açıq məlumatların keyfiyyətinin qorunması və istifadəçi təcrübəsini zənginləşdirmək üçün metaməlumatları və resurslarında aşağıdakı maddələrə əməl etməliyik.
 
@@ -411,6 +459,8 @@ Açıq məlumatların keyfiyyətinin qorunması və istifadəçi təcrübəsini 
 13. Resurs metaməlumatlarında Ad (Name) məlumatları məlumat dəstinin hər bir resursuna uyğun şəkildə doldurulmuşdur.
 
 14. Başlıq və açıqlamada Texniki baxımdan lazımsız simvollar və ya klaviatura səhvləri – məsələn: *), ***, //, -- kimi yoxdur.
+    
+15. Məlumat lüğətinə **(Data dictionary)** resursun sütun başlıqlarına (Dəyər, Atribut və.s) dair metaməlumatlar daxil edilib.
    
 
 #### 1.3.1.3. Məlumat idarəetmə sistemində yer alan məlumat dəstlərinin versiyalandırması məntiqi
@@ -466,7 +516,7 @@ Açıq məlumatların keyfiyyətinin qorunması və istifadəçi təcrübəsini 
     </tbody>
 </table>
 
-###### Cədvəl 4
+###### Cədvəl 5
 
 #### 1.3.1.4. Məlumat idarəetmə sistemində yer alan məlumat dəstlərinə tətbiq oluna biləcək lisenziyalar
 
@@ -499,7 +549,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
-3. Məlumat dəstiin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.
+3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.
 4. Silmək **(Delete)** düyməsini seçin: Təsdiq dialoq pəncərəsini göstərəcək.
 5. Təsdiq et **(Confirm)** düyməsini basaraq Məlumat dəstii silmə prosesini tamamlayın.
 
@@ -545,7 +595,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
     </tbody>
 </table>
 
-###### Cədvəl 5
+###### Cədvəl 6
 
 #### 1.3.2.2. Məlumat dəsti əlavə edərkən məlumat(resurs) ilə bağlı diqqət etməli oldiğumuz məqamlar.
   <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
@@ -574,7 +624,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
         </tr>
     </table>
 
-###### Cədvəl 6
+###### Cədvəl 7
 
 
 #### 1.3.2.3. Mövcud Məlumat dəstinə yeni resurs əlavə etmək
@@ -815,7 +865,7 @@ Editor-un bütün funksiyalarını yerinə yetirə bilər.
     </tbody>
 </table>
 
-###### Cədvəl 7
+###### Cədvəl 8
 
 5. Yeniləmələrinizi nəzərdən keçirin və dəyişiklikləri saxlamaq üçün Təşkilatı yeniləyin **(Update Organization)** düyməsinə klikləyin.
    
