@@ -409,7 +409,7 @@ Açıq məlumatların keyfiyyətinin qorunması və istifadəçi təcrübəsini 
 
 2. Məlumat dəstində tamamilə boş sütun və ya sətr yer almır. 
 
-3. Məlumat dəstinin atributları (sütun başlığı, sahə adı, açar söz və s.), yüklənən faylın adı və digər elementləri azərbaycancadır. 
+3. Məlumat dəstinin atributları (sütun başlığı, sahə adı, açar söz və s.) üzrə yüklənən faylın adı, dəyərləri və digər elementləri vahid dildə olmalıdır. 
 
 4. Təkrar olunan sətir və sütunlar yer almır. 
 
@@ -463,7 +463,7 @@ Açıq məlumatların keyfiyyətinin qorunması və istifadəçi təcrübəsini 
 15. Məlumat lüğətinə **(Data dictionary)** resursun sütun başlıqlarına (Dəyər, Atribut və.s) dair metaməlumatlar daxil edilib.
    
 
-#### 1.3.1.3. Məlumat idarəetmə sistemində yer alan məlumat dəstlərinin versiyalandırması məntiqi
+#### 1.3.1.4. Məlumat idarəetmə sistemində yer alan məlumat dəstlərinin versiyalandırması məntiqi
 
 İştiakçılar təqdim etdikləri Məlumat dəstlərdə baş verən hər bir dəyişiklik növünü Məlumat dəstinin məzmununa və təsirinə görə **Xırda(PATCH)**, **Kiçik(MINOR)**, və ya **Böyük(MAJOR)** versiyalandırma altında təsnif edilir.
 
@@ -518,7 +518,7 @@ Açıq məlumatların keyfiyyətinin qorunması və istifadəçi təcrübəsini 
 
 ###### Cədvəl 5
 
-#### 1.3.1.4. Məlumat idarəetmə sistemində yer alan məlumat dəstlərinə tətbiq oluna biləcək lisenziyalar
+#### 1.3.1.5. Məlumat idarəetmə sistemində yer alan məlumat dəstlərinə tətbiq oluna biləcək lisenziyalar
 
 **1\. Creative Commons Attribution (CC BY 4.0) License - Kreativ Kommons Atributlaşdırma Lisenziyası**
 
@@ -536,7 +536,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 - Məzmuna dair bütün hüquqlardan imtina edildiyini və onun ictimai mülkiyyətə verildiyini ifadə edir. Məzmundan istənilən məqsədlə, məhdudiyyətsiz və istinadsız istifadə etmək mümkündür.
 
 
-#### 1.3.1.5. Mövcud Məlumat dəstinin metaməlumatlarına düzəliş edilməsi
+#### 1.3.1.6. Mövcud Məlumat dəstinin metaməlumatlarına düzəliş edilməsi
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
@@ -545,7 +545,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 5. Dəyişmək istədiyiniz məlumatları **cədvəl 2** əsasında yeniləyin.
 6. Bütün yenilikləri nəzərdən keçirin və dəyişiklikləri tətbiq etmək üçün Yadda saxla **(Save)** düyməsini basın.
 
-#### 1.3.1.6. Mövcud Məlumat dəstini silmək
+#### 1.3.1.7. Mövcud Məlumat dəstini silmək
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
