@@ -603,7 +603,8 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
         <tr style="background-color: #d9e1f2; text-align: left;">
             <th>Məlumat</th>
         </tr>
-
+  </thead>
+    <tbody>
         <tr>
             <td>Tamamilə boş sətirlər və ya sütunlar yer almamalıdır.</td>
         </tr>
@@ -622,6 +623,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
         <tr>
             <td>Şəxsiyyəti müəyyən edə biləcək məlumatlar və digər məxfi məlumatlar paylaşılmamalıdır.</td>
         </tr>
+           </tbody>
     </table>
 
 ###### Cədvəl 7
