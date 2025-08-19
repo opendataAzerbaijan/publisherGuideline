@@ -456,7 +456,7 @@ Açıq məlumatların keyfiyyətinin qorunması və istifadəçi təcrübəsini 
     
 12. Məlumat dəstinin Author və Maintainer məlumatları qeyd olunub.
 
-13. Resurs metaməlumatlarında Ad (Name) məlumatları məlumat dəstinin hər bir resursuna uyğun şəkildə doldurulmuşdur.
+13. Resurs metaməlumatlarında Ad (Name) məlumatları məlumat dəstinin hər bir resursuna uyğun şəkildə əlavə edilmişdir.
 
 14. Başlıq və açıqlamada Texniki baxımdan lazımsız simvollar və ya klaviatura səhvləri – məsələn: *), ***, //, -- kimi yoxdur.
     
