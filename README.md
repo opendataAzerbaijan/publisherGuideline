@@ -191,7 +191,8 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
         <tr>
             <td>* Title</td>
             <td>* Məlumat dəstinin adı</td>
-            <td>Məlumat dəstinə aid təsviri bir başlıq.</td>
+            <td>Məlumat dəstinə aid təsviri bir başlıq. 
+Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəyişdirilməsinə ehtiyyac olmayan bir ad seçilməlidir. Çünki ad və URl avtomatik ada uyğun yaradılır (manual redaktə edilmədiyi təqdirdə) və dəyişdirilməsi məlumat dəstinə müraciət edən istifadəçiyə çətinlik yaradır. Məsələn: 'Büdcə proqnozları 2001 - 2025 üzrə', 'Bakı dəmir yollarının koordinatları' əvəzinə uyğun olaraq ''Büdcə proqnozları' və 'Dəmir yollarının koordinatları' olaraq qeyd edib önəmli hesab edilən ayrıntıları açıqlamada qeyd etmək olar.</td>
         </tr>
         <tr>
             <td>* URL</td>
