@@ -213,10 +213,10 @@ Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəy
         </tr>
         <tr>
             <td>* Tags</td>
-            <td>* Etiketlər</td>
+            <td>* Açar sözlər</td>
             <td>
                 Tag, məlumat dəstini təsvir etmək və axtarışı asanlaşdırmaq üçün verilən açar sözlərdir.
-                Etiketlər məlumat dəstinin başlığına və açıqlamasına uyğun Azərbaycan dilində yazılmalıdır. Məsələn: "Sürüşmə sahələri", "Torpaq sürüşməsi koordinatları"
+                Açar sözlər məlumat dəstinin başlığına və açıqlamasına uyğun Azərbaycan dilində yazılmalıdır. Məsələn: "Sürüşmə sahələri", "Torpaq sürüşməsi koordinatları"
             </td>
         </tr>
         <tr>
@@ -405,60 +405,60 @@ Açıq məlumatların keyfiyyətinin qorunması və istifadəçi təcrübəsini 
 
 ##### Resurs
 
-1. Məlumat dəsti portalda təkrarlanmır. 
+1. Məlumat dəsti portalda təkrarlanmamalıdır. 
 
-2. Məlumat dəstində tamamilə boş sütun və ya sətr yer almır. 
+2. Məlumat dəstində tamamilə boş sütun və ya sətr yer almamalıdır. 
 
 3. Məlumat dəstinin atributları (sütun başlığı, sahə adı, açar söz və s.) üzrə yüklənən faylın adı, dəyərləri və digər elementləri vahid dildə olmalıdır. 
 
-4. Təkrar olunan sətir və sütunlar yer almır. 
+4. Təkrar olunan sətir və sütunlar yer almamaldır. 
 
-5. Məlumat dəsti maşın emalına uyğun formatdır (CSV, XML, JSON, RDF, API və s.), analiz və vizuallaşdırma üçün uyğun quruluşdadır. 
+5. Məlumat dəsti maşın emalına uyğun formatdır (CSV, XML, JSON, RDF, API və s.), analiz və vizuallaşdırma üçün uyğun quruluşda olmaldır. 
 
-6. Məlumatı izah edən elementlərdə (sütun adı, açar sözlər, vərəq adı və.s) abreviatura yer almır.
+6. Məlumatı izah edən elementlərdə (sütun adı, açar sözlər, vərəq adı və.s) abreviatura yer almamaldır.
 
-7. Fərdi məlumatlar yer almır. 
+7. Fərdi məlumatlar yer almamalıdır. 
 
-8. Məxfi məlumatlar yer almır. 
+8. Məxfi məlumatlar yer almamaldır. 
 
-9. Məlumat sütunlarında yer alan məlumatlar vahid formatdadır. 
+9. Məlumat sütunlarında yer alan məlumatlar vahid formatda olmalıdır. 
 
 10. Cədvəldə birləşdirilmiş xanalar və ya iki səviyyəli sütun başlıqları yer almamalıdır. 
 
 11. Sütun başlıqları və onun kimi məlumatı izah edən elementlər camelCase (məsələn: musteriAdi, sifarisTarixi) ya Snake_case (məsələn: musteri_adi, sifaris_tarixi) yazılış formatında olması tövsiyyə olunmalıdır.
 
-12. Boş və ya işləməyən resurs faylları yerləşdirilməməlidir
+12. Boş və ya işləməyən resurs faylları yerləşdirilməməlidir.
 
 
 ##### Metaməlumat
 
-1. Başlıq (Title) portalda təkrar olunmur
+1. Başlıq (Title) portalda təkrar olunmamalıdr
 
-2. Başlıq (Title) və Açıqlama (description) aydın qeyd olunub və bir-birindən fərqlidir
+2. Başlıq (Title) və Açıqlama (description) aydın qeyd olunmalı və bir-birindən fərqlənməlidir.
 
-3. Başlıq (Title) ilə Açıqlama (Description) Azərbaycanca, İngiliscə və Rusca yazılıb. 
+3. Başlıq (Title) ilə Açıqlama (Description) Azərbaycanca, İngiliscə və Rusca qeyd olunmaldır. 
 
-4. Açıqlamada (Description) məlumatın yenilənmə tezliyi (frequency) qeyd edilib 
+4. Açıqlamada (Description) məlumatın yenilənmə tezliyi (frequency) qeyd edilməlidir. 
 
-5. Məlumat dəstinin birdən artıq iştirakçısı (dövlət və ya özəl təşkilat) var və açıqlamada (description) qeyd olunub. 
+5. Məlumat dəstinin birdən artıq iştirakçısı (dövlət və ya özəl təşkilat) var və açıqlamada (description) qeyd olunmaldır. 
 
-6. Açıqlamada (Description) məlumat dəstinin əhatə dairəsi qeyd edilib. (məsələn, Əhatə dairəsi: Bakı, Azərbaycan) 
+6. Açıqlamada (Description) məlumat dəstinin əhatə dairəsi qeyd edilməlidir. (məsələn, Əhatə dairəsi: Bakı, Azərbaycan) 
 
-7. Məlumat dəstinin URL-i ingilis simvollarından istifadə edərək Azərbaycan dilində qeyd edilib. 
+7. Məlumat dəstinin URL-i ingilis simvollarından istifadə edərək Azərbaycan dilində qeyd edilməlidir. 
 
-8. Etiketlərdə (tag) yalnız əlavə edilmiş məlumat dəsti ilə əlaqədar Azərbaycan dilində açar sözləri qeyd edilib. 
+8. Açar sözlər (tags) yalnız əlavə edilmiş məlumat dəsti ilə əlaqədar Azərbaycan dilində açar sözləri qeyd edilməlidir. 
 
-9. Yeni əlavə edilən məlumat dəsti üçün versiya hissəsinə "1.0" yazılıb. 
+9. Yeni əlavə edilən məlumat dəsti üçün versiya hissəsinə "1.0" yazılmalıdır. 
 
-10. Məlumat dəstindən istifadə şərtlərinə uyğun olaraq lisenziya seçimi edilib.
+10. Məlumat dəstindən istifadə şərtlərinə uyğun olaraq lisenziya seçimi edilməlidir.
     
-11. Məlumat dəstinin Author və Maintainer məlumatları qeyd olunub.
+11. Məlumat dəstinin Author və Maintainer məlumatları qeyd olunmalıdır.
 
-12. Resurs metaməlumatlarında Ad (Name) məlumatları məlumat dəstinin hər bir resursuna uyğun şəkildə əlavə edilmişdir.
+12. Resurs metaməlumatlarında Ad (Name) məlumatları məlumat dəstinin hər bir resursuna uyğun şəkildə əlavə edilməlidir.
 
-13. Başlıq və açıqlamada Texniki baxımdan lazımsız simvollar və ya klaviatura səhvləri – məsələn: *), ***, //, -- kimi yoxdur.
+13. Başlıq və açıqlamada Texniki baxımdan lazımsız simvollar və ya klaviatura səhvləri – məsələn: *), ***, //, --və.s yer almamalıdır.
     
-14. Məlumat lüğətinə **(Data dictionary)** resursun sütun başlıqlarına (Dəyər, Atribut və.s) dair metaməlumatlar daxil edilib.
+14. Məlumat lüğətinə **(Data dictionary)** resursun sütun başlıqlarına (Dəyər, Atribut və.s) dair metaməlumatlar daxil edilməlidir.
    
 
 #### 1.3.1.4. Məlumat idarəetmə sistemində yer alan məlumat dəstlərinin versiyalandırması məntiqi
@@ -520,7 +520,7 @@ Açıq məlumatların keyfiyyətinin qorunması və istifadəçi təcrübəsini 
 
 **1\. Creative Commons Attribution (CC BY 4.0) License - Kreativ Kommons Atributlaşdırma Lisenziyası**
 
-Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən məlumat dəstlərinin sərbəst istifadəsinə imkan yaradır və aşağıdakı şərtləri müəyyən edir:
+Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən məlumat dəstlərinin istifadə şərtlərini göstərir və aşağıdakı şərtləri müəyyən edir:
 
 - **İstinad mütləqdir** – Məlumatdan istifadə edərkən müəllif(lər)ə istinad verilməlidir. Lisenziya mətninə və ya ona keçid göstərilməlidir.
 - **Dəyişikliklər qeydə alınmalıdır** – Əgər məlumat dəstinə əlavə, çıxarış və ya başqa dəyişikliklər edilərsə, bu, açıq şəkildə bildirilməlidir. Müəllifin rəsmi təsdiqi kimi təqdim etmək olmaz.
