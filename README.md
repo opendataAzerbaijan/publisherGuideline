@@ -1,6 +1,6 @@
 # Açıq məlumatlar" portalının iştirakçı təlimatı
 
-Bu təlimat [**CKAN 2.10.7 Overview**](https://docs.ckan.org/en/2.10/) sənədinə əsaslanaraq hazırlanmış və “Açıq Məlumatlar” portalının məlumat idarəetmə sistemindən istifadə edən iştirakçılar üçün nəzərdə tutulmuşdur. Təlimatda iştirakçıların yerinə yetirəcəyi bütün əməliyyatlar ətraflı izah edilmişdir. Bu, onların məlumatların paylaşılması və idarə olunması prosesini effektiv və düzgün şəkildə icra etməsinə kömək edəcək.
+Bu təlimatın əsas məqsədi “Açıq Məlumatlar” portalında iştirakçı məlumatların yerləşdirilməsi, paylaşılması və məlumat idarəetmə sisteminin (([**CKAN 2.10.7 Overview**](https://docs.ckan.org/en/2.10/)) idarə olunması  prosesini iştirakçılara ətraflı izah etmək, onların bu əməliyyatları effektiv və düzgün şəkildə icra etməsini təmin etməkdir.
 
 # "Açıq Məlumatlar" portalı
 **Açıq Məlumatlar** Əldə olunması, işlənməsi, verilməsi və ya istifadəsi Azərbaycan Respublikasının qanunvericiliyi ilə məhdudlaşdırılmayan və ümumi istifadə üçün təyin olunmuş məlumatlardır
