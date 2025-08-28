@@ -207,7 +207,6 @@ Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəy
                <ul>
                     <li><strong>Yenilənmə Tezliyi</strong> – Məlumatın hansı aralıqla yeniləndiyi (<em>1 saat, 1 gün, 1 həftə, 1 ay 3 ay, 6 ay 12 ay </em>) göstərilməlidir.</li>
                     <li><strong>Əhatə Dairəsi</strong> – Hansı bölgəni və ya ölkəni əhatə etdiyi qeyd olunmalıdır (<em>məs. Bakı və ya Azərbaycan</em>).</li>
-                    <li><strong>Məlumatın Sahibi</strong> – Məlumatı yaradan qurum və ya ilkin mənbə açıqlanmalıdır. Əgər paylaşan təşkilat onun sahibi deyilsə, <em>mənbə göstərilməlidir</em>.</li>
                     <li><strong>İştirakçılar</strong> – Məlumatın toplanmasında və ya istifadəsində bir neçə qurum iştirak edirsə, onların adları <em>qeyd olunmalıdır</em>.</li>
             </ul>
             </td>
@@ -441,27 +440,25 @@ Açıq məlumatların keyfiyyətinin qorunması və istifadəçi təcrübəsini 
 
 4. Açıqlamada (Description) məlumatın yenilənmə tezliyi (frequency) qeyd edilib 
 
-5. İnformasiyanın sahibi və ya onu yaradan tərəf açıqlamada qeyd olunub (Əgər paylaşan təşkilat onun sahibi deyilsə) 
+5. Məlumat dəstinin birdən artıq iştirakçısı (dövlət və ya özəl təşkilat) var və açıqlamada (description) qeyd olunub. 
 
-6. Məlumat dəstinin birdən artıq iştirakçısı (dövlət və ya özəl təşkilat) var və açıqlamada (description) qeyd olunub. 
+6. Açıqlamada (Description) məlumat dəstinin əhatə dairəsi qeyd edilib. (məsələn, Əhatə dairəsi: Bakı, Azərbaycan) 
 
-7. Açıqlamada (Description) məlumat dəstinin əhatə dairəsi qeyd edilib. (məsələn, Əhatə dairəsi: Bakı, Azərbaycan) 
+7. Məlumat dəstinin URL-i ingilis simvollarından istifadə edərək Azərbaycan dilində qeyd edilib. 
 
-8. Məlumat dəstinin URL-i ingilis simvollarından istifadə edərək Azərbaycan dilində qeyd edilib. 
+8. Etiketlərdə (tag) yalnız əlavə edilmiş məlumat dəsti ilə əlaqədar Azərbaycan dilində açar sözləri qeyd edilib. 
 
-9. Etiketlərdə (tag) yalnız əlavə edilmiş məlumat dəsti ilə əlaqədar Azərbaycan dilində açar sözləri qeyd edilib. 
+9. Yeni əlavə edilən məlumat dəsti üçün versiya hissəsinə "1.0" yazılıb. 
 
-10. Yeni əlavə edilən məlumat dəsti üçün versiya hissəsinə "1.0" yazılıb. 
-
-11. Məlumat dəstindən istifadə şərtlərinə uyğun olaraq lisenziya seçimi edilib.
+10. Məlumat dəstindən istifadə şərtlərinə uyğun olaraq lisenziya seçimi edilib.
     
-12. Məlumat dəstinin Author və Maintainer məlumatları qeyd olunub.
+11. Məlumat dəstinin Author və Maintainer məlumatları qeyd olunub.
 
-13. Resurs metaməlumatlarında Ad (Name) məlumatları məlumat dəstinin hər bir resursuna uyğun şəkildə əlavə edilmişdir.
+12. Resurs metaməlumatlarında Ad (Name) məlumatları məlumat dəstinin hər bir resursuna uyğun şəkildə əlavə edilmişdir.
 
-14. Başlıq və açıqlamada Texniki baxımdan lazımsız simvollar və ya klaviatura səhvləri – məsələn: *), ***, //, -- kimi yoxdur.
+13. Başlıq və açıqlamada Texniki baxımdan lazımsız simvollar və ya klaviatura səhvləri – məsələn: *), ***, //, -- kimi yoxdur.
     
-15. Məlumat lüğətinə **(Data dictionary)** resursun sütun başlıqlarına (Dəyər, Atribut və.s) dair metaməlumatlar daxil edilib.
+14. Məlumat lüğətinə **(Data dictionary)** resursun sütun başlıqlarına (Dəyər, Atribut və.s) dair metaməlumatlar daxil edilib.
    
 
 #### 1.3.1.4. Məlumat idarəetmə sistemində yer alan məlumat dəstlərinin versiyalandırması məntiqi
