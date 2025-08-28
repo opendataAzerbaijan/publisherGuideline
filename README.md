@@ -103,22 +103,22 @@ Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji 
         <tr>
             <td>* Full name</td>
             <td>* Tam ad</td>
-            <td>İştirakçının ad və soyad yazılmalıdır (zəruridir).</td>
+            <td>İştirakçının ad və soyadı qeyd olunur.</td>
         </tr>
         <tr>
             <td>* Email</td>
             <td>* E-poçt</td>
-            <td>İştirakçının Elektron poçt ünvanı yerləşir (zəruridir).</td>
+            <td>İştirakçının elektron poçt ünvanı qeyd olunur.</td>
         </tr>
         <tr>
             <td>* About</td>
             <td>* Haqqında</td>
-            <td>İştirakçının təmsil etdiyi qurumdakı struktur bölməsi və vəzifəsi və.s haqqında məlumat verilsin.</td>
+            <td>İştirakçının təmsil etdiyi qurumdakı struktur bölməsi və vəzifəsi qeyd olunur.</td>
         </tr>
         <tr>
             <td>Profile picture</td>
             <td>Profil şəkli</td>
-            <td>İştirakçı öz şəkilini bura yerləşdirə bilər.</td>
+            <td>İştirakçı öz şəkilini bu hissəyə yerləşdirir.</td>
         </tr>
     </tbody>
 </table>
@@ -161,7 +161,7 @@ Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji 
 
 ## 1.3. Məlumat düzəlişçisi (Editor) Roluna sahib İştirakçının öhdəlikləri
 
-Məlumat editor aşağıdakı öhdəlikləri vardır.
+Editor aşağıdakı öhdəlikləri vardır.
 * Təşkilatın private və public (məlumat idarəetmə sistemindən əlçatan olan) məlumat dəstlərini görə bilər.
 * Təşkilata yeni Məlumat dəstləri əlavə edə bilər.
 * Təşkilatdakı istənilən Məlumat dəstini editor və ya silə bilər.
@@ -191,8 +191,8 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
         <tr>
             <td>* Title</td>
             <td>* Məlumat dəstinin adı</td>
-            <td>Məlumat dəstinə aid təsviri bir başlıq. 
-Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəyişdirilməsinə ehtiyyac olmayan bir ad seçilməlidir. Çünki ad və URl avtomatik ada uyğun yaradılır (əl ilə düzəliş edilmədiyi təqdirdə) və dəyişdirilməsi məlumat dəstinə müraciət edən istifadəçiyə çətinlik yaradır. Məsələn: 'Büdcə proqnozları 2001 - 2025 üzrə', 'Bakı dəmir yollarının koordinatları' əvəzinə uyğun olaraq 'Büdcə proqnozları' və 'Dəmir yollarının koordinatları' olaraq qeyd edib önəmli hesab edilən ayrıntıları açıqlamada qeyd etmək olar.</td>
+            <td>Məlumat dəstini təsvir edən bir başlıq qeyd olunur. 
+Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəyişdirilməsinə ehtiyyac olmayan bir ad seçilməsi zəruridir. Çünki ad və URl avtomatik ada uyğun yaradılır (əl ilə düzəliş edilmədiyi təqdirdə) və dəyişdirilməsi məlumat dəstinə müraciət edən istifadəçiyə çətinlik yaradır. Məsələn: 'Büdcə proqnozları 2001 - 2025 üzrə', 'Bakı dəmir yollarının koordinatları' əvəzinə uyğun olaraq 'Büdcə proqnozları' və 'Dəmir yollarının koordinatları' olaraq qeyd edib önəmli hesab edilən ayrıntıları açıqlamada qeyd etmək olar.</td>
         </tr>
         <tr>
             <td>* URL</td>
@@ -203,7 +203,7 @@ Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəy
             <td>* Description</td>
             <td>* Məlumat dəstinin açıqlaması</td>
             <td>
-                Başlıqdan fərqli insanların məlumat dəstindən istifadə edərkən bilməli olduğu hər hansı faydalı qeydlər.<br>
+                Başlıqdan fərqli insanların məlumat dəstindən istifadə edərkən bilməli olduğu və onu izah edən məlumatlar. Bəzi məlumatlar varki məlumat dəstinin açıqlamasında qeyd olunması zəruridir.<br>
                <ul>
                     <li><strong>Yenilənmə Tezliyi</strong> – Məlumatın hansı aralıqla yeniləndiyi (<em>1 saat, 1 gün, 1 həftə, 1 ay 3 ay, 6 ay 12 ay </em>) göstərilməlidir.</li>
                     <li><strong>Əhatə Dairəsi</strong> – Hansı bölgəni və ya ölkəni əhatə etdiyi qeyd olunmalıdır (<em>məs. Bakı və ya Azərbaycan</em>).</li>
@@ -215,31 +215,31 @@ Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəy
             <td>* Tags</td>
             <td>* Açar sözlər</td>
             <td>
-                Tag, məlumat dəstini təsvir etmək və axtarışı asanlaşdırmaq üçün verilən açar sözlərdir.
-                Açar sözlər məlumat dəstinin başlığına və açıqlamasına uyğun Azərbaycan dilində yazılmalıdır. Məsələn: "Sürüşmə sahələri", "Torpaq sürüşməsi koordinatları"
+                Tag, məlumat dəstini təsvir etmək və axtarışı asanlaşdırmaq üçün verilən terminlərdir.
+                Açar sözlər məlumat dəstinin başlığına və açıqlamasına uyğun Azərbaycan dilində yazılması zəruridir. Məsələn: "Sürüşmə sahələri", "Torpaq sürüşməsi koordinatları"
             </td>
         </tr>
         <tr>
             <td>* License</td>
-            <td>* Lisenziya</td>
+            <td>* İstifadə şərtləri (Lisenziya)</td>
             <td>
-                Lisenziya iştirakçılara həmin məlumat dəstinin istifadəsi, paylaşılması və yenidən işlənməsi ilə bağlı hüququ və məhdudiyyətləri bildirir. <br>
-                Lisenziyalar və onların növləri barəsində 1.3.1.4 bölməsindən daha çox məlumat əldə edə bilərsiniz.
+                Lisenziya iştirakçılara həmin məlumat dəstinin istifadə şərtləri və bununla bağlı hüququ və məhdudiyyətləri bildirir. <br>
+                1.3.1.4 bölməsində qeyd olunan lisenziyalar arasından seçim edilməsi zəruridir.
             </td>
         </tr>
         <tr>
             <td>* Organization</td>
             <td>* Təşkilat</td>
-            <td>Məlumat dəstini idarə edən təşkilat.</td>
+            <td>Məlumat dəstini idarə edən təşkilatın adı qeyd olunur.</td>
         </tr>
         <tr>
             <td>* Visibility</td>
             <td>* Görünürlük</td>
             <td>
                 Görünürlük hissəsində iki seçim vardır.<br>
-                <strong>Private:</strong> yalnız məlumat idarəetmə sistemində məlumat dəsti əlçatan olur.<br>
-                <strong>Public:</strong> Məlumat dəsti həmçinin “Açıq məlumatlar” portalında iştirakçılar tərəfindən də əlçatan olur.
-                 <strong>Məlumat dəstini bizim əməkdaşlar rəy vermədən öncə public etməyin!</strong>
+                <strong> Gizli (Private):</strong> Yalnız məlumat idarəetmə sistemində məlumat dəsti əlçatan olur.<br>
+                <strong> ictimayətə açıq (Public):</strong> Məlumat dəsti həmçinin “Açıq məlumatlar” portalında istifadəçilər tərəfindən də əlçatan olur.
+                 <strong>Məlumat dəstini bizim əməkdaşlar rəy vermədən öncə ictimayətə açıq etməyin!</strong>
             </td>
         </tr>
         <tr>
@@ -259,22 +259,22 @@ Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəy
         <tr>
             <td>* Author</td>
             <td>* Müəllifin Adı</td>
-            <td>Məlumatlardan cavabdeh olan şəxs və ya təşkilatın adı. Zəruri deyil.</td>
+            <td>Məlumatlardan cavabdeh olan şəxs və ya təşkilatın adı qeyd olunur.</td>
         </tr>
         <tr>
             <td>* Author Email</td>
             <td>* Müəllifin e-poçtu</td>
-            <td>Məlumatlardan cavabdeh olan şəxsin və ya təşkilatın elektron poçt ünvanı. Zəruri deyil.</td>
+            <td>Məlumatlardan cavabdeh olan şəxsin və ya təşkilatın elektron poçt ünvanı qeyd olunur.</td>
         </tr>
         <tr>
             <td>* Maintainer</td>
             <td>* Maintainerin adı</td>
-            <td>Məlumatlara cavabdeh olan ikinci şəxs. Zəruri deyil.</td>
+            <td>Maintainer məlumatları portala daxil edib onlar idarə edən şəxsin adı qeyd olunur.</td>
         </tr>
         <tr>
             <td>* Maintainer Email</td>
             <td>* Maintainerin e-poçtu</td>
-            <td>Məlumat dəstinə cavabdeh ikinci şəxslə əlaqə üçün e-poçt ünvanı. Zəruri deyil.</td>
+            <td>Məlumat dəstinin maintaineri ilə əlaqə üçün e-poçt ünvanı qeyd olunur.</td>
         </tr>
     </tbody>
 </table>
@@ -297,10 +297,10 @@ Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəy
             <td>* Data</td>
             <td>* Məlumat</td>
             <td>
-                Siz məlumat dəstinin resurslarını (mənbələrini) təyin edirsiniz. <br>
+                 Məlumat dəstinin resurslarını (mənbələrini) təyin edilir. <br>
                 <strong>Upload</strong> və <strong>Link</strong> şəkilində iki seçim verilir.<br><br>
-                <strong>Upload:</strong> Komputerdə yer alan fayllarınız arasında seçim edirsiniz.<br><br>
-                <strong>Link:</strong> API linki şəkilində saxladığınız məlumatların linkini daxil edə bilərsiniz. Açıq məlumat dəstinin formatının seçimi haqqında 1.3.2.1. bölməsindən daha ətraflı məlumat ala bilərsiniz. Resursları əlavə edərkən diqqət etməli olduğunuz bəzi məqamlar varki, bunlarla 1.3.2.2. bölməsindən tanış ola bilərsiniz.
+                <strong>Upload:</strong> Komputerdə yer alan fayllarınız arasında seçim edilir<br><br>
+                <strong>Link:</strong> API linki şəkilində saxladığınız məlumatların linkini daxil edilir. Açıq məlumat dəstinin formatının seçimi haqqında 1.3.2.1. bölməsindən daha ətraflı məlumat əldə oluna bilər. Resursları əlavə edərkən diqqət etməli edilməli olan məqamlara dair 1.3.2.2. bölməsinə nəzər salaq.
             </td>
         </tr>
         <tr>
@@ -311,7 +311,7 @@ Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəy
         <tr>
             <td>Description</td>
             <td>Resursun açıqlamaı</td>
-            <td>Resurs haqqında fərqləndirici məlumatlar.</td>
+            <td>Resurs haqqında fərqləndirici məlumatlar qeyd olunur.</td>
         </tr>
         <tr>
             <td>* Format</td>
@@ -385,7 +385,7 @@ Açıqlama: Bu resurs Sumqayıt şəhərindəki avtobus dayanacaqlarının yerl�
             <td>* Description</td>
             <td>* Məlumat sütunun açıqlaması</td>
             <td>
-                Sütunun təfərrüatlı təsviri (istifadəçilərə nəyi əhatə etdiyini izah etmək üçün).<br>
+                Sütunun təfərrüatlı təsviri (istifadəçilərə nəyi əhatə etdiyini izah etmək üçün) qeyd olunur.<br>
             </td>
         </tr>
     </tbody>
@@ -522,7 +522,7 @@ Açıq məlumatların keyfiyyətinin qorunması və istifadəçi təcrübəsini 
 
 Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən məlumat dəstlərinin istifadə şərtlərini göstərir və aşağıdakı şərtləri müəyyən edir:
 
-- **İstinad mütləqdir** – Məlumatdan istifadə edərkən müəllif(lər)ə istinad verilməlidir. Lisenziya mətninə və ya ona keçid göstərilməlidir.
+- **İstinad mütləqdir** – Məlumatdan istifadə edərkən müəllif(lər)ə istinad verilməlidir.
 - **Dəyişikliklər qeydə alınmalıdır** – Əgər məlumat dəstinə əlavə, çıxarış və ya başqa dəyişikliklər edilərsə, bu, açıq şəkildə bildirilməlidir. Müəllifin rəsmi təsdiqi kimi təqdim etmək olmaz.
 - **Sərbəst istifadə və paylaşım** – Məlumatı kommersiya məqsədilə də daxil olmaqla, istənilən məqsədlə istifadə və paylaşmaq olar.
 - **Uyğunlaşdırma və modifikasiya mümkündür** – Məlumat dəsti düzəliş edilə, başqa mənbələrlə birləşdirilə və yeni məlumat dəsti yaradıla bilər, amma müəllifə istinad şərtdir.
@@ -850,17 +850,17 @@ Editor-un bütün funksiyalarını yerinə yetirə bilər.
         <tr>
             <td>* Title</td>
             <td>* Başlıq</td>
-            <td>Təşkilatın adı</td>
+            <td>Təşkilatın adı qeyd olunur</td>
         </tr>
         <tr>
             <td>* Description</td>
             <td>* Açıqlama</td>
-            <td>Təşkilat haqqında məlumat</td>
+            <td>Təşkilat haqqında məlumatlar qeyd olunur </td>
         </tr>
         <tr>
             <td>* Image</td>
             <td>* Şəkil</td>
-            <td>Təşkilatın şəkil və ya <a href="#">logosu</a>. 43 x 43 piksel ölçüsündə olması məqsədə uyğundur.</td>
+            <td>Təşkilatın şəkil və ya <a href="#">logosu</a> qeyd olunur. 43 x 43 piksel ölçüsündə olması məqsədə uyğundur.</td>
         </tr>
     </tbody>
 </table>
