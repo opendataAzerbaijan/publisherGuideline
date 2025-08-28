@@ -85,7 +85,7 @@ Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji 
 3. Istifadəçi adı **(Username)** və ya elektron poçt **(e-mail)** və şifrə **(password)** daxil edin.
 4. Daxil olun **(Login)** butonuna klikləyib daxil olun.
 
-### 1.1.3. İştirakçı Profilinin məlumatlarının redaktə edilməsi.
+### 1.1.3. İştirakçı Profilinin məlumatlarının düzəliş edilməsi.
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Profil parametrləri **(Profile Settings)** bölməsinə keçid edin.
@@ -126,7 +126,7 @@ Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji 
 ###### Cədvəl 1
 
 4. **Old Password** hissəsinə cari şifrənizi yazın.
-5. Profili yeniləyin **(Update Profile)** hissəsinə klik edərək İştirakçı profilinin redaktəsini tamamlaya bilərik.
+5. Profili yeniləyin **(Update Profile)** hissəsinə klik edərək İştirakçı profilinin düzəlişini tamamlaya bilərik.
    
 #### Diqqət 1: 
 ##### * işarəsi ilə fərqləndirilmiş bölmələrdəki məlumatların daxil edilməsi zəruridir.
@@ -159,12 +159,12 @@ Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji 
 3. **Explore** hissəsindən əlavə məlumat **(More information)** hissəsinə daxil olaraq resurs haqqında olan metaməlumatlara baxa bilərsiniz.
 4. Əgər Resursun özünə baxmaq istəsəniz  **Explore** hissəsindən resursa keç **(go to resource)** və ya yükləyə **(Download)** klikləyərək baxa bilərsiniz
 
-## 1.3. Editor(Məlumat redaktoru) Roluna sahib İştirakçının öhdəlikləri
+## 1.3. Məlumat düzəlişçisi (Editor) Roluna sahib İştirakçının öhdəlikləri
 
-Məlumat redaktoru aşağıdakı öhdəlikləri vardır.
+Məlumat editor aşağıdakı öhdəlikləri vardır.
 * Təşkilatın private və public (məlumat idarəetmə sistemindən əlçatan olan) məlumat dəstlərini görə bilər.
 * Təşkilata yeni Məlumat dəstləri əlavə edə bilər.
-* Təşkilatdakı istənilən Məlumat dəstini redaktə və ya silə bilər.
+* Təşkilatdakı istənilən Məlumat dəstini editor və ya silə bilər.
 * Məlumat dəstləri public və ya private edə bilər.
 
 ## 1.3.1 Məlumat dəstlərinin idarə edilməsi
@@ -192,7 +192,7 @@ Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfind
             <td>* Title</td>
             <td>* Məlumat dəstinin adı</td>
             <td>Məlumat dəstinə aid təsviri bir başlıq. 
-Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəyişdirilməsinə ehtiyyac olmayan bir ad seçilməlidir. Çünki ad və URl avtomatik ada uyğun yaradılır (manual redaktə edilmədiyi təqdirdə) və dəyişdirilməsi məlumat dəstinə müraciət edən istifadəçiyə çətinlik yaradır. Məsələn: 'Büdcə proqnozları 2001 - 2025 üzrə', 'Bakı dəmir yollarının koordinatları' əvəzinə uyğun olaraq ''Büdcə proqnozları' və 'Dəmir yollarının koordinatları' olaraq qeyd edib önəmli hesab edilən ayrıntıları açıqlamada qeyd etmək olar.</td>
+Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəyişdirilməsinə ehtiyyac olmayan bir ad seçilməlidir. Çünki ad və URl avtomatik ada uyğun yaradılır (əl ilə düzəliş edilmədiyi təqdirdə) və dəyişdirilməsi məlumat dəstinə müraciət edən istifadəçiyə çətinlik yaradır. Məsələn: 'Büdcə proqnozları 2001 - 2025 üzrə', 'Bakı dəmir yollarının koordinatları' əvəzinə uyğun olaraq 'Büdcə proqnozları' və 'Dəmir yollarının koordinatları' olaraq qeyd edib önəmli hesab edilən ayrıntıları açıqlamada qeyd etmək olar.</td>
         </tr>
         <tr>
             <td>* URL</td>
@@ -525,7 +525,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 - **İstinad mütləqdir** – Məlumatdan istifadə edərkən müəllif(lər)ə istinad verilməlidir. Lisenziya mətninə və ya ona keçid göstərilməlidir.
 - **Dəyişikliklər qeydə alınmalıdır** – Əgər məlumat dəstinə əlavə, çıxarış və ya başqa dəyişikliklər edilərsə, bu, açıq şəkildə bildirilməlidir. Müəllifin rəsmi təsdiqi kimi təqdim etmək olmaz.
 - **Sərbəst istifadə və paylaşım** – Məlumatı kommersiya məqsədilə də daxil olmaqla, istənilən məqsədlə istifadə və paylaşmaq olar.
-- **Uyğunlaşdırma və modifikasiya mümkündür** – Məlumat dəsti redaktə edilə, başqa mənbələrlə birləşdirilə və yeni məlumat dəsti yaradıla bilər, amma müəllifə istinad şərtdir.
+- **Uyğunlaşdırma və modifikasiya mümkündür** – Məlumat dəsti düzəliş edilə, başqa mənbələrlə birləşdirilə və yeni məlumat dəsti yaradıla bilər, amma müəllifə istinad şərtdir.
 - **Texniki dəyişikliklərə icazə verilir** – Məlumat istənilən formata çevrilə bilər (CSV, SQL, JSON və s.), eləcə də müxtəlif proqramlarda istifadəsi mümkündür.
 - **Digər şərtləri ilə burden tanış ola bilərsiniz**: [Legal Code - Attribution 4.0 International - Creative Commons](https://creativecommons.org/licenses/by/4.0/legalcode)
 
@@ -539,7 +539,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
 3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.
-4. Metaməlumatları redaktə et **(Edit Metadata)** bölməsini seçin.
+4. Metaməlumatlarda düzəliş et **(Edit Metadata)** bölməsini seçin.
 5. Dəyişmək istədiyiniz məlumatları **cədvəl 2** əsasında yeniləyin.
 6. Bütün yenilikləri nəzərdən keçirin və dəyişiklikləri tətbiq etmək üçün Yadda saxla **(Save)** düyməsini basın.
 
@@ -644,7 +644,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
 3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.
 4. Resurslar **(Resources)** bölməsini seçin.
-5. Redaktə etmək istədiyiniz mövcud resursları **cədvəl 3** əsasında dəyişdirin.
+5. Düzəliş etmək istədiyiniz mövcud resursları **cədvəl 3** əsasında dəyişdirin.
 6. Yenilənmələri nəzərdən keçirin və tətbiq etmək üçün Resursları yenilə **(Update Resources)** düyməsini basın.
 
 #### 1.3.2.5. Məlumat dəstində mövcud resurs (məlumat faylını) silmək
@@ -815,11 +815,11 @@ Mövcud təşkilatda aşağıdakı rollar mövcuddur. Təşkilata yeni iştirak�
 #### Member (Üzv)	
 Təşkilatın private və public (məlumat idarəetmə sistemindən əlçatan olan) məlumat dəstlərini görə bilər.
 
-#### Editor (Məlumat redaktoru)	
+#### Məlumat düzəlişçisi (Editor)	
 Member-in bütün funksiyalarını yerinə yetirə bilər.
 Əlavə olaraq:
 * Təşkilata yeni Məlumat dəstləri əlavə edə bilər.
-* Təşkilatdakı istənilən Məlumat dəstini redaktə və ya silə bilər.
+* Təşkilatdakı istənilən Məlumat dəstində düzəliş edə və ya silə bilər.
 * Məlumat dəstləri public və ya private edə bilər.
 
 #### Admin (İdarəçi)	
@@ -827,11 +827,11 @@ Editor-un bütün funksiyalarını yerinə yetirə bilər.
 Əlavə olaraq:
 * Təşkilatdakı istənilən iştirakçının rolunu dəyişdirə bilər (digər Admin-lər də daxil olmaqla).
 * Member, Editor və ya digər Admin-ləri təşkilatdan silə bilər.
-* Təşkilat haqqında məlumatları redaktə edə bilər (ad, təsvir, şəkil və s.).
+* Təşkilat haqqında məlumatlarda düzəliş edə bilər (ad, təsvir, şəkil və s.).
 * Təşkilatı tamamilə silə bilər.
 
 
-#### 1.5.1.1. Təşkilat məlumatlarının redaktə edilməsi
+#### 1.5.1.1. Təşkilat məlumatlarında düzəliş edilməsi
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.
