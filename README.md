@@ -143,7 +143,7 @@ Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji 
 5. Profili yeniləyin **(Update Profile)** hissəsinə klik edərək İştirakçı profilinin şifrə yeniləmə prosesini tamamlayın.
 
 ## 1.2. Üzv(Member) Roluna sahib İştirakçının öhdəlikləri
-Üzv Təşkilatın private və public (məlumat idarəetmə sistemindən əlçatan olan) məlumat dəstlərini görə bilər.
+Üzv Təşkilatın gizli və ictimayətə açıq (məlumat idarəetmə sistemindən əlçatan olan) məlumat dəstlərini görə bilər.
 
 ### 1.2.1. Məlumat dəstinin metaməlumatlarına baxış keçirmək.
 
@@ -162,10 +162,10 @@ Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji 
 ## 1.3. Məlumat düzəlişçisi (Editor) Roluna sahib İştirakçının öhdəlikləri
 
 Editor aşağıdakı öhdəlikləri vardır.
-* Təşkilatın private və public (məlumat idarəetmə sistemindən əlçatan olan) məlumat dəstlərini görə bilər.
+* Təşkilatın gizli və ictimayətə açıq (məlumat idarəetmə sistemindən əlçatan olan) məlumat dəstlərini görə bilər.
 * Təşkilata yeni Məlumat dəstləri əlavə edə bilər.
 * Təşkilatdakı istənilən Məlumat dəstini editor və ya silə bilər.
-* Məlumat dəstləri public və ya private edə bilər.
+* Məlumat dəstləri public və ya gizli edə bilər.
 
 ## 1.3.1 Məlumat dəstlərinin idarə edilməsi
 
@@ -326,7 +326,7 @@ Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəy
 8. Məlumatları yenidən nəzərdən keçirin və bitir **(Finish)** və ya yadda saxla və yenisini əlavə et **(Save & add another)**düyməsini basaraq əməliyyatı tamamlayın.
 
 #### Diqqət 1: 
-##### Məlumat dəsti private rejimdə əlavə edilməli və rəy verilməsi üçün <tural.nasirli@idda.az> elektron poçtuna məlumat verilməlidir. Verilən rəyə uyğun düzəlişlər edildikdən sonra public edilə bilər.
+##### Məlumat dəsti gizli rejimdə əlavə edilməli və rəy verilməsi üçün <tural.nasirli@idda.az> elektron poçtuna məlumat verilməlidir. Verilən rəyə uyğun düzəlişlər edildikdən sonra public edilə bilər.
 
 #### Diqqət 2: 
 ##### * işarəsi ilə fərqləndirilmiş bölmələrdəki məlumatların daxil edilməsi zəruridir.
@@ -813,14 +813,14 @@ Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün 
 Mövcud təşkilatda aşağıdakı rollar mövcuddur. Təşkilata yeni iştirakçı əlavə etmək üçün [tural.nasirli@idda.az](mailto:tural.nasirli@idda.az) elektron poçtuna müraciət etməniz xahiş olunur.
 
 #### Member (Üzv)	
-Təşkilatın private və public (məlumat idarəetmə sistemindən əlçatan olan) məlumat dəstlərini görə bilər.
+Təşkilatın gizli və ictimayətə açıq (məlumat idarəetmə sistemindən əlçatan olan) məlumat dəstlərini görə bilər.
 
 #### Məlumat düzəlişçisi (Editor)	
 Member-in bütün funksiyalarını yerinə yetirə bilər.
 Əlavə olaraq:
 * Təşkilata yeni Məlumat dəstləri əlavə edə bilər.
 * Təşkilatdakı istənilən Məlumat dəstində düzəliş edə və ya silə bilər.
-* Məlumat dəstləri public və ya private edə bilər.
+* Məlumat dəstləri ictimayətə açıq və ya gizli edə bilər.
 
 #### Admin (İdarəçi)	
 Editor-un bütün funksiyalarını yerinə yetirə bilər.
