@@ -43,40 +43,6 @@ Aşağıdakı cədvəl sizə portalda yer alan Anlayışlar və biznes terminlə
     </table>
 
 
-# Bölmələr
-Məlumat idarəetmə sistemində aşağıdakı əsas bölmələr yer alır.
-
-<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-    <thead>
-        <tr style="background-color: #d9e1f2; text-align: left;">
-            <th>Bölmə</th>
-            <th>Açıqlaması</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Datasets (Məlumat dəstləri)</td>
-            <td>Datasets bölməsində məlumat idarəetmə sistemində yer alan bütün Məlumat dəstlərini görə və İştirakçı mövcud olduğu təşkilatın məlumat dəstləri üzərində roluna uyğun əməliyyatlar apara bilər</td>
-        </tr>
-        <tr>
-            <td>Organizations (Təşkilatlar)</td>
-            <td>Hər bir Məlumat dəsti bir təşkilata aiddir və onu həmin təşkilat idarə edir. Hər bir təşkilatda qeyd etdiyim iştirakçı rolları mövcuddur: Admin, Editor və Member.</td>
-        </tr>
-        <tr>
-            <td>Groups (Kateqoriyalar)</td>
-            <td>Bu bölmə idarə etmə sistemində olan məlumat dəstlərinin kolleksiyalarını (kateqoriyalarını) yaratmaq və idarə etmək üçün istifadə olunur.</td>
-        </tr>
-        <tr>
-            <td>Data Requests (Məlumat Sorğuları)</td>
-            <td>Məlumat sorğusu (data request) bir təşkilatdan müəyyən məlumatın açıqlanması yönündə olan müraciətlərin toplandığı bölmədir.</td>
-        </tr>
-        <tr>
-            <td>Showcase (İstifadə Nümunələri)</td>
-            <td>Bu bölmə, məlumat dəstlərinin tətbiq olunma nümunələrini təqdim edir.</td>
-        </tr>
-    </tbody>
-</table>
-
 # 1\. Məlumat idarəetmə sisteminin istifadəsi.
 
 ## 1.1. İştirakçı hesabının idarə edilməsi.
@@ -84,15 +50,15 @@ Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji 
 
 ### 1.1.1. Qeydiyyatdan keçmək.
 1. İştirakçıya göndərilən dəvət mesajında verilən linkə daxil olun.
-2. İştirakçı adı **(Username)** olaraq İştirakçının adı və soyadı qeyd olunmalıdır.
-3. Şifrənizi **(Password)** təyin edin və Şifrəni təsdiq edin **(Confirm)**.
-4. Şifrəni yeniləyin **(Update Password)** butonuna klikləyərək hesabı aktivləşdirin.
+2. İştirakçı adı **(Username)** olaraq İştirakçının adı və soyadı qeyd edin.
+3. Şifrənizi **(Password)** təyin edilir və Şifrəni təsdiq edilir **(Confirm)**.
+4. "Şifrəni yeniləyin **(Update Password)**" butonuna klikləyərək hesabı aktivləşdirin.
 
 ### 1.1.2. Məlumat idarəetmə sisteminə daxil olmaq.
 1. [Məlumat İdarəetmə sistemi](https://admin.opendata.az/) link vasitəsilə idarəetmə sisteminə keçid edin.
 2. Açıq məlumatlar portalının Məlumat idarəetmə sistemində Daxil ol **(Log in)** butonuna klikləyin.
 3. Istifadəçi adı **(Username)** və ya elektron poçt **(e-mail)** və şifrə **(password)** daxil edin.
-4. Daxil olun **(Login)** butonuna klikləyib daxil olun.
+4. "Daxil olun **(Login)** butonuna" klikləyib daxil olun.
 
 ### 1.1.3. İştirakçı Profilinin məlumatlarının düzəliş edilməsi.
 
@@ -135,7 +101,7 @@ Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji 
 ###### Cədvəl 1
 
 4. **Old Password** hissəsinə cari şifrənizi yazın.
-5. Profili yeniləyin **(Update Profile)** hissəsinə klik edərək İştirakçı profilinin düzəlişini tamamlaya bilərik.
+5. "Profili yeniləyin **(Update Profile)**" butonuna klik edərək İştirakçı profilinin düzəlişini tamamlayın.
    
 #### Diqqət 1: 
 ##### * işarəsi ilə fərqləndirilmiş bölmələrdəki məlumatların daxil edilməsi zəruridir.
@@ -147,9 +113,8 @@ Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji 
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Profil parametrləri **(Profile Settings)** bölməsinə keçid edin.
-3. **Old Password** hissəsinə cari şifrənizi yazın.
-4. **Pasword** və **Confirm Password** hissəsinə yeni şifrənizi yazın.
-5. Profili yeniləyin **(Update Profile)** hissəsinə klik edərək İştirakçı profilinin şifrə yeniləmə prosesini tamamlayın.
+3. **Pasword** və **Confirm Password** hissəsinə yeni şifrənizi yazın.
+4. "Profili yeniləyin **(Update Profile)**" butonuna klik edərək İştirakçı profilinin şifrə yeniləmə prosesini tamamlayın.
 
 ## 1.2. Üzv(Member) Roluna sahib İştirakçının öhdəlikləri
 Üzv Təşkilatın gizli və ictimayətə açıq (məlumat idarəetmə sistemindən əlçatan olan) məlumat dəstlərini görə bilər.
@@ -165,8 +130,8 @@ Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji 
 
 1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəstləri **(Datasets)** bölməsinə klikləyin.
-3. **Explore** hissəsindən əlavə məlumat **(More information)** hissəsinə daxil olaraq resurs haqqında olan metaməlumatlara baxa bilərsiniz.
-4. Əgər Resursun özünə baxmaq istəsəniz  **Explore** hissəsindən resursa keç **(go to resource)** və ya yükləyə **(Download)** klikləyərək baxa bilərsiniz
+3. Resurs haqqında olan metaməlumatlara baxmaq üçün **Explore** hissəsindən əlavə məlumat **(More information)** hissəsinə daxil olun.
+4. Əgər Resursun özünə baxmaq üçün  **Explore** hissəsindən "resursa keç **(go to resource)**" və ya "yüklə **(Download)**" butonuna klikləyin.
 
 ## 1.3. Məlumat düzəlişçisi (Editor) Roluna sahib İştirakçının öhdəlikləri
 
