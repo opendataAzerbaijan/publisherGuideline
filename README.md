@@ -266,7 +266,6 @@ Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəy
             <td>Resurs haqqında fərqləndirici məlumatlar qeyd olunur.</td>
         </tr>
         <tr>
-
             <td>* Format</td>
             <td>Əlavə edilən mənbənin formatı qeyd olunur. Nümunə olaraq: məlumatları strukturludursa, CSV, yarı strukturlu və struktursuzdursa, JSON və ya XML kimi formatlardan istifadə edilməsi tövsiyə olunandır.</td>
         </tr>
