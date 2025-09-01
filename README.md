@@ -188,7 +188,7 @@ Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəy
             <td>* İstifadə şərtləri (License)/Lisenziya</td>
             <td>
                 Lisenziya iştirakçılara həmin məlumat dəstinin istifadə şərtləri və bununla bağlı hüququ və məhdudiyyətləri bildirir. <br>
-                1.3.1.4 bölməsində qeyd olunan lisenziyalar arasından seçim edilməsi zəruridir.
+                1.3.1.5 bölməsində qeyd olunan lisenziyalar arasından seçim edilməsi zəruridir.
             </td>
         </tr>
         <tr>
@@ -213,7 +213,7 @@ Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəy
         <tr>
             <td>* Versiya (Version)</td>
             <td>
-                Məlumat dəstinin cari versiyası. Məlumat dəstini ilk dəfə yükləyirsinizsə "1.0" qeyd olunur, daha sonra versiyanı dəyişmək üçün təlimatda 1.3.1.3. qeyd olunan versiyalandırma məntiqindən istifadə edə bilərsiniz
+                Məlumat dəstinin cari versiyası. Məlumat dəstini ilk dəfə yükləyirsinizsə "1.0" qeyd olunur, daha sonra versiyanı dəyişmək üçün təlimatda 1.3.1.4. qeyd olunan versiyalandırma məntiqindən istifadə edə bilərsiniz
             </td>
         </tr>
         <tr>
@@ -254,7 +254,7 @@ Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəy
                  Məlumat dəstinin resurslarını (mənbələrini) təyin edilir. <br>
                 <strong>Upload</strong> və <strong>Link</strong> şəkilində iki seçim verilir.<br><br>
                 <strong>Upload:</strong> Komputerdə yer alan fayllarınız arasında seçim edilir<br><br>
-                <strong>Link:</strong> API linki şəkilində saxladığınız məlumatların linkini daxil edilir. Açıq məlumat dəstinin formatının seçimi haqqında 1.3.2.1. bölməsindən daha ətraflı məlumat əldə oluna bilər. Resursları əlavə edərkən diqqət edilməli olan məqamlara dair 1.3.2.2. bölməsinə nəzər salaq.
+                <strong>Link:</strong> API linki şəkilində saxladığınız məlumatların linkini daxil edilir. Açıq məlumat dəstinin resursun diqqət etməli olduğumuz məqamlara dair 1.3.2.1. bölməsinə nəzər salınması zəruridir.
             </td>
         </tr>
         <tr>
@@ -395,7 +395,7 @@ Açıq məlumatların keyfiyyətinin qorunması və istifadəçi təcrübəsini 
 
 8. Açar sözlər (tags) yalnız əlavə edilmiş məlumat dəsti ilə əlaqədar Azərbaycan dilində açar sözləri qeyd edilməlidir. 
 
-9. Yeni əlavə edilən məlumat dəsti üçün versiya hissəsinə "1.0" yazılmalıdır. 
+9. Yeni əlavə edilən məlumat dəsti üçün versiya hissəsinə "1.0.0" yazılmalıdır. 
 
 10. Məlumat dəstindən istifadə şərtlərinə uyğun olaraq lisenziya seçimi edilməlidir.
     
