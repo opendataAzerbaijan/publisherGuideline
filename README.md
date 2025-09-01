@@ -20,15 +20,24 @@ Aşağıdakı cədvəl sizə portalda yer alan Anlayışlar və biznes terminlə
         <tbody>
             <tr>
                 <td>Dataset (Məlumat Dəsti)</td>
-                <td>Müəyyən bir mövzuya aid məlumatların toplusu. Məsələn, bir bölgənin cinayət statistikası və ya hökumət departamentinin xərcləri haqqında məlumatlar.</td>
+                <td>müəyyən bir mövzu üzrə toplanmış, strukturlaşdırılmış məlumatlar toplusudur.</td>
             </tr>
             <tr>
                 <td>Metadata (Metaməlumatlar)</td>
-                <td>Məlumatı izah edərək həmin məlumatın əlçatanlığının təmin edilməsinə xidmət edən məlumatlar.</td>
+                <td> məlumatın özü haqqında standartlaşdırılmış və sistemli şəkildə təqdim olunan məlumatdır, bu məlumatın anlaşığlığının və əlçatanlığının təmin edilməsinə xidmət edir.</td>
             </tr>
             <tr>
                 <td>Resource (Resurs)</td>
                 <td>Məlumat dəstindəki faktiki məlumat faylları və ya məlumat mənbələri. Bu fayllar CSV, Excel formatları (XLS, XLSX), XML, PDF və ya digər formalarda ola bilər.</td>
+            </tr>
+            <tr>
+                <td>Data dictionary (məlumat lüğəti)</td>
+                <td>Data dictionary, bir məlumat dəstində yer alan resursun bütün atributların (sütunların) adlarını, məlumat tiplərini və təsvirlərini sturukturlu 
+                    şəkildə təqdim edən bir bölmədir.</td>
+            </tr>
+            <tr>
+                <td>Machine readable (maşın oxuna bilən) forma</td>
+                <td>Machine readable formada olan məlumat kompüter və ya tərəfindən avtomatik oxunub işlənə biləcək format (CSV, XML, JSON, XLS və.s) və struktura sahib məlumatlardır..</td>
             </tr>
         </tbody>
     </table>
