@@ -185,7 +185,6 @@ Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəy
             </td>
         </tr>
         <tr>
-            <td>* </td>
             <td>* İstifadə şərtləri (License)/Lisenziya</td>
             <td>
                 Lisenziya iştirakçılara həmin məlumat dəstinin istifadə şərtləri və bununla bağlı hüququ və məhdudiyyətləri bildirir. <br>
