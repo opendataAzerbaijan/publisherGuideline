@@ -64,7 +64,7 @@ Bu bölmədə **İştirakçı** öz məlumatlarını görə və idarə edə bil�
 
 1. "Açıq məlumatlar" portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Hesab parametrləri **(Profile Settings)** bölməsinə keçid edin.
-3. Aşağıda verdiyim cədvəldəki məlumatları əlavə edə və ya dəyişdirə bilərsiniz.
+3. Aşağıda verilən cədvəldəki məlumatları əlavə edə və ya dəyişdirə bilərsiniz.
 
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
