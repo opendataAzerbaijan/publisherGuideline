@@ -374,9 +374,9 @@ Açıq məlumatların keyfiyyətinin qorunması və istifadəçi təcrübəsini 
 
 10. Cədvəldə birləşdirilmiş xanalar və ya iki səviyyəli sütun başlıqları yer almamalıdır. 
 
-11. Sütun başlıqları və onun kimi məlumatı izah edən elementlər camelCase (məsələn: musteriAdi, sifarisTarixi) ya Snake_case (məsələn: musteri_adi, sifaris_tarixi) yazılış formatında olması tövsiyyə olunmalıdır.
-
-12. Boş və ya işləməyən resurs faylları yerləşdirilməməlidir.
+11. Boş və ya işləməyən resurs faylları yerləşdirilməməlidir.
+    
+12. Resurs UTF-8 formatında olmalıdır.
 
 
 ##### Metaməlumat
@@ -544,39 +544,8 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 
 ###### Cədvəl 6
 
-#### 1.3.2.2. Məlumat dəsti əlavə edərkən məlumat (resurs) ilə bağlı diqqət etməli oldiğumuz məqamlar.
-  <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-    <thead>
-        <tr style="background-color: #d9e1f2; text-align: left;">
-            <th>Məlumat</th>
-        </tr>
-  </thead>
-    <tbody>
-        <tr>
-            <td>Tamamilə boş sətirlər və ya sütunlar yer almamalıdır.</td>
-        </tr>
-        <tr>
-            <td>Məlumat dəstində dublikatlar (təkrar sətr və ya sütunlar) yer almamalıdır.</td>
-        </tr>
-        <tr>
-            <td>Məlumat dəstinin atributları (sütun başlıqları, açar sözləri), yüklənən faylın adı və digər elementləri Azərbaycan dilində olmalı və təmsil etdiyi məlumatları izah etməlidir.</td>
-        </tr>
-        <tr>
-            <td>Məlumat dəsti maşın emalına uyğun formatda (CSV, XML, JSON, RDF, API və s.) olmalıdır.</td>
-        </tr>
-        <tr>
-            <td>Məlumat dəsti UTF-8 formatında olmalıdır.</td>
-        </tr>
-        <tr>
-            <td>Şəxsiyyəti müəyyən edə biləcək məlumatlar və digər məxfi məlumatlar paylaşılmamalıdır.</td>
-        </tr>
-           </tbody>
-    </table>
 
-###### Cədvəl 7
-
-
-#### 1.3.2.3. Mövcud Məlumat dəstinə yeni resurs əlavə etmək
+#### 1.3.2.2. Mövcud Məlumat dəstinə yeni resurs əlavə etmək
 
 1. "Açıq məlumatlar" portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
@@ -587,7 +556,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 7. Məlumatları yenidən nəzərdən keçirin və Əlavə et **(Add)** və ya Yadda saxla və yenisini əlavə et **(Save & add another)** düyməsini klikləyərək yayımlayın.
 
 
-#### 1.3.2.4. Mövcud Məlumat dəstinin resurs məlumatlarına düzəliş edilməsi
+#### 1.3.2.3. Mövcud Məlumat dəstinin resurs məlumatlarına düzəliş edilməsi
 
 1. "Açıq məlumatlar" portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
@@ -596,7 +565,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 5. Düzəliş etmək istədiyiniz mövcud resursları **cədvəl 3** əsasında dəyişdirin.
 6. Yenilənmələri nəzərdən keçirin və tətbiq etmək üçün ƏResursları yenilə **(Update Resources)**Ə düyməsini basın.
 
-#### 1.3.2.5. Məlumat dəstində mövcud resurs (məlumat faylını) silmək
+#### 1.3.2.4. Məlumat dəstində mövcud resurs (məlumat faylını) silmək
 
 1. "Açıq məlumatlar" portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
@@ -810,7 +779,7 @@ Editor-un bütün funksiyalarını yerinə yetirə bilər.
     </tbody>
 </table>
 
-###### Cədvəl 8
+###### Cədvəl 7
 
 5. Yeniləmələrinizi nəzərdən keçirin və dəyişiklikləri saxlamaq üçün "Təşkilatı yeniləyin **(Update Organization)**" düyməsinə klikləyin.
    
