@@ -46,53 +46,48 @@ Aşağıdakı cədvəl sizə portalda yer alan Anlayışlar və biznes terminlə
 # 1\. Məlumat idarəetmə sisteminin istifadəsi.
 
 ## 1.1. İştirakçı hesabının idarə edilməsi.
-Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji ardıcıllıq və həmçinində yeniləməni edən **İştirakçının adı** portal istifadəçilərinə görünür. Bu səbəblə **İştirakçı adı və digər məlumatlar düzgün** qeyd olunmalıdır.
+Bu bölmədə **İştirakçı** öz məlumatlarını görə və idarə edə bilər.
 
 ### 1.1.1. Qeydiyyatdan keçmək.
 1. İştirakçıya göndərilən dəvət mesajında verilən linkə daxil olun.
 2. İştirakçı adı **(Username)** olaraq İştirakçının adı və soyadı qeyd edin.
 3. Şifrənizi **(Password)** təyin edilir və Şifrəni təsdiq edilir **(Confirm)**.
-4. "Şifrəni yeniləyin **(Update Password)**" butonuna klikləyərək hesabı aktivləşdirin.
+4. "Şifrəni yeniləyin **(Update Password)**" düyməsinə klikləyərək hesabı aktivləşdirin.
 
 ### 1.1.2. Məlumat idarəetmə sisteminə daxil olmaq.
 1. [Məlumat İdarəetmə sistemi](https://admin.opendata.az/) link vasitəsilə idarəetmə sisteminə keçid edin.
-2. Açıq məlumatlar portalının Məlumat idarəetmə sistemində Daxil ol **(Log in)** butonuna klikləyin.
+2. "Açıq məlumatlar" portalının Məlumat idarəetmə sistemində Daxil ol **(Log in)** düyməsinə klikləyin.
 3. Istifadəçi adı **(Username)** və ya elektron poçt **(e-mail)** və şifrə **(password)** daxil edin.
-4. "Daxil olun **(Login)** butonuna" klikləyib daxil olun.
+4. "Daxil olun **(Login)**" düyməsinə klikləyib daxil olun.
 
-### 1.1.3. İştirakçı Profilinin məlumatlarının düzəliş edilməsi.
+### 1.1.3. İştirakçı hesabının məlumatlarının düzəliş edilməsi.
 
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
-2. Profil parametrləri **(Profile Settings)** bölməsinə keçid edin.
+1. "Açıq məlumatlar" portalının Məlumat idarəetmə sisteminə giriş edin.
+2. Hesab parametrləri **(Profile Settings)** bölməsinə keçid edin.
 3. Aşağıda verdiyim cədvəldəki məlumatları əlavə edə və ya dəyişdirə bilərsiniz.
 
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
         <tr style="background-color: #f2f2f2;">
-            <th>Data</th>
-            <th>Məlumat</th>
+            <th>Məlumat sahəsi</th>
             <th>Açıqlaması</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>* Full name</td>
-            <td>* Tam ad</td>
+            <td>* Tam ad (Full name)</td>
             <td>İştirakçının ad və soyadı qeyd olunur.</td>
         </tr>
         <tr>
-            <td>* Email</td>
-            <td>* E-poçt</td>
+            <td>* E-poçt (Email)</td>
             <td>İştirakçının elektron poçt ünvanı qeyd olunur.</td>
         </tr>
         <tr>
-            <td>* About</td>
-            <td>* Haqqında</td>
+            <td>* About (Haqqında)</td>
             <td>İştirakçının təmsil etdiyi qurumdakı struktur bölməsi və vəzifəsi qeyd olunur.</td>
         </tr>
         <tr>
-            <td>Profile picture</td>
-            <td>Profil şəkli</td>
+            <td>Profil şəkli (Profile picture)</td>
             <td>İştirakçı öz şəkilini bu hissəyə yerləşdirir.</td>
         </tr>
     </tbody>
@@ -101,7 +96,7 @@ Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji 
 ###### Cədvəl 1
 
 4. **Old Password** hissəsinə cari şifrənizi yazın.
-5. "Profili yeniləyin **(Update Profile)**" butonuna klik edərək İştirakçı profilinin düzəlişini tamamlayın.
+5. "Profili yeniləyin **(Update Profile)**" düyməsinə klik edərək İştirakçı hesabının düzəlişini tamamlayın.
    
 #### Diqqət 1: 
 ##### * işarəsi ilə fərqləndirilmiş bölmələrdəki məlumatların daxil edilməsi zəruridir.
@@ -109,29 +104,30 @@ Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji 
 #### Diqqət 2: 
 ##### Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji ardıcıllıq və həmçinində yeniləməni edən **İştirakçının adı** portal istifadəçilərinə görünür. Bu səbəblə **İştirakçı adı və digər məlumatlar düzgün** qeyd olunmalıdır.
 
-### 1.1.4. İştirakçı Profilinin şifrəsinin dəyişdirilməsi
+### 1.1.4. İştirakçı hesabının şifrəsinin dəyişdirilməsi
 
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
-2. Profil parametrləri **(Profile Settings)** bölməsinə keçid edin.
+1. "Açıq məlumatlar" portalının Məlumat idarəetmə sisteminə giriş edin.
+2. Hesab parametrləri **(Profile Settings)** bölməsinə keçid edin.
 3. **Pasword** və **Confirm Password** hissəsinə yeni şifrənizi yazın.
-4. "Profili yeniləyin **(Update Profile)**" butonuna klik edərək İştirakçı profilinin şifrə yeniləmə prosesini tamamlayın.
+4. "Profili yeniləyin **(Update Profile)**" düyməsinə klik edərək İştirakçı hesabının şifrə yeniləmə prosesini tamamlayın.
 
-## 1.2. Üzv(Member) Roluna sahib İştirakçının öhdəlikləri
+## 1.2. Üzv (Member) Roluna sahib İştirakçının öhdəlikləri
 Üzv Təşkilatın gizli və ictimayətə açıq (məlumat idarəetmə sistemindən əlçatan olan) məlumat dəstlərini görə bilər.
 
 ### 1.2.1. Məlumat dəstinin metaməlumatlarına baxış keçirmək.
 
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
+1. "Açıq məlumatlar" portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəstləri **(Datasets)** bölməsinə klikləyin.
-3. Məlumat dəsti (**Dataset**) hissəsində qeyd edilən metaməlumatlara baxa biləriniz.
-4. Kateqoriya (**Group**) hissəsində məlumat dəstinin aid olduğu kateqoriyaları baxa bilərsiniz.
+3. Metaməlumatlarına baxmaq istədiyiniz məlumat dəstini seçin və klikləyin.
+   
+
 
 ### 1.2.2. Məlumat dəstinin Resurslarına baxış keçirmək.
 
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
+1. "Açıq məlumatlar" portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəstləri **(Datasets)** bölməsinə klikləyin.
 3. Resurs haqqında olan metaməlumatlara baxmaq üçün **Explore** hissəsindən əlavə məlumat **(More information)** hissəsinə daxil olun.
-4. Əgər Resursun özünə baxmaq üçün  **Explore** hissəsindən "resursa keç **(go to resource)**" və ya "yüklə **(Download)**" butonuna klikləyin.
+4. Əgər Resursun özünə baxmaq üçün  **Explore** hissəsindən "resursa keç **(go to resource)**" və ya "yüklə **(Download)**" düyməsinə klikləyin.
 
 ## 1.3. Məlumat düzəlişçisi (Editor) Roluna sahib İştirakçının öhdəlikləri
 
@@ -143,72 +139,65 @@ Editor aşağıdakı öhdəlikləri vardır.
 
 ## 1.3.1 Məlumat dəstlərinin idarə edilməsi
 
-Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfindən idarə olunur. Sadəcə Kateqoriyalara əlavə edilməsi İRİA tərəfindən idarə edilir. Bu səbəblə iştirakçılar bu Kateqoriyalar bölməsində hər hansı bir **əməliyyat aparmamalıdır.**
+Məlumat dəstləri həmin məlumat dəstini əlavə edən Təşkilat tərəfindən idarə olunur. Sadəcə Kateqoriyalara (**Groups**) əlavə edilməsi İRİA tərəfindən idarə edilir. 
 
 ### 1.3.1.1 Məlumat dəstinin əlavə edilməsi.
 
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
+1. "Açıq məlumatlar" portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəstləri **(Datasets)** bölməsinə klikləyin.
 3. Yeni Məlumat dəsti əlavə edin.
 4. Məlumat dəsti əlavə et **(Add Dataset)** düyməsini seçin.
-5. Aşağıda verilmiş cədvəl əsasında Məlumat dəstinə aid zəruri metaməlumatları daxil edin(Nəzərə alınki, bu məlumatlar Açıq məlumatlar portalının istifadəçiləri tərəfindən görüntülənəcək).
+5. Aşağıda verilmiş cədvəl əsasında Məlumat dəstinə aid zəruri metaməlumatları daxil edin (Nəzərə alınki, bu məlumatlar "Açıq məlumatlar" portalının istifadəçiləri tərəfindən görüntülənəcək).
 
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
         <tr style="background-color: #f2f2f2;">
-            <th>Metaməlumat (ingiliscə)</th>
-            <th>Metaməlumat (Azərbaycanca)</th>
+            <th>Metaməlumat</th>
             <th>Açıqlaması</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>* Title</td>
-            <td>* Məlumat dəstinin adı</td>
+            <td>* Məlumat dəstinin adı (Title)</td>
             <td>Məlumat dəstini təsvir edən bir başlıq qeyd olunur. 
 Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəyişdirilməsinə ehtiyyac olmayan bir ad seçilməsi zəruridir. Çünki ad və URl avtomatik ada uyğun yaradılır (əl ilə düzəliş edilmədiyi təqdirdə) və dəyişdirilməsi məlumat dəstinə müraciət edən istifadəçiyə çətinlik yaradır. Məsələn: 'Büdcə proqnozları 2001 - 2025 üzrə', 'Bakı dəmir yollarının koordinatları' əvəzinə uyğun olaraq 'Büdcə proqnozları' və 'Dəmir yollarının koordinatları' olaraq qeyd edib önəmli hesab edilən ayrıntıları açıqlamada qeyd etmək olar.</td>
         </tr>
         <tr>
             <td>* URL</td>
-            <td>* URL</td>
-            <td>URL avtomatik olaraq yaradılır, Əgər dəyişmək istəsəniz, başlığa uyğun URL'i dəyişə bilərsiniz, URL ingilis simvolları ilə Azərbaycan dilində maksimum simvol uzunluğu 100 olacaq şəkildə yazılmalıdır. Məsələn, Başlıq: Torpaq sürüşməsi sahələri. URL: "torpaq-surusme-saheleri" və ya "surusme-saheleri"</td>
+            <td>URL avtomatik olaraq yaradılır, Əgər dəyişmək istəsəniz, başlığa uyğun URL'i dəyişə bilərsiniz, URL ingilis simvolları ilə Azərbaycan dilində(maksimum simvol uzunluğu 100) yazılır. Məsələn, Başlıq: Torpaq sürüşməsi sahələri. URL: "torpaq-surusme-saheleri" və ya "surusme-saheleri"</td>
         </tr>
         <tr>
-            <td>* Description</td>
-            <td>* Məlumat dəstinin açıqlaması</td>
+            <td>* Məlumat dəstinin açıqlaması (Description)</td>
             <td>
                 Başlıqdan fərqli insanların məlumat dəstindən istifadə edərkən bilməli olduğu və onu izah edən məlumatlar. Bəzi məlumatlar varki məlumat dəstinin açıqlamasında qeyd olunması zəruridir.<br>
                <ul>
-                    <li><strong>Yenilənmə Tezliyi</strong> – Məlumatın hansı aralıqla yeniləndiyi (<em>1 saat, 1 gün, 1 həftə, 1 ay 3 ay, 6 ay 12 ay </em>) göstərilməlidir.</li>
-                    <li><strong>Əhatə Dairəsi</strong> – Hansı bölgəni və ya ölkəni əhatə etdiyi qeyd olunmalıdır (<em>məs. Bakı və ya Azərbaycan</em>).</li>
-                    <li><strong>İştirakçılar</strong> – Məlumatın toplanmasında və ya istifadəsində bir neçə qurum iştirak edirsə, onların adları <em>qeyd olunmalıdır</em>.</li>
+                    <li><strong>Yenilənmə Tezliyi</strong> – Məlumatın hansı aralıqla yeniləndiyi (<em>1 saat, 1 gün, 1 həftə, 1 ay 3 ay, 6 ay 12 ay </em>) göstərilir.</li>
+                    <li><strong>Əhatə Dairəsi</strong> – Hansı bölgəni və ya ölkəni əhatə etdiyi qeyd olunur (<em>məs. Bakı və ya Azərbaycan</em>).</li>
+                    <li><strong>İştirakçılar</strong> – Məlumatın toplanmasında və ya istifadəsində bir neçə qurum iştirak edirsə, onların adları <em>qeyd olunur</em>.</li>
             </ul>
             </td>
         </tr>
         <tr>
-            <td>* Tags</td>
-            <td>* Açar sözlər</td>
+            <td>* Açar sözlər (Tags)</td>
             <td>
                 Tag, məlumat dəstini təsvir etmək və axtarışı asanlaşdırmaq üçün verilən terminlərdir.
                 Açar sözlər məlumat dəstinin başlığına və açıqlamasına uyğun Azərbaycan dilində yazılması zəruridir. Məsələn: "Sürüşmə sahələri", "Torpaq sürüşməsi koordinatları"
             </td>
         </tr>
         <tr>
-            <td>* License</td>
-            <td>* İstifadə şərtləri (Lisenziya)</td>
+            <td>* </td>
+            <td>* İstifadə şərtləri (License)/Lisenziya</td>
             <td>
                 Lisenziya iştirakçılara həmin məlumat dəstinin istifadə şərtləri və bununla bağlı hüququ və məhdudiyyətləri bildirir. <br>
                 1.3.1.4 bölməsində qeyd olunan lisenziyalar arasından seçim edilməsi zəruridir.
             </td>
         </tr>
         <tr>
-            <td>* Organization</td>
-            <td>* Təşkilat</td>
+            <td>* Təşkilat (Organization)</td>
             <td>Məlumat dəstini idarə edən təşkilatın adı qeyd olunur.</td>
         </tr>
         <tr>
-            <td>* Visibility</td>
-            <td>* Görünürlük</td>
+            <td>* Görünürlük (Visibility)</td>
             <td>
                 Görünürlük hissəsində iki seçim vardır.<br>
                 <strong> Gizli (Private):</strong> Yalnız məlumat idarəetmə sistemində məlumat dəsti əlçatan olur.<br>
@@ -217,37 +206,31 @@ Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəy
             </td>
         </tr>
         <tr>
-            <td>Source</td>
-            <td>Mənbə</td>
+            <td>Mənbə (Source)</td>
             <td>
-                Əgər paylaşılan məlumat dəsti Məlumatı açıqlayan Təşkilatın vebsaytında və.s yer alırsa burada həmin link yerləşdirilə bilər. Bu link sayəsində Açıq məlumatlar portalının istifadəçiləri təşkilatın səhifələrinə keçid edə və axtarış motorunda təşkilatın səhifəsini önə çıxarda bilər.
+                Əgər paylaşılan məlumat dəsti Məlumatı açıqlayan Təşkilatın vebsaytında və.s yer alırsa burada həmin link yerləşdirilə bilər. Bu link sayəsində "Açıq məlumatlar" portalının istifadəçiləri təşkilatın səhifələrinə keçid edə və axtarış motorunda təşkilatın səhifəsini önə çıxarda bilər.
             </td>
         </tr>
         <tr>
-            <td>* Version</td>
-            <td>* Versiya</td>
+            <td>* Versiya (Version)</td>
             <td>
                 Məlumat dəstinin cari versiyası. Məlumat dəstini ilk dəfə yükləyirsinizsə "1.0" qeyd olunur, daha sonra versiyanı dəyişmək üçün təlimatda 1.3.1.3. qeyd olunan versiyalandırma məntiqindən istifadə edə bilərsiniz
             </td>
         </tr>
         <tr>
-            <td>* Author</td>
-            <td>* Müəllifin Adı</td>
+            <td>* Müəllifin adı (Author)</td>
             <td>Məlumatlardan cavabdeh olan şəxs və ya təşkilatın adı qeyd olunur.</td>
         </tr>
         <tr>
-            <td>* Author Email</td>
-            <td>* Müəllifin e-poçtu</td>
+            <td>* Müəllifin e-poçtu (Author email)</td>
             <td>Məlumatlardan cavabdeh olan şəxsin və ya təşkilatın elektron poçt ünvanı qeyd olunur.</td>
         </tr>
         <tr>
-            <td>* Maintainer</td>
-            <td>* Maintainerin adı</td>
+            <td>* Maintainerin adı (Maintainer)</td>
             <td>Maintainer məlumatları portala daxil edib onlar idarə edən şəxsin adı qeyd olunur.</td>
         </tr>
         <tr>
-            <td>* Maintainer Email</td>
-            <td>* Maintainerin e-poçtu</td>
+            <td>* Maintainerin e-poçtu (Maintainer email)</td>
             <td>Məlumat dəstinin maintaineri ilə əlaqə üçün e-poçt ünvanı qeyd olunur.</td>
         </tr>
     </tbody>
@@ -256,51 +239,47 @@ Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəy
 ###### Cədvəl 2
 
 6. Məlumat əlavə et **(Add Data)** düyməsinə klikləyərək resurs yükləmə səhifəsinə keçin.
-7. Aşağıda verilmiş cədvəl əsasında zəruri resurs məlumatlarınızı daxil edin (Nəzərə alınki, bu məlumatlar Açıq məlumatlar portalının istifadəçiləri tərəfindən görüntülənəcək).
+7. Aşağıda verilmiş cədvəl əsasında zəruri resurs məlumatlarınızı daxil edin.
 
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
         <tr style="background-color: #f2f2f2;">
-            <th>Metaməlumat<br>(İngiliscə)</th>
-            <th>Metaməlumat<br>(Azərbaycanca)</th>
+            <th>Metaməlumat<br></th>
             <th>Açıqlaması</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>* Data</td>
-            <td>* Məlumat</td>
+            <td>* Məlumat (Data)</td>
             <td>
                  Məlumat dəstinin resurslarını (mənbələrini) təyin edilir. <br>
                 <strong>Upload</strong> və <strong>Link</strong> şəkilində iki seçim verilir.<br><br>
                 <strong>Upload:</strong> Komputerdə yer alan fayllarınız arasında seçim edilir<br><br>
-                <strong>Link:</strong> API linki şəkilində saxladığınız məlumatların linkini daxil edilir. Açıq məlumat dəstinin formatının seçimi haqqında 1.3.2.1. bölməsindən daha ətraflı məlumat əldə oluna bilər. Resursları əlavə edərkən diqqət etməli edilməli olan məqamlara dair 1.3.2.2. bölməsinə nəzər salaq.
+                <strong>Link:</strong> API linki şəkilində saxladığınız məlumatların linkini daxil edilir. Açıq məlumat dəstinin formatının seçimi haqqında 1.3.2.1. bölməsindən daha ətraflı məlumat əldə oluna bilər. Resursları əlavə edərkən diqqət edilməli olan məqamlara dair 1.3.2.2. bölməsinə nəzər salaq.
             </td>
         </tr>
         <tr>
-            <td>* Name</td>
-            <td>* Resursun adı</td>
+            <td>* Resursun adı (Name)</td>
             <td>Resursun təsviri adı</td>
         </tr>
         <tr>
-            <td>Description</td>
-            <td>Resursun açıqlamaı</td>
+            <td>Resursun açıqlamaı (Description)</td>
             <td>Resurs haqqında fərqləndirici məlumatlar qeyd olunur.</td>
         </tr>
         <tr>
+
             <td>* Format</td>
-            <td>* Format</td>
-            <td>Əlavə edilən mənbənin formatı qeyd olunur. Nümunə olaraq: məlumatları strukturludursa, CSV, yarı strukturlu və struktursuzdursa, JSON və ya XML kimi formatlardan istifadə edilə bilər.</td>
+            <td>Əlavə edilən mənbənin formatı qeyd olunur. Nümunə olaraq: məlumatları strukturludursa, CSV, yarı strukturlu və struktursuzdursa, JSON və ya XML kimi formatlardan istifadə edilməsi tövsiyə olunandır.</td>
         </tr>
     </tbody>
 </table>
 
 ###### Cədvəl 3
 
-8. Məlumatları yenidən nəzərdən keçirin və bitir **(Finish)** və ya yadda saxla və yenisini əlavə et **(Save & add another)**düyməsini basaraq əməliyyatı tamamlayın.
+8. Məlumatları yenidən nəzərdən keçirin və bitir **(Finish)** və ya yadda saxla və yenisini əlavə et "**(Save & add another)**" düyməsinə klikləyərək əməliyyatı tamamlayın.
 
 #### Diqqət 1: 
-##### Məlumat dəsti gizli rejimdə əlavə edilməli və rəy verilməsi üçün <tural.nasirli@idda.az> elektron poçtuna məlumat verilməlidir. Verilən rəyə uyğun düzəlişlər edildikdən sonra public edilə bilər.
+##### Məlumat dəsti gizli rejimdə əlavə edilməli və rəy verilməsi üçün <tural.nasirli@idda.az> elektron poçtuna məlumat verilməsi zəruridir. Verilən rəyə uyğun düzəlişlər tamalandıqdan sonra public edilə bilər.
 
 #### Diqqət 2: 
 ##### * işarəsi ilə fərqləndirilmiş bölmələrdəki məlumatların daxil edilməsi zəruridir.
@@ -309,7 +288,7 @@ Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəy
 ##### Bəzi metaməlumat bölmələrdə 3 dildə (Az, Ru, Eng) məlumat daxil olunası tələb olunur. Hər üç dildə məlumatların daxil edilməsi zəruridir.
 
 #### Diqqət 4:  
-##### Məlumat dəsti əlavə edilən zaman prosesin düzgün aparılması üçün 1.3.1.2. və 1.3.2.2. bölmələrinin nəzərdən keçirmək tövsiyə olunur.
+##### Məlumat dəsti əlavə edilən zaman prosesin düzgün aparılması üçün 1.3.1.2. və 1.3.2.2. bölmələrinin nəzərdən keçirmək zəruridir.
 
 #### Diqqət 5: 
 ##### Məlumat dəstinin metaməlumatlarında yer alan başlıq və açıqlamaları ilə resurs əlavə edərkən yazılmalı olan ad və açıqlamadan fərqlidir. Resursa bu ad və açıqlamanı məlumat dəsti ilə bağlı fərqli strukturda amma həmin məlumat dəstinə aid resurslar olduqda edirik. Aşağıdakı nümunəyə nəzər salaq.
@@ -331,33 +310,29 @@ Açıqlama: Bu resurs Sumqayıt şəhərindəki avtobus dayanacaqlarının yerl�
 2. Əsas naviqasiya panelində Məlumat dəstləri **(Datasets)** bölməsinə klikləyin.
 3. Məlumat lüğəti əlavə edəcəyiniz məlumat dəstini və onun resursunu seçin.
 4. İdarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.
-5. Açılan bölmədən **DataStore** bölməsinə keçid edək.
-6. **Upload to DataStore** butonuna klikləyək.
+5. Açılan bölmədən **DataStore** bölməsinə keçid edin.
+6. **Upload to DataStore** düyməsinə klikləyək.
 7. Ekranda göstərilən status tamamlandı **(Completed)** olmasını gözləyək (Status dəyişməsini görmək üçün mövcud pəncərəni yeniləyək).
 8. Məlumat lüğəti bölməsinə keçid edərək resurs daxilində hər bir sütun başlığı, Atrubut, Sahə və.s üçün aşağıda məlumatları əlavə edək.
 
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
         <tr style="background-color: #f2f2f2;">
-            <th>Metaməlumat (ingiliscə)</th>
-            <th>Metaməlumat (Azərbaycanca)</th>
+            <th>Metaməlumat</th>
             <th>Açıqlaması</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>* Type Override</td>
-            <td>* məlumatın tipi</td>
+            <td>* məlumatın tipi (Type override)</td>
             <td>Məlumat dəstinin resursunda tip avtomatik təyin edilir, yanlış olduğunu düşündüyünüz tipləri manual olaraq "text", "numeric", "timestamp" olaraq daxil edilə bilər.</td>
         </tr>
         <tr>
-            <td>Label</td>
-            <td>Etiket</td>
+            <td>Etiket (Label)</td>
             <td>Sütun üçün daha anlaşılan başlıq və ya etiket</td>
         </tr>
         <tr>
-            <td>* Description</td>
-            <td>* Məlumat sütunun açıqlaması</td>
+            <td>* Məlumat sütunun açıqlaması (Description)</td>
             <td>
                 Sütunun təfərrüatlı təsviri (istifadəçilərə nəyi əhatə etdiyini izah etmək üçün) qeyd olunur.<br>
             </td>
@@ -496,7 +471,7 @@ Açıq məlumatların keyfiyyətinin qorunması və istifadəçi təcrübəsini 
 
 Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən məlumat dəstlərinin istifadə şərtlərini göstərir və aşağıdakı şərtləri müəyyən edir:
 
-- **İstinad mütləqdir** – Məlumatdan istifadə edərkən müəllif(lər)ə istinad verilməlidir.
+- **İstinad mütləqdir** – Məlumatdan istifadə edərkən müəllif (lər)ə istinad verilməlidir.
 - **Dəyişikliklər qeydə alınmalıdır** – Əgər məlumat dəstinə əlavə, çıxarış və ya başqa dəyişikliklər edilərsə, bu, açıq şəkildə bildirilməlidir. Müəllifin rəsmi təsdiqi kimi təqdim etmək olmaz.
 - **Sərbəst istifadə və paylaşım** – Məlumatı kommersiya məqsədilə də daxil olmaqla, istənilən məqsədlə istifadə və paylaşmaq olar.
 - **Uyğunlaşdırma və modifikasiya mümkündür** – Məlumat dəsti düzəliş edilə, başqa mənbələrlə birləşdirilə və yeni məlumat dəsti yaradıla bilər, amma müəllifə istinad şərtdir.
@@ -510,25 +485,25 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 
 #### 1.3.1.6. Mövcud Məlumat dəstinin metaməlumatlarına düzəliş edilməsi
 
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
+1. "Açıq məlumatlar" portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
-3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.
+3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün "İdarə et **(Manage)**" düyməsinə klikləyin.
 4. Metaməlumatlarda düzəliş et **(Edit Metadata)** bölməsini seçin.
 5. Dəyişmək istədiyiniz məlumatları **cədvəl 2** əsasında yeniləyin.
-6. Bütün yenilikləri nəzərdən keçirin və dəyişiklikləri tətbiq etmək üçün Yadda saxla **(Save)** düyməsini basın.
+6. Bütün yenilikləri nəzərdən keçirin və dəyişiklikləri tətbiq etmək üçün "Yadda saxla **(Save)**" düyməsini basın.
 
 #### 1.3.1.7. Mövcud Məlumat dəstini silmək
 
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
+1. "Açıq məlumatlar" portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
-3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.
-4. Silmək **(Delete)** düyməsini seçin: Təsdiq dialoq pəncərəsini göstərəcək.
-5. Təsdiq et **(Confirm)** düyməsini basaraq Məlumat dəstii silmə prosesini tamamlayın.
+3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün "İdarə et **(Manage)** düyməsinə" klikləyin.
+4. "Silmək **(Delete)**" düyməsini klikləyin
+5. Açılan dialoq pəncərəsində "Təsdiq et **(Confirm)**" düyməsini klikləyərək Məlumat dəstii silmə prosesini tamamlayın.
 
 ### 1.3.2. Mövcud məlumat dəstinin resurslarının idarə olunması
 
 #### 1.3.2.1. Mövcud Məlumat dəstinə resursunun formatının təyin edilməsi.
-  Müxtəlif məlumat strukturları üçün fərqli fayl formatları nəzərə alınmalıdır. Əsas üç məlumat strukturu mövcuddur: cədvəl (tabular), iyerarxik (hierarchical) və şəbəkə (network).
+  Müxtəlif məlumat strukturları üçün fərqli fayl formatları nəzərə alması zəruridir. Əsas üç məlumat strukturu mövcuddur: cədvəl (tabular), iyerarxik (hierarchical) və şəbəkə (network).
   <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
         <tr style="background-color: #d9e1f2; text-align: left;">
@@ -569,7 +544,7 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 
 ###### Cədvəl 6
 
-#### 1.3.2.2. Məlumat dəsti əlavə edərkən məlumat(resurs) ilə bağlı diqqət etməli oldiğumuz məqamlar.
+#### 1.3.2.2. Məlumat dəsti əlavə edərkən məlumat (resurs) ilə bağlı diqqət etməli oldiğumuz məqamlar.
   <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
         <tr style="background-color: #d9e1f2; text-align: left;">
@@ -581,13 +556,13 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
             <td>Tamamilə boş sətirlər və ya sütunlar yer almamalıdır.</td>
         </tr>
         <tr>
-            <td>Məlumat dəstində dublikatlar (təkrar sətr və ya sütunlar) yer almamaldır.</td>
+            <td>Məlumat dəstində dublikatlar (təkrar sətr və ya sütunlar) yer almamalıdır.</td>
         </tr>
         <tr>
             <td>Məlumat dəstinin atributları (sütun başlıqları, açar sözləri), yüklənən faylın adı və digər elementləri Azərbaycan dilində olmalı və təmsil etdiyi məlumatları izah etməlidir.</td>
         </tr>
         <tr>
-            <td>Məlumat dəsti maşın emalına uyğun formatda(CSV, XML, JSON, RDF, API və s.) olmalıdır.</td>
+            <td>Məlumat dəsti maşın emalına uyğun formatda (CSV, XML, JSON, RDF, API və s.) olmalıdır.</td>
         </tr>
         <tr>
             <td>Məlumat dəsti UTF-8 formatında olmalıdır.</td>
@@ -603,33 +578,33 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 
 #### 1.3.2.3. Mövcud Məlumat dəstinə yeni resurs əlavə etmək
 
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
+1. "Açıq məlumatlar" portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
-3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.
+3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün "İdarə et **(Manage)**" düyməsinə klikləyin.
 4. Resurlar **(Resources)** bölməsinə keçin.
-5. Yeni resurs əlavə et **(Add new resource)** düyməsini basın.
+5. Yeni resurs "Əlavə et **(Add new resource)**" düyməsini basın.
 6. Yeni resursun məlumatlarını **cədvəl 3** əsasında əlavə edin.
-7. Məlumatları yenidən nəzərdən keçirin və Əlavə et **(Add)** və ya Yadda saxla və yenisini əlavə et **(Save & add another)** düyməsini basaraq yayımlayın.
+7. Məlumatları yenidən nəzərdən keçirin və Əlavə et **(Add)** və ya Yadda saxla və yenisini əlavə et **(Save & add another)** düyməsini klikləyərək yayımlayın.
 
 
 #### 1.3.2.4. Mövcud Məlumat dəstinin resurs məlumatlarına düzəliş edilməsi
 
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
+1. "Açıq məlumatlar" portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
-3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.
+3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün Əİdarə et **(Manage)**Ə düyməsinə klikləyin.
 4. Resurslar **(Resources)** bölməsini seçin.
 5. Düzəliş etmək istədiyiniz mövcud resursları **cədvəl 3** əsasında dəyişdirin.
-6. Yenilənmələri nəzərdən keçirin və tətbiq etmək üçün Resursları yenilə **(Update Resources)** düyməsini basın.
+6. Yenilənmələri nəzərdən keçirin və tətbiq etmək üçün ƏResursları yenilə **(Update Resources)**Ə düyməsini basın.
 
 #### 1.3.2.5. Məlumat dəstində mövcud resurs (məlumat faylını) silmək
 
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
+1. "Açıq məlumatlar" portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
-3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.
+3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün "İdarə et **(Manage)**" düyməsinə klikləyin.
 4. Resurslar **(Resources)** bölməsini seçin.
 5. Silmək istədiyiniz mövcud resursu seçin.
-6. Silmək **(Delete)** düyməsini seçin: dialoq pəncərəsini göstərəcək.
-7. Təsdiq et **(Confirm)** düyməsini basaraq Məlumat dəstini silmə prosesini tamamlayın.
+6. "Silmək **(Delete)**" düyməsini klikləyin.
+7. Açılan dialoq pəncərəsində "Təsdiq et **(Confirm)**" düyməsini klikləyərək Məlumat dəstini silmə prosesini tamamlayın.
 
 ### 1.3.3. Mövcud Məlumat dəstinin əməkdaşların (Collaborators) idarə olunması
 
@@ -637,52 +612,52 @@ Bu funksiyaya Məlumat dəsti səviyyəsində icazələrin idarə edilməsi təm
 
 #### 1.3.3.1. Mövcud Məlumat dəstinə əməkdaşların əlavə edilməsi
 
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
+1. "Açıq məlumatlar" portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
 3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarət et **(Manage)** düyməsinə klikləyin.
 4. Əməkdaşlar **(Collaborators)** bölməsini seçin.
-5. Əməkdaşlar əlavə et **(Add Collaborators)** butonuna klikləyin.
+5. Əməkdaşlar əlavə et **(Add Collaborators)** düyməsinə klikləyin.
 6. Axtarış hissəsinə iştirakçı adını daxil edərək əməkdaş kimi təyin etmək istədiyiniz iştirakçını seçin.
 7. Role bölməsindən member, editor və admin arasından uyğun rolu seçin (anlayışlar bölməsindən rollar haqqında məlumt əldə edə bilərsiniz).
-8. Əməkdaş əlavə et **(Add Collaborator)** butonuna klikləyərək yeni əməkdaşınızı əlavə edin.
+8. Əməkdaş əlavə et **(Add Collaborator)** düyməsinə klikləyərək yeni əməkdaşınızı əlavə edin.
 
 #### 1.3.3.2. Mövcud Məlumat dəstinin əməkdaşların rollarının dəyişdirilməsi
 
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
+1. "Açıq məlumatlar" portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
-3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarət et **(Manage)** düyməsinə klikləyin.
+3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün "İdarət et **(Manage)**" düyməsinə klikləyin.
 4. Əməkdaşlar **(Collaborators)** bölməsini seçin.
-5. Rolunu dəyişmək istədiyiniz iştirakçının açar butonuna klikləyin.
-6. Rolunu uyğun olaraq Admin, Editor, Member’ə dəyişdirdikdən sonra əməkdaşı yeniləyin **(Update Collaborator)** butonuna klikləyərək prosesi tamamlayaq.
+5. Rolunu dəyişmək istədiyiniz iştirakçının açar düyməsinə klikləyin.
+6. Rolunu uyğun olaraq Admin, Editor, Member’ə dəyişdirdikdən sonra "Əməkdaşı yeniləyin **(Update Collaborator)**" düyməsinə klikləyərək prosesi tamamlayaq.
 
 #### 1.3.3.3. Mövcud Məlumat dəstindən əməkdaşların silinməsi
 
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
+1. "Açıq məlumatlar" portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Məlumat dəsti **(Datasets)** bölməsinə klikləyin.
-3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarət et **(Manage)** düyməsinə klikləyin.
+3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün "İdarət et **(Manage)**" düyməsinə klikləyin.
 4. Əməkdaşlar **(Collaborators)** bölməsini seçin.
-5. Silmək istədiyiniz iştirakçının qarşısındakı **X** butonuna klikləyin.
-6. Açılan dialoq qutusunda Təsdiq et **(Confirm)** butonuna klikləyərək prosesi tamamlayın.
+5. Silmək istədiyiniz iştirakçının qarşısındakı "**X**" düyməsinə klikləyin.
+6. Açılan dialoq qutusunda "Təsdiq et **(Confirm)**" düyməsinə klikləyərək prosesi tamamlayın.
 
 
 ### 1.3.4. Portalın API vasitəsilə istifadəsi
 
 #### 1.3.4.1 API açarının yaradılması
 
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
-2. Profilinizə (İştirakçı adınızın yazıldığı hissə) klikləyin.
+1. "Açıq məlumatlar" portalının Məlumat idarəetmə sisteminə giriş edin.
+2. İştirakçı adınızın yazıldığı hissəyə klikləyin.
 3. API açarlar **(API Tokens)** bölməsinə keçid edin.
 4. Ad **(Name)** hissəsində API açarınızın adını yazın.
-5. API açarı yarat **(Create API Token)** butonuna basaraq API açarınızı yaratma prosesini tamamlayın.
+5. "API açarı yarat **(Create API Token)**" düyməsinə klikləyərək API açarınızı yaratma prosesini tamamlayın.
 
 &nbsp;
 
 #### 1.3.4.2. API açarının silinməsi
 
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
-2. Profilinizə (İştirakçı adınızın yazıldığı hissə) klikləyin.
+1. "Açıq məlumatlar" portalının Məlumat idarəetmə sisteminə giriş edin.
+2. İştirakçı adınızın yazıldığı hissəyə klikləyin.
 3. API açarlar **(API Tokens)** bölməsinə keçid edin.
-4. Silmək istədiyiniz tokeni **X** butonuna basaraq silə bilərsiniz.
+4. Silmək istədiyiniz tokeni "**X**" düyməsinə klikləyərək silə bilərsiniz.
    
 &nbsp;
 
@@ -780,9 +755,9 @@ Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün 
 &nbsp;
 
 
-## 1.5. İdarəçi(Admin) Roluna sahib İştirakçının öhdəlikləri
+## 1.4. İdarəçi (Admin) Roluna sahib İştirakçının öhdəlikləri
 
-### 1.5.1. Mövcud təşkilatın (Organization) idarə edilməsi
+### 1.4.1. Mövcud təşkilatın (Organization) idarə edilməsi
 
 Mövcud təşkilatda aşağıdakı rollar mövcuddur. Təşkilata yeni iştirakçı əlavə etmək üçün [tural.nasirli@idda.az](mailto:tural.nasirli@idda.az) elektron poçtuna müraciət etməniz xahiş olunur.
 
@@ -805,35 +780,31 @@ Editor-un bütün funksiyalarını yerinə yetirə bilər.
 * Təşkilatı tamamilə silə bilər.
 
 
-#### 1.5.1.1. Təşkilat məlumatlarında düzəliş edilməsi
+#### 1.4.1.1. Təşkilat məlumatlarında düzəliş edilməsi
 
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
+1. "Açıq məlumatlar" portalının Məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.
-3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.
+3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün "İdarə et **(Manage)**" düyməsinə klikləyin.
 4. Lazım olan sahələri aşağıdakı cədvək əsasında dəyişdirin.
 
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
         <tr style="background-color: #d9e1f2; text-align: left;">
-            <th>Metaməlumat (İngiliscə)</th>
-            <th>Metaməlumat (Azərbaycanca)</th>
+            <th>Metaməlumat</th>
             <th>Açıqlaması</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>* Title</td>
-            <td>* Başlıq</td>
+            <td>* Başlıq (Title)</td>
             <td>Təşkilatın adı qeyd olunur</td>
         </tr>
         <tr>
-            <td>* Description</td>
-            <td>* Açıqlama</td>
+            <td>* Açıqlama (Description)</td>
             <td>Təşkilat haqqında məlumatlar qeyd olunur </td>
         </tr>
         <tr>
-            <td>* Image</td>
-            <td>* Şəkil</td>
+            <td>* Şəkil (Image)</td>
             <td>Təşkilatın şəkil və ya <a href="#">logosu</a> qeyd olunur. 43 x 43 piksel ölçüsündə olması məqsədə uyğundur.</td>
         </tr>
     </tbody>
@@ -841,42 +812,42 @@ Editor-un bütün funksiyalarını yerinə yetirə bilər.
 
 ###### Cədvəl 8
 
-5. Yeniləmələrinizi nəzərdən keçirin və dəyişiklikləri saxlamaq üçün Təşkilatı yeniləyin **(Update Organization)** düyməsinə klikləyin.
+5. Yeniləmələrinizi nəzərdən keçirin və dəyişiklikləri saxlamaq üçün "Təşkilatı yeniləyin **(Update Organization)**" düyməsinə klikləyin.
    
 #### Diqqət 1: 
 ##### * işarəsi ilə fərqləndirilmiş bölmələrdəki məlumatların daxil edilməsi zəruridir.
 
 #### Diqqət 2: 
-##### Təşkilat məlumatları ən azı bir dəfə təşkilatın məsul şəxsləri tərəfindən yenilənməlidir.
+##### Təşkilat məlumatları ən azı bir dəfə təşkilatın təyin etdiyi Admin tərəfindən yenilənməsi zəruridir.
 
-#### 1.5.1.2. Mövcud Təşkilatdakı memberləri (üzvləri) rollarını dəyişmək.
+#### 1.4.1.2. Mövcud Təşkilatdakı memberləri (üzvləri) rollarını dəyişmək.
 
 ##### Üsul 1
 
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
+1. "Açıq məlumatlar" portalının məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.  
-3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.  
+3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün "İdarə et **(Manage)** düyməsinə" klikləyin.  
 4. Üzvlər **(Members)** bölməsini seçin.
-5. Rolunu dəyişmək istədiyiniz iştirakçının qarşısında olan açar butonuna klikləyin.
-6. Rolunu uyğun rola (1.4.1 bölməsindən rollar barəsində məlumat ala bilərsiniz) dəyişdirdikdən sonra Üzvü yeniləyin **(Update Member)** butonuna klikləyək prosesi tamamlayın.
+5. Rolunu dəyişmək istədiyiniz iştirakçının qarşısında olan açar düyməsinə klikləyin.
+6. Rolunu uyğun rola (1.4.1 bölməsindən rollar barəsində məlumat ala bilərsiniz) dəyişdirdikdən sonra "Üzvü yeniləyin **(Update Member)**" düyməsinə klikləyək prosesi tamamlayın.
 
 ##### Üsul 2
 
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
+1. "Açıq məlumatlar" portalının məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.  
-3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.  
+3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün "İdarə et **(Manage)**" düyməsinə klikləyin.  
 4. Üzvlər **(Members)** bölməsini seçin.
-5. Üzv əlavə et **(Add Member)** butonuna klikləyin.
-6. Mövcud iştirakçı **(Existing user)** hissəsindən iştirakçı adını tapıb rolunu(1.4.1 bölməsindən rollar barəsində məlumat ala bilərsiniz) dəyişdirin.
-7. Üzv əlavə et **(Add Member)** butonuna klikləyərək iştirakçının rolunu dəyişin.
+5. "Üzv əlavə et **(Add Member)**" düyməsini klikləyin.
+6. Mövcud iştirakçı **(Existing user)** hissəsindən iştirakçı adını tapıb rolunu (1.4.1 bölməsindən rollar barəsində məlumat ala bilərsiniz) dəyişdirin.
+7. "Üzv əlavə et **(Add Member)**" düyməsinə klikləyərək iştirakçının rolunu dəyişin.
 
-#### 1.5.1.3. Mövcud Təşkilatdakı memberləri (üzvləri) silmək.
+#### 1.4.1.3. Mövcud Təşkilatdakı memberləri (üzvləri) silmək.
 
-1. Açıq məlumatlar portalının Məlumat idarəetmə sisteminə giriş edin.
+1. "Açıq məlumatlar" portalının məlumat idarəetmə sisteminə giriş edin.
 2. İdarəetmə sisteminə girişƏsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.  
-3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün İdarə et **(Manage)** düyməsinə klikləyin.  
+3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün "İdarə et **(Manage)**" düyməsinə klikləyin.  
 4. Üzvlər **(Members)** bölməsini seçin.
-5. Silmək istədiyiniz iştirakçının sağ tərəfində olan **X** butonuna klikləyin.
-6. Açılan Dialoq pəncərəsində Təsdiq et **(Confirm)** butonuna klikləyərək silmə prosesini tamamlayın.
+5. Silmək istədiyiniz iştirakçının sağ tərəfində olan "**X**" düyməsini klikləyin.
+6. Açılan Dialoq pəncərəsində "Təsdiq et **(Confirm)**" düyməsini klikləyərək silmə prosesini tamamlayın.
 
 
