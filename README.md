@@ -111,7 +111,7 @@ Bu bölmədə **İştirakçı** öz məlumatlarını görə və idarə edə bil�
 3. **Pasword** və **Confirm Password** hissəsinə yeni şifrənizi yazın.
 4. "Profili yeniləyin **(Update Profile)**" düyməsinə klik edərək İştirakçı hesabının şifrə yeniləmə prosesini tamamlayın.
 
-## 1.2. Üzv (Member) Roluna sahib İştirakçının öhdəlikləri
+## 1.2. Məlumat istifadəçisi (Member) Roluna sahib İştirakçının öhdəlikləri
 Üzv Təşkilatın gizli və ictimayətə açıq (məlumat idarəetmə sistemindən əlçatan olan) məlumat dəstlərini görə bilər.
 
 ### 1.2.1. Məlumat dəstinin metaməlumatlarına baxış keçirmək.
@@ -595,7 +595,7 @@ Bu funksiyaya Məlumat dəsti səviyyəsində icazələrin idarə edilməsi təm
 3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün "İdarət et **(Manage)**" düyməsinə klikləyin.
 4. Əməkdaşlar **(Collaborators)** bölməsini seçin.
 5. Rolunu dəyişmək istədiyiniz iştirakçının açar düyməsinə klikləyin.
-6. Rolunu uyğun olaraq Admin, Editor, Member’ə dəyişdirdikdən sonra "Əməkdaşı yeniləyin **(Update Collaborator)**" düyməsinə klikləyərək prosesi tamamlayaq.
+6. Rolunu uyğun olaraq Admin, editor, member’ə dəyişdirdikdən sonra "Əməkdaşı yeniləyin **(Update Collaborator)**" düyməsinə klikləyərək prosesi tamamlayaq.
 
 #### 1.3.3.3. Mövcud Məlumat dəstindən əməkdaşların silinməsi
 
@@ -728,7 +728,7 @@ Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün 
 
 Mövcud təşkilatda aşağıdakı rollar mövcuddur. Təşkilata yeni iştirakçı əlavə etmək üçün [tural.nasirli@idda.az](mailto:tural.nasirli@idda.az) elektron poçtuna müraciət etməniz xahiş olunur.
 
-#### Member (Üzv)	
+#### Məlumat istifadəçisi (member)
 Təşkilatın gizli və ictimayətə açıq (məlumat idarəetmə sistemindən əlçatan olan) məlumat dəstlərini görə bilər.
 
 #### Məlumat düzəlişçisi (Editor)	
@@ -742,7 +742,7 @@ Member-in bütün funksiyalarını yerinə yetirə bilər.
 Editor-un bütün funksiyalarını yerinə yetirə bilər.
 Əlavə olaraq:
 * Təşkilatdakı istənilən iştirakçının rolunu dəyişdirə bilər (digər Admin-lər də daxil olmaqla).
-* Member, Editor və ya digər Admin-ləri təşkilatdan silə bilər.
+* Member, editor və ya digər admin-ləri təşkilatdan silə bilər.
 * Təşkilat haqqında məlumatlarda düzəliş edə bilər (ad, təsvir, şəkil və s.).
 * Təşkilatı tamamilə silə bilər.
 
@@ -787,14 +787,14 @@ Editor-un bütün funksiyalarını yerinə yetirə bilər.
 #### Diqqət 2: 
 ##### Təşkilat məlumatları ən azı bir dəfə təşkilatın təyin etdiyi Admin tərəfindən yenilənməsi zəruridir.
 
-#### 1.4.1.2. Mövcud Təşkilatdakı memberləri (üzvləri) rollarını dəyişmək.
+#### 1.4.1.2. Mövcud Təşkilatdakı memberlərin rollarını dəyişmək.
 
 ##### Üsul 1
 
 1. "Açıq məlumatlar" portalının məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.  
 3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün "İdarə et **(Manage)** düyməsinə" klikləyin.  
-4. Üzvlər **(Members)** bölməsini seçin.
+4. Məlumat istifadəçisi **(Members)** bölməsini seçin.
 5. Rolunu dəyişmək istədiyiniz iştirakçının qarşısında olan açar düyməsinə klikləyin.
 6. Rolunu uyğun rola (1.4.1 bölməsindən rollar barəsində məlumat ala bilərsiniz) dəyişdirdikdən sonra "Üzvü yeniləyin **(Update Member)**" düyməsinə klikləyək prosesi tamamlayın.
 
@@ -803,7 +803,7 @@ Editor-un bütün funksiyalarını yerinə yetirə bilər.
 1. "Açıq məlumatlar" portalının məlumat idarəetmə sisteminə giriş edin.
 2. Əsas naviqasiya panelində Təşkilatlar **(Organizations)** bölməsinə klikləyin.  
 3. Məlumat dəstinin idarəetmə interfeysinə keçmək üçün "İdarə et **(Manage)**" düyməsinə klikləyin.  
-4. Üzvlər **(Members)** bölməsini seçin.
+4. Məlumat istifadəçisi **(Members)** bölməsini seçin.
 5. "Üzv əlavə et **(Add Member)**" düyməsini klikləyin.
 6. Mövcud iştirakçı **(Existing user)** hissəsindən iştirakçı adını tapıb rolunu (1.4.1 bölməsindən rollar barəsində məlumat ala bilərsiniz) dəyişdirin.
 7. "Üzv əlavə et **(Add Member)**" düyməsinə klikləyərək iştirakçının rolunu dəyişin.
