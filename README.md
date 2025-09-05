@@ -53,8 +53,7 @@ Təşkilatın gizli və ictimayətə açıq (məlumat idarəetmə sistemindən �
 #### Məlumat redaktoru (Editor)	
 Member-in bütün funksiyalarını yerinə yetirə bilir.
 Əlavə olaraq:
-* Təşkilata yeni Məlumat dəstləri əlavə edə bilir.
-* Təşkilatdakı istənilən Məlumat dəstində düzəliş edə və ya silə bilir.
+* Təşkilata yeni məlumat dəsti əlavə edə həmçinin, istənilən Məlumat dəstində düzəliş edə və ya silə bilir.
 * Məlumat dəstləri ictimayətə açıq və ya gizli edə bilir.
 
 #### Admin (İdarəçi)	
