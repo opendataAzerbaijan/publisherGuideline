@@ -355,7 +355,7 @@ Açıqlama: Bu resurs Sumqayıt şəhərindəki avtobus dayanacaqlarının yerl�
 
 ##### 2. * işarəsi ilə fərqləndirilmiş bölmələrdəki məlumatların daxil edilməsi zəruridir.
 
-#### 1.3.1.3. Portala daxil edilən məlumat dəstlərinin metaməlumatları və resursları üçün tövsiyələr: 
+### 1.3.1.3. Portala daxil edilən məlumat dəstlərinin metaməlumatları və resursları üçün tövsiyələr: 
 
 Açıq məlumatların keyfiyyətinin qorunması və istifadəçi təcrübəsini zənginləşdirmək üçün metaməlumatları və resurslarında aşağıdakı maddələrə əməl etməliyik.
 
