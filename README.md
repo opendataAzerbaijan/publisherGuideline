@@ -183,7 +183,7 @@ Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəy
         <tr>
             <td>* Məlumat dəstinin açıqlaması (Description)</td>
             <td>
-                Başlıqdan fərqli insanların məlumat dəstindən istifadə edərkən bilməli olduğu və onu izah edən məlumatlar. Bəzi məlumatlar varki məlumat dəstinin açıqlamasında qeyd olunması zəruridir.<br>
+                Məlumat dəstinin açıqlaması (description) məlumat dəstinin mövzusunu, əhatə etdiyi dövrü və istifadə məqsədini qısa və aydın şəkildə izah edən mətndir. Açıqlama kompakt (2–4 cümlə) olması tövsiyyə olunandır, istifadəçinin məlumat dəstinin məzmununu tez anlamağına yardım etməlidir. Markdown-dan istifadə edilərkən başlıq səviyyələri (H1, H2, H3) işlədilməməlidir, yalnız sadə mətn, qalın və kursiv vurğular, eləcə də qısa siyahılardan istifadə məqsədə uyğundur. Bəzi məlumatlar varki məlumat dəstinin açıqlamasında qeyd olunması zəruridir.<br>
                <ul>
                     <li><strong>Yenilənmə Tezliyi</strong> – Məlumatın hansı aralıqla yeniləndiyi (<em>1 saat, 1 gün, 1 həftə, 1 ay 3 ay, 6 ay 12 ay </em>) göstərilir.</li>
                     <li><strong>Əhatə Dairəsi</strong> – Hansı bölgəni və ya ölkəni əhatə etdiyi qeyd olunur (<em>məs. Bakı və ya Azərbaycan</em>).</li>
