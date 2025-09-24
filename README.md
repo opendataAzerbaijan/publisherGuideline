@@ -507,6 +507,10 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 4. "Silmək **(Delete)**" düyməsini klikləyin
 5. Açılan dialoq pəncərəsində "təsdiq et **(Confirm)**" düyməsini klikləyərək Məlumat dəstii silmə prosesini tamamlayın.
 
+
+#### Diqqət: 
+##### 1. Məlumat dəsti silinərkən bu barədə tural.nasirli@idda.az elektron poçtuna bu barədə məlumat verilməsi zəruridir. Bu addım silinmə səbəblərinin izlənməsi və məlumatların idarə olunmasında şəffaflığın qorunması üçün vacibdir. Bildiriş daxil olduqdan sonra silinmə prosesi yekunlaşdırılacaq.
+
 ### 1.3.2. Mövcud məlumat dəstinin resurslarının idarə olunması
 
 #### 1.3.2.1. Mövcud Məlumat dəstinə resursunun formatının təyin edilməsi.
