@@ -381,7 +381,7 @@ Açıq məlumatların keyfiyyətinin qorunması və istifadəçi təcrübəsini 
 
 10. Cədvəldə birləşdirilmiş xanalar və ya iki səviyyəli sütun başlıqları yer almamalıdır.
 
-11. Məlumat dəstinin resursun faylların adı (cədvəlin adı, excel fayl olarsa sheet (vərəq) adı) məlumat dəstinin məzmununa uyğun bir şəkildə adlanndırılmalıdır.
+11. Məlumat dəstinin resursun faylların adı (cədvəlin adı, excel fayl olarsa sheet (vərəq) adı) məlumat dəstinin məzmununa uyğun bir şəkildə adlandırılmalıdır.
 
 12. Boş və ya işləməyən resurs faylları yerləşdirilməməlidir.
     
