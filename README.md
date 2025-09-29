@@ -379,11 +379,13 @@ Açıq məlumatların keyfiyyətinin qorunması və istifadəçi təcrübəsini 
 
 9. Məlumat sütunlarında yer alan məlumatlar vahid formatda olmalıdır. 
 
-10. Cədvəldə birləşdirilmiş xanalar və ya iki səviyyəli sütun başlıqları yer almamalıdır. 
+10. Cədvəldə birləşdirilmiş xanalar və ya iki səviyyəli sütun başlıqları yer almamalıdır.
 
-11. Boş və ya işləməyən resurs faylları yerləşdirilməməlidir.
+11. Məlumat dəstinin resursun faylların adı (cədvəlin adı, excel fayl olarsa sheet (vərəq) adı) məlumat dəstinin məzmununa uyğun bir şəkildə adlanndırılmalıdır.
+
+12. Boş və ya işləməyən resurs faylları yerləşdirilməməlidir.
     
-12. Resurs UTF-8 formatında olmalıdır.
+13. Resurs UTF-8 formatında olmalıdır.
 
 
 ##### Metaməlumat
