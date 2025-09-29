@@ -371,7 +371,7 @@ Açıq məlumatların keyfiyyətinin qorunması və istifadəçi təcrübəsini 
 
 5. Məlumat dəsti maşın emalına uyğun formatdır (CSV, XML, JSON, RDF, API və s.), analiz və vizuallaşdırma üçün uyğun quruluşda olmaldır. 
 
-6. Məlumatı izah edən elementlərdə (sütun adı, açar sözlər, vərəq adı və.s) abreviatura yer almamaldır.
+6. Məlumatı izah edən elementlər (sütun adı, açar sözlər, vərəq adı və.s) boş qoyulmamalı və abreviatura yer almamaldır.
 
 7. Fərdi məlumatlar yer almamalıdır. 
 
