@@ -394,11 +394,11 @@ Açıq məlumatların keyfiyyətinin qorunması və istifadəçi təcrübəsini 
 
 2. Başlıq (Title) və Açıqlama (description) aydın qeyd olunmalı və bir-birindən fərqlənməlidir.
 
-3. Başlıq (Title) ilə Açıqlama (Description) Azərbaycanca, İngiliscə və Rusca qeyd olunmaldır. 
+3. Başlıq (Title) ilə Açıqlama (Description) Azərbaycanca, İngiliscə və Rusca qeyd olunmalıdır. 
 
 4. Açıqlamada (Description) məlumatın yenilənmə tezliyi (frequency) qeyd edilməlidir. 
 
-5. Məlumat dəstinin birdən artıq iştirakçısı (dövlət və ya özəl təşkilat) var və açıqlamada (description) qeyd olunmaldır. 
+5. Məlumat dəstinin birdən artıq iştirakçısı (dövlət və ya özəl təşkilat) var və açıqlamada (description) qeyd olunmalıdır. 
 
 6. Açıqlamada (Description) məlumat dəstinin əhatə dairəsi qeyd edilməlidir. (məsələn, Əhatə dairəsi: Bakı, Azərbaycan) 
 
