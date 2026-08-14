@@ -122,10 +122,6 @@ Bu bölmədə **İştirakçı** öz məlumatlarını görə və idarə edə bil�
 
 ##### 2. Bu bölmədə məlumat dəsti üzəridə edilən yeniləmələri dair xronoloji ardıcıllıq və həmçinində yeniləməni edən **İştirakçının adı** portal istifadəçilərinə görünür. Bu səbəblə **İştirakçı adı və digər məlumatlar düzgün** qeyd olunmalıdır.
 
-##### 3. Təşkilata yeni iştirakçı əlavə etmək üçün [tural.nasirli@idda.az](mailto:tural.nasirli@idda.az) elektron poçtuna müraciət etməniz xahiş olunur. 
-
-
-
 ### 1.1.4. İştirakçı hesabının şifrəsinin dəyişdirilməsi
 
 1. "Açıq məlumatlar" portalının Məlumat idarəetmə sisteminə giriş edin.
@@ -509,10 +505,6 @@ Bu lisenziya müəllif hüquqları ilə qorunan məzmunların, o cümlədən mə
 4. "Silmək **(Delete)**" düyməsini klikləyin
 5. Açılan dialoq pəncərəsində "təsdiq et **(Confirm)**" düyməsini klikləyərək Məlumat dəstii silmə prosesini tamamlayın.
 
-
-#### Diqqət: 
-##### 1. Məlumat dəsti silinərkən bu barədə tural.nasirli@idda.az elektron poçtuna bu barədə məlumat verilməsi zəruridir. Bu addım silinmə səbəblərinin izlənməsi və məlumatların idarə olunmasında şəffaflığın qorunması üçün vacibdir. Bildiriş daxil olduqdan sonra silinmə prosesi yekunlaşdırılacaq.
-
 ### 1.3.2. Mövcud məlumat dəstinin resurslarının idarə olunması
 
 #### 1.3.2.1. Mövcud Məlumat dəstinə resursunun formatının təyin edilməsi.
@@ -645,92 +637,7 @@ Bu funksiyaya Məlumat dəsti səviyyəsində icazələrin idarə edilməsi təm
 
 #### 1.3.4.3 API vasitəsi ilə məlumat dəstlərinin əlavə edilməsi
 
-**1\. Məlumat idarəetmə sistemində API-ə qoşulma və faylları ehtiva edən mənbə qovluq.**
-
-
-    # CKAN instance main URL
-    ckan_url = "<http://opendata-api.idda.az/api/3/action>"
-
-    # Package create – for creating dataset itself (without files, which later can contain any number of # files):
-    resource_create_url = ckan_url + "/resource_create"
-
-    # Resource create – for adding specific file with data into already created CKAN dataset:
-    package_create_url = ckan_url + "/package_create"
-
-    # Title translations are optional
-    trns_en = GoogleTranslator(source='az', target='en')
-    trns_ru = GoogleTranslator(source='az', target='ru')
-
-    # API key is unique for each publisher organization and generated/shared by CKAN Admin. Below is just an example
-    api_key = ("eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJmN2ExYmMyY2QzZTRlNWY2YTZiN2M4ZDllMGYxYTIiLCJpYXQiOjE3MzM5MTI0MDF9.jgbfdY76kkk")
-
-    # Defining that authorisation is made by API key
-    headers = {"Authorization": api_key}
-
-    # Your directory where required dataset files are located:
-    dir_path = '&lt;/your_directory_where_files_located&gt;'
-
-&nbsp;
-
-
-**2\. Məlumat dəstində metaməlumatların doldurulması üçün element adları.**
-
-
-     package_data = {
-
-    "\_csrf_token": "IjA1ODU0MmU2MGZjYmI4MmFjOTIxOTI0YzAxYzE3NGExYzBmYzU1ZDIi.Z1lN-A.t9BcCBwgWm1hSubcD_4SVO182uo",
-
-    "name": dataset_name,
-
-    "title_translated-az": dataset_title, # title in Azerbaijani
-
-    "title_translated-en": title_en, # title in English
-
-    "title_translated-ru": title_ru, # title in Russian
-
-    "url": dataset_name,  # Easy practice to generate URL is using dataset name
-
-    "owner_org": '9b44b52f-2116-48c8-9565-d9dc026dca8f',   # This ID is unique for each publisher  
-
-    # organization and share by CKAN admin
-
-    "license_id": 'notspecified',
-
-    "private": False, # if set False, it will be publicly available in portal
-
-    "tag_string": directory_name  # Easy practice to generate TAG is using directory name
-
-    }
-&nbsp; 
-
-**3**. **Məlumat dəstində konkret faylın metaməlumatlarının doldurulması üçün element adları**.
-
-    # Get the package ID from the response. Package is created code above, before resource.
-
-    package_id = package_response.json()\["result"\]\["id"\]
-
-    # Parameters for the resource
-
-    resource_data = {
-
-    "package_id": package_id,
-
-    "name": resource_name, # name of the file
-
-    "format": 'CSV', # as your file extensions (csv, json,etc)
-
-    "name_translated-az": resource_name,
-
-    "name_translated-en":title_en, # name of the file in English
-
-    "name_translated-ru":title_ru # name of the file in Russian
-
-    }  
-
-    
-Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün aşağıdakı rəsmi dokumentasiyalardan istifadə edə bilərsiniz.
-
-<https://docs.ckan.org/en/2.10/maintaining/filestore.html?highlight=resource_create#filestore-api>
+API açarından istifadə edərək məlumat dəstlərini yükləmək üçün aşağıdakı rəsmi təlimatlarda istifadə edə bilərsiniz.
 
 [API guide — CKAN 2.10.7 documentation](https://docs.ckan.org/en/2.10/api/index.html)
 
@@ -808,5 +715,3 @@ Bu API açarından istifadə edərək məlumat dəstlərini yükləmək üçün 
 4. Üzvlər **(Members)** bölməsini seçin.
 5. Silmək istədiyiniz iştirakçının sağ tərəfində olan "**X**" düyməsini klikləyin.
 6. Açılan Dialoq pəncərəsində "Təsdiq et **(Confirm)**" düyməsini klikləyərək silmə prosesini tamamlayın.
-
-
