@@ -287,7 +287,7 @@ Qeyd: Verilən ad məlumat dəstində hər hansı yenilənmə olduğu halda dəy
 8. Məlumatları yenidən nəzərdən keçirin və bitir **(Finish)** və ya "yenisini əlavə et **(Save & add another)**" düyməsinə klikləyərək əməliyyatı tamamlayın.
 
 #### Diqqət: 
-##### 1. Məlumat dəsti gizli rejimdə əlavə edilməli və rəy verilməsi üçün <tural.nasirli@idda.az> elektron poçtuna məlumat verilməsi zəruridir. Verilən rəyə uyğun düzəlişlər tamamlandıqdan sonra ictimayətə açıq edilə bilər.
+##### 1. Məlumat dəsti gizli rejimdə əlavə edilməli və təlimat tələblərə uyğunluq rəyi verilməsi üçün <opendata@idda.az> elektron poçtuna "Qiymətləndirmə - Dövlət orqanının (qurumunun) adı" başlığı əlavə etməklə müraciət edilməlidir. Verilən rəyə uyğun düzəlişlər tamamlandıqdan sonra ictimayətə açıq edilə bilər.
 
 ##### 2. * işarəsi ilə fərqləndirilmiş bölmələrdəki məlumatların daxil edilməsi zəruridir.
 
